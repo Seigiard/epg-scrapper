@@ -1,5 +1,5 @@
 const express = require('express');
-const { generateEpgXml } = require('./src/services/epgService');
+const { generateEpgXml } = require('./src/generateEpgXml');
 
 const app = express();
 const PORT = process.env.PORT || 3000;
