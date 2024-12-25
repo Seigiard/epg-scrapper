@@ -16,5 +16,6 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add docs/epg.xml
-          git status --porcelain && git commit -m "generated epg $(date '+%Y-%m-%d %H:%M:%S')" || exit 0
+          git commit -m "generated epg $(date '+%Y-%m-%d %H:%M:%S')"
           git push
+          exit 0
