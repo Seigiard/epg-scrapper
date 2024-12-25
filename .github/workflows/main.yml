@@ -8,8 +8,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Check build
-        id: check
+      - name: Generate EPG
         run: |
           npm i
           node index.js docs/epg.xml
@@ -20,7 +19,7 @@ jobs:
           fi
 
       - uses: actions/checkout@v4
-      - name: Checkout
+      - name: Commit changes
         if: steps.check.outputs.should_commit == 'true'
         run: |
           npm i
