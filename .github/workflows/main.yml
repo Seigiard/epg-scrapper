@@ -1,7 +1,7 @@
 name: Cron Action
 on:
   schedule:
-    - cron: '0 */4 * * *'
+    - cron: '*/10 * * * *'
 permissions:
   contents: write
 jobs:
@@ -11,9 +11,9 @@ jobs:
       - uses: actions/checkout@v4
       - run: |
           npm i
-          node index.js public/epg.xml
+          node index.js docs/epg.xml
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add public/epg.xml
+          git add docs/epg.xml
           git commit -m "generated epg"
           git push
