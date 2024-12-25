@@ -8,7 +8,7 @@ const CONFIG = {
     programs: 'https://services.mujtvprogram.cz/tvprogram2services/services/tvprogrammelist_mobile.php',
     channels: 'https://services.mujtvprogram.cz/tvprogram2services/services/tvchannellist_mobile.php'
   },
-  TIMEZONE_OFFSET: '+0100'
+  TIMEZONE_OFFSET: '+0000'
 }
 
 async function generateEpgXml() {
