@@ -2,30 +2,23 @@ name: Cron Action
 on:
   schedule:
     - cron: '*/5 * * * *'
+    # - cron: '0 */6 * * *'
 permissions:
   contents: write
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate EPG
-        run: |
+      - uses: actions/checkout@v4
+      - run: |
           npm i
           node index.js docs/epg.xml
           if [ git status --porcelain ]; then
-            echo "::set-output name=should_commit::true"
+            git config user.name github-actions
+            git config user.email github-actions@github.com
+            git add docs/epg.xml
+            git commit -m "generated epg $(date '+%Y-%m-%d %H:%M:%S')"
+            git push
           else
-            echo "::set-output name=should_commit::false"
+            exit 0
           fi
-
-      - uses: actions/checkout@v4
-      - name: Commit changes
-        if: steps.check.outputs.should_commit == 'true'
-        run: |
-          npm i
-          node index.js docs/epg.xml
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add docs/epg.xml
-          git commit -m "generated epg $(date '+%Y-%m-%d %H:%M:%S')"
-          git push
