@@ -1,17 +1,32 @@
 name: Cron Action
 on:
   schedule:
-    - cron: '* */4 * * *'
+    - cron: '*/5 * * * *'
 permissions:
   contents: write
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Check build
+        id: check
+        run: |
+          npm i
+          node index.js docs/epg.xml
+          if [ git status --porcelain ]; then
+            echo "::set-output name=should_commit::true"
+          else
+            echo "::set-output name=should_commit::false"
+          fi
+
       - uses: actions/checkout@v4
-      - run: |
+      - name: Checkout
+        if: steps.check.outputs.should_run == 'true'
+        run: |
           npm i
           node index.js docs/epg.xml
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git status --porcelain && git add docs/epg.xml && git commit -m "generated epg" && git push
+          git add docs/epg.xml
+          git commit -m "generated epg $(date '+%Y-%m-%d %H:%M:%S')"
+          git push || exit 0
