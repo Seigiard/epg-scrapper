@@ -1,4 +1,3 @@
-const axios = require('axios');
 const cheerio = require('cheerio');
 
 const CONFIG = {
@@ -33,8 +32,9 @@ async function generateEpgXml() {
 async function fetchChannelList(channelIds) {
   try {
     const channelParam = channelIds.join(',');
-    const response = await axios.get(`${CONFIG.BASE_URLS.channels}?channel_cid_arr=${channelParam}`);
-    return response.data;
+    const response = await fetch(`${CONFIG.BASE_URLS.channels}?channel_cid_arr=${channelParam}`);
+    const data = await response.text();
+    return data;
   } catch (error) {
     console.error('Error fetching channel list:', error.message);
     return null;
@@ -43,8 +43,9 @@ async function fetchChannelList(channelIds) {
 
 async function fetchChannelProgramsXml(channelId) {
   try {
-    const response = await axios.get(`${CONFIG.BASE_URLS.programs}?channel_cid=${channelId}`);
-    return response.data;
+    const response = await fetch(`${CONFIG.BASE_URLS.programs}?channel_cid=${channelId}`);
+    const data = await response.text();
+    return data;
   } catch (error) {
     console.error(`Error fetching channel ${channelId}:`, error.message);
     return null;
