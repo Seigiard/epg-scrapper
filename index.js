@@ -1,14 +1,16 @@
-import fs from 'fs';
-import { generateEpgXml } from './src/generateEpgXml.js';
+const fs = require('fs');
+const { generateEpgXml } = require('./src/generateEpgXml.js');
 
-const xml = await generateEpgXml();
+generateEpgXml().then(xml => {
+  const args = process.argv.slice(2);
+  const [file] = args
 
-const args = process.argv.slice(2);
-const [ file ]= args
-
-try {
+  try {
     fs.writeFileSync(file, xml, 'utf8');
     console.log('File has been written successfully');
-} catch (err) {
+  } catch (err) {
     console.error('Error writing file:', err);
-}
+  }
+}).catch(error => {
+  console.error('Error generating EPG data:', error.message);
+});
