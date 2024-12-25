@@ -14,6 +14,4 @@ jobs:
           node index.js docs/epg.xml
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add docs/epg.xml
-          git commit -m "generated epg"
-          git push
+          git status --porcelain && git add docs/epg.xml && git commit -m "generated epg" && git push
