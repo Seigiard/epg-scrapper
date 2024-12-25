@@ -13,12 +13,8 @@ jobs:
       - run: |
           npm ci
           node index.js docs/epg.xml
-          if [ git status --porcelain ]; then
-            git config user.name github-actions
-            git config user.email github-actions@github.com
-            git add docs/epg.xml
-            git commit -m "generated epg $(date '+%Y-%m-%d %H:%M:%S')"
-            git push
-          else
-            exit 0
-          fi
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add docs/epg.xml
+          git status --porcelain && git commit -m "generated epg $(date '+%Y-%m-%d %H:%M:%S')" || exit 0
+          git push
