@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: |
-          npm i
+          npm ci
           node index.js docs/epg.xml
           if [ git status --porcelain ]; then
             git config user.name github-actions
