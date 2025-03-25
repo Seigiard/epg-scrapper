@@ -7,14 +7,8 @@
 <channel id="308"><display-name lang="Slovakia">Dajto</display-name></channel>
 <channel id="1017"><display-name lang="Slovakia">Markíza Krimi</display-name></channel>
 <channel id="1114"><display-name lang="Slovakia">Markíza KLASIK</display-name></channel>
-      <programme channel="180" start="20250325050500 +0000" stop="20250325051000 +0000">
-    <title>Zázračný miniateliér</title><desc></desc><date>25.03.2025</date>
-  </programme>
-<programme channel="180" start="20250325051000 +0000" stop="20250325052500 +0000">
+      <programme channel="180" start="20250325051000 +0000" stop="20250325052000 +0000">
     <title>Môj zvierací miláčik: Príbehy z veterinárnej kliniky II</title><desc></desc><date>25.03.2025</date>
-  </programme>
-<programme channel="180" start="20250325052500 +0000" stop="20250325053000 +0000">
-    <title>Danka a Janka</title><desc></desc><date>25.03.2025</date>
   </programme>
 <programme channel="180" start="20250325053000 +0000" stop="20250325054000 +0000">
     <title>Danka a Janka</title><desc></desc><date>25.03.2025</date>
@@ -22,14 +16,14 @@
 <programme channel="180" start="20250325054000 +0000" stop="20250325055000 +0000">
     <title>Kniha džunglí II</title><desc></desc><date>25.03.2025</date>
   </programme>
-<programme channel="180" start="20250325055000 +0000" stop="20250325060500 +0000">
+<programme channel="180" start="20250325055000 +0000" stop="20250325060000 +0000">
     <title>Billy - škrečok, ktorý zostal kovbojom</title><desc></desc><date>25.03.2025</date>
-  </programme>
-<programme channel="180" start="20250325060500 +0000" stop="20250325063000 +0000">
-    <title>Lassie - Nové dobrodružstvá</title><desc></desc><date>25.03.2025</date>
   </programme>
 <programme channel="180" start="20250325070500 +0000" stop="20250325073000 +0000">
     <title>Dobrý deň, Patria - rusínsky</title><desc></desc><date>25.03.2025</date>
+  </programme>
+<programme channel="180" start="20250325080000 +0000" stop="20250325085500 +0000">
+    <title>Regina</title><desc></desc><date>25.03.2025</date>
   </programme>
 <programme channel="180" start="20250325103000 +0000" stop="20250325104000 +0000">
     <title>Obedníček</title><desc></desc><date>25.03.2025</date>
@@ -64,20 +58,11 @@
 <programme channel="180" start="20250325165500 +0000" stop="20250325173000 +0000">
     <title>VAT</title><desc></desc><date>25.03.2025</date>
   </programme>
-<programme channel="180" start="20250325173000 +0000" stop="20250325174000 +0000">
-    <title>Večerníček</title><desc></desc><date>25.03.2025</date>
-  </programme>
 <programme channel="180" start="20250325174000 +0000" stop="20250325174500 +0000">
     <title>Sam a Júlia z Myšieho domu</title><desc></desc><date>25.03.2025</date>
   </programme>
-<programme channel="180" start="20250325174500 +0000" stop="20250325175500 +0000">
+<programme channel="180" start="20250325174500 +0000" stop="20250325180000 +0000">
     <title>Kniha džunglí II</title><desc></desc><date>25.03.2025</date>
-  </programme>
-<programme channel="180" start="20250325175500 +0000" stop="20250325180500 +0000">
-    <title>Billy - škrečok, ktorý zostal kovbojom</title><desc></desc><date>25.03.2025</date>
-  </programme>
-<programme channel="180" start="20250325180500 +0000" stop="20250325183000 +0000">
-    <title>Lassie - Nové dobrodružstvá</title><desc></desc><date>25.03.2025</date>
   </programme>
 <programme channel="180" start="20250325184500 +0000" stop="20250325190000 +0000">
     <title>Zázračný miniateliér</title><desc></desc><date>25.03.2025</date>
@@ -88,26 +73,41 @@
 <programme channel="180" start="20250325200500 +0000" stop="20250325210500 +0000">
     <title>Záhadné kolové stavby kamennej doby</title><desc></desc><date>25.03.2025</date>
   </programme>
-<programme channel="180" start="20250325230200 +0000" stop="20250325230400 +0000">
-    <title>Hymna SR</title><desc></desc><date>25.03.2025</date>
-  </programme>
 <programme channel="180" start="20250325073000 +0000" stop="20250325080000 +0000">
     <title>Od prameňa - Rusínsky</title><desc></desc><date>25.03.2025</date>
   </programme>
 <programme channel="180" start="20250325113000 +0000" stop="20250325120500 +0000">
     <title>Experiment</title><desc></desc><date>25.03.2025</date>
   </programme>
-<programme channel="180" start="20250325220500 +0000" stop="20250325230200 +0000">
-    <title>Spomíname na Kornela Földváriho</title><desc></desc><date>25.03.2025</date>
+<programme channel="180" start="20250325050000 +0000" stop="20250325051000 +0000">
+    <title>Zázračný miniateliér</title><desc></desc><date>25.03.2025</date>
+  </programme>
+<programme channel="180" start="20250325052000 +0000" stop="20250325053000 +0000">
+    <title>Danka a Janka</title><desc></desc><date>25.03.2025</date>
+  </programme>
+<programme channel="180" start="20250325060000 +0000" stop="20250325063000 +0000">
+    <title>Lassie - Nové dobrodružstvá</title><desc></desc><date>25.03.2025</date>
+  </programme>
+<programme channel="180" start="20250325173000 +0000" stop="20250325174000 +0000">
+    <title>Večerníček</title><desc></desc><date>25.03.2025</date>
+  </programme>
+<programme channel="180" start="20250325180000 +0000" stop="20250325181000 +0000">
+    <title>Billy - škrečok, ktorý zostal kovbojom</title><desc></desc><date>25.03.2025</date>
+  </programme>
+<programme channel="180" start="20250325181000 +0000" stop="20250325183000 +0000">
+    <title>Lassie - Nové dobrodružstvá</title><desc></desc><date>25.03.2025</date>
+  </programme>
+<programme channel="180" start="20250325220500 +0000" stop="20250325230100 +0000">
+    <title>Ešte si s Kornelom chvíľu pobudnúť</title><desc>Týmto dokumentom sa prehlbuje obraz o „mladom starcovi“ Kornelovi Földvárim, ktorého spôsob existencie a rôznorodosť aktivít môže byť zaujímavým prínosom aj pre mladú generáciu. "Dobrý človek je ten, ktorému môžete dôverovať’. A Kornelovi môžete dôverovať’." Povedala o ňom jeho manželka. Kornel Földvári o sebe: "Bol som tučný chlapček zvyknutý predovšetkým čítať’. Ja som si lepšie rozumel s mamou." " Aj počas tých najhorších udalostí cez vojnu som sa doma cítil bezpečne. Rodina držala spolu, vedel som , že nikto nikoho neopustí." " Pre mňa najcennejšia kvalita rodinného života je ten pocit istoty a spolupatričnosti, ktorý nezávisí od blahobytu."</desc><date>25.03.2025</date>
+  </programme>
+<programme channel="180" start="20250325230100 +0000" stop="20250325230300 +0000">
+    <title>Hymna SR</title><desc></desc><date>25.03.2025</date>
   </programme>
 <programme channel="180" start="20250325063000 +0000" stop="20250325070000 +0000">
     <title>Živá panoráma</title><desc></desc><date>25.03.2025</date>
   </programme>
 <programme channel="180" start="20250325070000 +0000" stop="20250325070500 +0000">
     <title>Hírek</title><desc></desc><date>25.03.2025</date>
-  </programme>
-<programme channel="180" start="20250325080000 +0000" stop="20250325085500 +0000">
-    <title>Regina</title><desc></desc><date>25.03.2025</date>
   </programme>
 <programme channel="180" start="20250325085500 +0000" stop="20250325103000 +0000">
     <title>Dvakrát do tej istej rieky</title><desc></desc><date>25.03.2025</date>
@@ -127,14 +127,14 @@
 <programme channel="180" start="20250325190700 +0000" stop="20250325191000 +0000">
     <title>Informácia pre tipujúcich: KENO 10, Keno Joker, Euromilióny, Euromilióny Joker</title><desc></desc><date>25.03.2025</date>
   </programme>
-<programme channel="180" start="20250325230400 +0000" stop="20250325235000 +0000">
-    <title>Správy</title><desc></desc><date>25.03.2025</date>
-  </programme>
 <programme channel="180" start="20250325235000 +0000" stop="20250326001000 +0000">
     <title>Hírek</title><desc></desc><date>25.03.2025</date>
   </programme>
 <programme channel="180" start="20250325210500 +0000" stop="20250325220500 +0000">
-    <title>Večera s Havranom</title><desc></desc><date>25.03.2025</date>
+    <title>Večera s Havranom</title><desc>Na prelome 19.a 20. storočia sa svet zrýchlil a modernizoval. Košičan Béla Gerster navrhuje Pamanský a Koryntský prieplav, vznikajú nové krajiny, mizne Habsburgovská monarchia. Ivan Dérer, minister československej vlády začne s budovaním desiatok škôl. Svet sa prepája a vzdeláva, súčasťou stredoeurópskej moderny a modernizácie sú aj Gerster a Dérer, piliere nového tempa. Hostia: Tomáš Jahelka, filozof, politológ Mikuláš Jančura, univerzitný docent, historik</desc><date>25.03.2025</date>
+  </programme>
+<programme channel="180" start="20250325230300 +0000" stop="20250325235000 +0000">
+    <title>Správy</title><desc></desc><date>25.03.2025</date>
   </programme>,<programme channel="181" start="20250325043000 +0000" stop="20250325060000 +0000">
     <title>Dámsky klub</title><desc></desc><date>25.03.2025</date>
   </programme>
