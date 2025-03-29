@@ -101,12 +101,24 @@ function formatTimestamp(timestamp) {
 
 function tplProgramXml({ channelId, start, stop, title, desc, date }) {
   return `<programme channel="${channelId}" start="${start} ${CONFIG.TIMEZONE_OFFSET}" stop="${stop} ${CONFIG.TIMEZONE_OFFSET}">
-    <title>${title}</title><desc>${desc}</desc><date>${date}</date>
+    <title>${escapeHtml(title)}</title><desc>${escapeHtml(desc)}</desc><date>${date}</date>
   </programme>`
 }
 
 function tplChannelXml({ id, name }) {
-  return `<channel id="${id}"><display-name lang="Slovakia">${name}</display-name></channel>`
+  return `<channel id="${id}"><display-name lang="Slovakia">${escapeHtml(name)}</display-name></channel>`
+}
+
+function escapeHtml(input) {
+    const specialChars = {
+        '&': '&amp;',
+        '<': '&lt;',
+        '>': '&gt;',
+        '"': '&quot;',
+        "'": '&#39;', // The apostrophe can also be replaced using this for HTML.
+    };
+
+    return input.replace(/[&<>"']/g, (match) => specialChars[match]);
 }
 
 module.exports = { generateEpgXml };
