@@ -7,20 +7,8 @@
 <channel id="308"><display-name lang="Slovakia">Dajto</display-name></channel>
 <channel id="1017"><display-name lang="Slovakia">Markíza Krimi</display-name></channel>
 <channel id="1114"><display-name lang="Slovakia">Markíza KLASIK</display-name></channel>
-      <programme channel="180" start="20250415042500 +0000" stop="20250415043000 +0000">
-    <title>Danka a Janka</title><desc></desc><date>15.04.2025</date>
-  </programme>
-<programme channel="180" start="20250415043000 +0000" stop="20250415044000 +0000">
-    <title>Danka a Janka</title><desc></desc><date>15.04.2025</date>
-  </programme>
-<programme channel="180" start="20250415044000 +0000" stop="20250415045000 +0000">
-    <title>Kniha džunglí III</title><desc></desc><date>15.04.2025</date>
-  </programme>
-<programme channel="180" start="20250415045000 +0000" stop="20250415050500 +0000">
-    <title>Billy - škrečok, ktorý zostal kovbojom</title><desc></desc><date>15.04.2025</date>
-  </programme>
-<programme channel="180" start="20250415050500 +0000" stop="20250415053000 +0000">
-    <title>Lassie - Nové dobrodružstvá II</title><desc></desc><date>15.04.2025</date>
+      <programme channel="180" start="20250415060000 +0000" stop="20250415060500 +0000">
+    <title>Hírek</title><desc></desc><date>15.04.2025</date>
   </programme>
 <programme channel="180" start="20250415060500 +0000" stop="20250415063000 +0000">
     <title>Dobrý deň, Patria - ukrajinsky</title><desc></desc><date>15.04.2025</date>
@@ -28,11 +16,11 @@
 <programme channel="180" start="20250415063000 +0000" stop="20250415070000 +0000">
     <title>Dobrý deň, Patria - rusínsky</title><desc></desc><date>15.04.2025</date>
   </programme>
-<programme channel="180" start="20250415093000 +0000" stop="20250415093500 +0000">
-    <title>Obedníček</title><desc></desc><date>15.04.2025</date>
+<programme channel="180" start="20250415070000 +0000" stop="20250415080000 +0000">
+    <title>Regina</title><desc></desc><date>15.04.2025</date>
   </programme>
-<programme channel="180" start="20250415093500 +0000" stop="20250415094500 +0000">
-    <title>Sam a Júlia z Myšieho domu</title><desc></desc><date>15.04.2025</date>
+<programme channel="180" start="20250415093000 +0000" stop="20250415094000 +0000">
+    <title>Obedníček</title><desc></desc><date>15.04.2025</date>
   </programme>
 <programme channel="180" start="20250415094500 +0000" stop="20250415095500 +0000">
     <title>Pa a Pi</title><desc></desc><date>15.04.2025</date>
@@ -52,11 +40,8 @@
 <programme channel="180" start="20250415140000 +0000" stop="20250415143000 +0000">
     <title>Vulkány</title><desc></desc><date>15.04.2025</date>
   </programme>
-<programme channel="180" start="20250415153000 +0000" stop="20250415155500 +0000">
+<programme channel="180" start="20250415153000 +0000" stop="20250415160000 +0000">
     <title>Autosalón</title><desc></desc><date>15.04.2025</date>
-  </programme>
-<programme channel="180" start="20250415155500 +0000" stop="20250415163000 +0000">
-    <title>VAT</title><desc></desc><date>15.04.2025</date>
   </programme>
 <programme channel="180" start="20250415163000 +0000" stop="20250415164000 +0000">
     <title>Večerníček</title><desc></desc><date>15.04.2025</date>
@@ -67,35 +52,53 @@
 <programme channel="180" start="20250415164500 +0000" stop="20250415165500 +0000">
     <title>Kniha džunglí III</title><desc></desc><date>15.04.2025</date>
   </programme>
-<programme channel="180" start="20250415165500 +0000" stop="20250415170500 +0000">
+<programme channel="180" start="20250415165500 +0000" stop="20250415171000 +0000">
     <title>Billy - škrečok, ktorý zostal kovbojom</title><desc></desc><date>15.04.2025</date>
   </programme>
-<programme channel="180" start="20250415170500 +0000" stop="20250415173000 +0000">
+<programme channel="180" start="20250415190000 +0000" stop="20250415195000 +0000">
+    <title>Druhá svetová vojna: Čierna kniha (2/2)</title><desc></desc><date>15.04.2025</date>
+  </programme>
+<programme channel="180" start="20250415103000 +0000" stop="20250415110500 +0000">
+    <title>Experiment</title><desc></desc><date>15.04.2025</date>
+  </programme>
+<programme channel="180" start="20250415195000 +0000" stop="20250415205000 +0000">
+    <title>Večera s Havranom</title><desc></desc><date>15.04.2025</date>
+  </programme>
+<programme channel="180" start="20250415041500 +0000" stop="20250415042500 +0000">
+    <title>Danka a Janka</title><desc></desc><date>15.04.2025</date>
+  </programme>
+<programme channel="180" start="20250415042500 +0000" stop="20250415043500 +0000">
+    <title>Danka a Janka</title><desc></desc><date>15.04.2025</date>
+  </programme>
+<programme channel="180" start="20250415043500 +0000" stop="20250415044500 +0000">
+    <title>Kniha džunglí III</title><desc></desc><date>15.04.2025</date>
+  </programme>
+<programme channel="180" start="20250415044500 +0000" stop="20250415045500 +0000">
+    <title>Billy - škrečok, ktorý zostal kovbojom</title><desc></desc><date>15.04.2025</date>
+  </programme>
+<programme channel="180" start="20250415045500 +0000" stop="20250415053000 +0000">
+    <title>Lassie - Nové dobrodružstvá II</title><desc></desc><date>15.04.2025</date>
+  </programme>
+<programme channel="180" start="20250415094000 +0000" stop="20250415094500 +0000">
+    <title>Sam a Júlia z Myšieho domu</title><desc></desc><date>15.04.2025</date>
+  </programme>
+<programme channel="180" start="20250415171000 +0000" stop="20250415173000 +0000">
     <title>Lassie - Nové dobrodružstvá II</title><desc></desc><date>15.04.2025</date>
   </programme>
 <programme channel="180" start="20250415181000 +0000" stop="20250415190000 +0000">
     <title>Druhá svetová vojna: Čierna kniha (1/2)</title><desc></desc><date>15.04.2025</date>
   </programme>
-<programme channel="180" start="20250415190000 +0000" stop="20250415195000 +0000">
-    <title>Druhá svetová vojna: Čierna kniha (2/2)</title><desc></desc><date>15.04.2025</date>
-  </programme>
-<programme channel="180" start="20250415204500 +0000" stop="20250415220800 +0000">
+<programme channel="180" start="20250415205000 +0000" stop="20250415221600 +0000">
     <title>Švédi z osady</title><desc>Osudy troch rómskych zverencov detského domova, ktorí dostali druhú šancu prežiť plnohodnotne svoje detstvo v novej rodine vo vzdialenom Švédsku a po rokoch spoznať aj svojich biologických rodičov. Alexander, Christofer a Erik sa teda po rokoch znova vrátili na Slovensko, aby sa dozvedeli, odkiaľ pochádzajú a kto sú ich biologickí rodičia, kto sú ich súrodenci, ktorých vlastne vôbec nepoznajú?! Dojímavý príbeh troch rodín zo Slovenska, ktoré sa dobrovoľne vzdali svojich detí, aby ich tri rodiny vo vzdialenom Švédsku prijali s láskou do svojho náručia a ponúkli im nový, lepší život.</desc><date>15.04.2025</date>
   </programme>
-<programme channel="180" start="20250415220800 +0000" stop="20250415221000 +0000">
+<programme channel="180" start="20250415221600 +0000" stop="20250415221800 +0000">
     <title>Hymna SR</title><desc></desc><date>15.04.2025</date>
   </programme>
-<programme channel="180" start="20250415041000 +0000" stop="20250415042500 +0000">
-    <title>Ja a moja rodina</title><desc></desc><date>15.04.2025</date>
+<programme channel="180" start="20250415230500 +0000" stop="20250415232000 +0000">
+    <title>Hírek</title><desc></desc><date>15.04.2025</date>
   </programme>
 <programme channel="180" start="20250415053000 +0000" stop="20250415060000 +0000">
     <title>Živá panoráma</title><desc></desc><date>15.04.2025</date>
-  </programme>
-<programme channel="180" start="20250415060000 +0000" stop="20250415060500 +0000">
-    <title>Hírek</title><desc></desc><date>15.04.2025</date>
-  </programme>
-<programme channel="180" start="20250415070000 +0000" stop="20250415080000 +0000">
-    <title>Regina</title><desc></desc><date>15.04.2025</date>
   </programme>
 <programme channel="180" start="20250415080000 +0000" stop="20250415093000 +0000">
     <title>Farba tvojich očí</title><desc></desc><date>15.04.2025</date>
@@ -118,17 +121,14 @@
 <programme channel="180" start="20250415180700 +0000" stop="20250415181000 +0000">
     <title>Informácia pre tipujúcich: KENO 10, Keno Joker, Euromilióny, Euromilióny Joker</title><desc></desc><date>15.04.2025</date>
   </programme>
-<programme channel="180" start="20250415221000 +0000" stop="20250415230000 +0000">
+<programme channel="180" start="20250415040500 +0000" stop="20250415041500 +0000">
+    <title>Ja a moja rodina</title><desc></desc><date>15.04.2025</date>
+  </programme>
+<programme channel="180" start="20250415160000 +0000" stop="20250415163000 +0000">
+    <title>Stopy dávnej minulosti</title><desc></desc><date>15.04.2025</date>
+  </programme>
+<programme channel="180" start="20250415221800 +0000" stop="20250415230500 +0000">
     <title>Správy</title><desc></desc><date>15.04.2025</date>
-  </programme>
-<programme channel="180" start="20250415230000 +0000" stop="20250415232000 +0000">
-    <title>Hírek</title><desc></desc><date>15.04.2025</date>
-  </programme>
-<programme channel="180" start="20250415103000 +0000" stop="20250415110500 +0000">
-    <title>Experiment</title><desc></desc><date>15.04.2025</date>
-  </programme>
-<programme channel="180" start="20250415195000 +0000" stop="20250415204500 +0000">
-    <title>Večera s Havranom</title><desc></desc><date>15.04.2025</date>
   </programme>,<programme channel="181" start="20250415032500 +0000" stop="20250415050000 +0000">
     <title>Dámsky klub</title><desc></desc><date>15.04.2025</date>
   </programme>
