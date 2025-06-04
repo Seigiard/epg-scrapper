@@ -7,11 +7,8 @@
 <channel id="308"><display-name lang="Slovakia">Dajto</display-name></channel>
 <channel id="1017"><display-name lang="Slovakia">Markíza Krimi</display-name></channel>
 <channel id="1114"><display-name lang="Slovakia">Markíza KLASIK</display-name></channel>
-      <programme channel="180" start="20250604040000 +0000" stop="20250604041000 +0000">
+      <programme channel="180" start="20250604040000 +0000" stop="20250604040500 +0000">
     <title>Zázračný miniateliér</title><desc></desc><date>04.06.2025</date>
-  </programme>
-<programme channel="180" start="20250604041000 +0000" stop="20250604042500 +0000">
-    <title>NAJpátrači</title><desc></desc><date>04.06.2025</date>
   </programme>
 <programme channel="180" start="20250604042500 +0000" stop="20250604043000 +0000">
     <title>Danka a Janka</title><desc></desc><date>04.06.2025</date>
@@ -27,6 +24,9 @@
   </programme>
 <programme channel="180" start="20250604050000 +0000" stop="20250604053000 +0000">
     <title>Lexi a Lottie</title><desc></desc><date>04.06.2025</date>
+  </programme>
+<programme channel="180" start="20250604060000 +0000" stop="20250604060500 +0000">
+    <title>Hírek</title><desc></desc><date>04.06.2025</date>
   </programme>
 <programme channel="180" start="20250604063000 +0000" stop="20250604070000 +0000">
     <title>Profily - Arcélek</title><desc></desc><date>04.06.2025</date>
@@ -94,20 +94,26 @@
 <programme channel="180" start="20250604221800 +0000" stop="20250604222000 +0000">
     <title>Hymna SR</title><desc></desc><date>04.06.2025</date>
   </programme>
+<programme channel="180" start="20250604231000 +0000" stop="20250604233000 +0000">
+    <title>Hírek</title><desc></desc><date>04.06.2025</date>
+  </programme>
 <programme channel="180" start="20250604103500 +0000" stop="20250604110000 +0000">
     <title>Európska kaviareň: Viedeň (Martin Pollack)</title><desc></desc><date>04.06.2025</date>
   </programme>
 <programme channel="180" start="20250604195500 +0000" stop="20250604204500 +0000">
     <title>Do kríža</title><desc></desc><date>04.06.2025</date>
   </programme>
+<programme channel="180" start="20250604040500 +0000" stop="20250604042500 +0000">
+    <title>NAJpátrači</title><desc></desc><date>04.06.2025</date>
+  </programme>
+<programme channel="180" start="20250604060500 +0000" stop="20250604063000 +0000">
+    <title>Dobrý deň, Patria - maďarsky</title><desc></desc><date>04.06.2025</date>
+  </programme>
+<programme channel="180" start="20250604211000 +0000" stop="20250604212000 +0000">
+    <title>Arténa</title><desc></desc><date>04.06.2025</date>
+  </programme>
 <programme channel="180" start="20250604053000 +0000" stop="20250604060000 +0000">
     <title>Živá panoráma</title><desc></desc><date>04.06.2025</date>
-  </programme>
-<programme channel="180" start="20250604060000 +0000" stop="20250604061000 +0000">
-    <title>Hírek</title><desc></desc><date>04.06.2025</date>
-  </programme>
-<programme channel="180" start="20250604061000 +0000" stop="20250604063000 +0000">
-    <title>Dobrý deň, Patria - maďarsky</title><desc></desc><date>04.06.2025</date>
   </programme>
 <programme channel="180" start="20250604070000 +0000" stop="20250604080000 +0000">
     <title>Regina</title><desc></desc><date>04.06.2025</date>
@@ -135,12 +141,6 @@
   </programme>
 <programme channel="180" start="20250604222000 +0000" stop="20250604231000 +0000">
     <title>Správy</title><desc></desc><date>04.06.2025</date>
-  </programme>
-<programme channel="180" start="20250604231000 +0000" stop="20250604232000 +0000">
-    <title>Hírek</title><desc></desc><date>04.06.2025</date>
-  </programme>
-<programme channel="180" start="20250604211000 +0000" stop="20250604212000 +0000">
-    <title>Arténa</title><desc></desc><date>04.06.2025</date>
   </programme>,<programme channel="181" start="20250604033000 +0000" stop="20250604050000 +0000">
     <title>Dámsky klub</title><desc></desc><date>04.06.2025</date>
   </programme>
