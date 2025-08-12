@@ -19,6 +19,9 @@
 <programme channel="180" start="20250812051500 +0000" stop="20250812053000 +0000">
     <title>Xavier Riddle a Tajné múzeum</title><desc></desc><date>12.08.2025</date>
   </programme>
+<programme channel="180" start="20250812060000 +0000" stop="20250812060500 +0000">
+    <title>Hírek</title><desc></desc><date>12.08.2025</date>
+  </programme>
 <programme channel="180" start="20250812060500 +0000" stop="20250812065500 +0000">
     <title>Rusínska diskusia</title><desc></desc><date>12.08.2025</date>
   </programme>
@@ -31,10 +34,7 @@
 <programme channel="180" start="20250812081500 +0000" stop="20250812084500 +0000">
     <title>Duel Junior</title><desc></desc><date>12.08.2025</date>
   </programme>
-<programme channel="180" start="20250812084500 +0000" stop="20250812085500 +0000">
-    <title>Hoodie II</title><desc></desc><date>12.08.2025</date>
-  </programme>
-<programme channel="180" start="20250812085500 +0000" stop="20250812091000 +0000">
+<programme channel="180" start="20250812084500 +0000" stop="20250812090000 +0000">
     <title>Hoodie II</title><desc></desc><date>12.08.2025</date>
   </programme>
 <programme channel="180" start="20250812091000 +0000" stop="20250812093000 +0000">
@@ -46,7 +46,7 @@
 <programme channel="180" start="20250812093500 +0000" stop="20250812094000 +0000">
     <title>Zberateľ zvukov</title><desc></desc><date>12.08.2025</date>
   </programme>
-<programme channel="180" start="20250812095000 +0000" stop="20250812095500 +0000">
+<programme channel="180" start="20250812095000 +0000" stop="20250812100000 +0000">
     <title>Trpaslíci</title><desc></desc><date>12.08.2025</date>
   </programme>
 <programme channel="180" start="20250812101500 +0000" stop="20250812103000 +0000">
@@ -85,6 +85,9 @@
 <programme channel="180" start="20250812215500 +0000" stop="20250812223800 +0000">
     <title>Prvá</title><desc></desc><date>12.08.2025</date>
   </programme>
+<programme channel="180" start="20250812233000 +0000" stop="20250812235000 +0000">
+    <title>Hírek</title><desc></desc><date>12.08.2025</date>
+  </programme>
 <programme channel="180" start="20250812075000 +0000" stop="20250812081500 +0000">
     <title>Zázračný ateliér</title><desc></desc><date>12.08.2025</date>
   </programme>
@@ -118,6 +121,9 @@
 <programme channel="180" start="20250812223800 +0000" stop="20250812224000 +0000">
     <title>Hymna SR</title><desc></desc><date>12.08.2025</date>
   </programme>
+<programme channel="180" start="20250812090000 +0000" stop="20250812091000 +0000">
+    <title>Hoodie II</title><desc></desc><date>12.08.2025</date>
+  </programme>
 <programme channel="180" start="20250812041500 +0000" stop="20250812042000 +0000">
     <title>Narodení v divočine</title><desc></desc><date>12.08.2025</date>
   </programme>
@@ -126,12 +132,6 @@
   </programme>
 <programme channel="180" start="20250812053000 +0000" stop="20250812060000 +0000">
     <title>Živá panoráma</title><desc></desc><date>12.08.2025</date>
-  </programme>
-<programme channel="180" start="20250812060000 +0000" stop="20250812060500 +0000">
-    <title>Hírek</title><desc></desc><date>12.08.2025</date>
-  </programme>
-<programme channel="180" start="20250812094000 +0000" stop="20250812095000 +0000">
-    <title>Pa a Pi</title><desc></desc><date>12.08.2025</date>
   </programme>
 <programme channel="180" start="20250812121000 +0000" stop="20250812122000 +0000">
     <title>O čom je život podľa...</title><desc></desc><date>12.08.2025</date>
@@ -148,17 +148,8 @@
 <programme channel="180" start="20250812180000 +0000" stop="20250812180700 +0000">
     <title>Správy v slovenskom posunkovom jazyku</title><desc></desc><date>12.08.2025</date>
   </programme>
-<programme channel="180" start="20250812233000 +0000" stop="20250812235000 +0000">
-    <title>Hírek</title><desc></desc><date>12.08.2025</date>
-  </programme>
 <programme channel="180" start="20250812044500 +0000" stop="20250812050000 +0000">
     <title>Poštár Pat</title><desc></desc><date>12.08.2025</date>
-  </programme>
-<programme channel="180" start="20250812095500 +0000" stop="20250812101500 +0000">
-    <title>Živá panoráma</title><desc></desc><date>12.08.2025</date>
-  </programme>
-<programme channel="180" start="20250812105500 +0000" stop="20250812121000 +0000">
-    <title>Košickí mučeníci scénické oratórium</title><desc></desc><date>12.08.2025</date>
   </programme>
 <programme channel="180" start="20250812122000 +0000" stop="20250812130000 +0000">
     <title>Alexander Albrecht</title><desc></desc><date>12.08.2025</date>
@@ -174,6 +165,15 @@
   </programme>
 <programme channel="180" start="20250812224000 +0000" stop="20250812233000 +0000">
     <title>Správy</title><desc></desc><date>12.08.2025</date>
+  </programme>
+<programme channel="180" start="20250812094000 +0000" stop="20250812095000 +0000">
+    <title>Pa a Pi</title><desc></desc><date>12.08.2025</date>
+  </programme>
+<programme channel="180" start="20250812100000 +0000" stop="20250812101500 +0000">
+    <title>Živá panoráma</title><desc></desc><date>12.08.2025</date>
+  </programme>
+<programme channel="180" start="20250812105500 +0000" stop="20250812121000 +0000">
+    <title>Košickí mučeníci scénické oratórium</title><desc></desc><date>12.08.2025</date>
   </programme>,<programme channel="181" start="20250812030500 +0000" stop="20250812033000 +0000">
     <title>Neposlušní</title><desc></desc><date>12.08.2025</date>
   </programme>
@@ -533,9 +533,6 @@
 <programme channel="1016" start="20250812072500 +0000" stop="20250812080000 +0000">
     <title>Experiment</title><desc></desc><date>12.08.2025</date>
   </programme>
-<programme channel="1016" start="20250812102500 +0000" stop="20250812110000 +0000">
-    <title>Občan za dverami</title><desc></desc><date>12.08.2025</date>
-  </programme>
 <programme channel="1016" start="20250812123000 +0000" stop="20250812130000 +0000">
     <title>Interview :24</title><desc></desc><date>12.08.2025</date>
   </programme>
@@ -557,6 +554,9 @@
 <programme channel="1016" start="20250813024000 +0000" stop="20250813031000 +0000">
     <title>Interview :24</title><desc></desc><date>12.08.2025</date>
   </programme>
+<programme channel="1016" start="20250812070500 +0000" stop="20250812072500 +0000">
+    <title>Téma :24</title><desc></desc><date>12.08.2025</date>
+  </programme>
 <programme channel="1016" start="20250812031000 +0000" stop="20250812033500 +0000">
     <title>Svet :24</title><desc></desc><date>12.08.2025</date>
   </programme>
@@ -572,9 +572,6 @@
 <programme channel="1016" start="20250812064000 +0000" stop="20250812070500 +0000">
     <title>Svet :24</title><desc></desc><date>12.08.2025</date>
   </programme>
-<programme channel="1016" start="20250812070500 +0000" stop="20250812072500 +0000">
-    <title>Téma :24</title><desc></desc><date>12.08.2025</date>
-  </programme>
 <programme channel="1016" start="20250812080000 +0000" stop="20250812083000 +0000">
     <title>Aktuálne :24</title><desc></desc><date>12.08.2025</date>
   </programme>
@@ -587,23 +584,17 @@
 <programme channel="1016" start="20250812093000 +0000" stop="20250812100000 +0000">
     <title>Interview :24</title><desc></desc><date>12.08.2025</date>
   </programme>
-<programme channel="1016" start="20250812100000 +0000" stop="20250812102500 +0000">
+<programme channel="1016" start="20250812100000 +0000" stop="20250812103000 +0000">
     <title>Správy</title><desc></desc><date>12.08.2025</date>
   </programme>
-<programme channel="1016" start="20250812110000 +0000" stop="20250812113000 +0000">
+<programme channel="1016" start="20250812110000 +0000" stop="20250812112500 +0000">
     <title>Aktuálne :24</title><desc></desc><date>12.08.2025</date>
-  </programme>
-<programme channel="1016" start="20250812113000 +0000" stop="20250812120000 +0000">
-    <title>Cestománia</title><desc></desc><date>12.08.2025</date>
   </programme>
 <programme channel="1016" start="20250812120000 +0000" stop="20250812123000 +0000">
     <title>Aktuálne :24</title><desc></desc><date>12.08.2025</date>
   </programme>
 <programme channel="1016" start="20250812130000 +0000" stop="20250812133000 +0000">
     <title>Aktuálne :24</title><desc></desc><date>12.08.2025</date>
-  </programme>
-<programme channel="1016" start="20250812133000 +0000" stop="20250812140000 +0000">
-    <title>Téma :24</title><desc></desc><date>12.08.2025</date>
   </programme>
 <programme channel="1016" start="20250812140000 +0000" stop="20250812143000 +0000">
     <title>Správy</title><desc></desc><date>12.08.2025</date>
@@ -662,7 +653,7 @@
 <programme channel="1016" start="20250812231500 +0000" stop="20250812232000 +0000">
     <title>Počasie</title><desc></desc><date>12.08.2025</date>
   </programme>
-<programme channel="1016" start="20250812232000 +0000" stop="20250813002000 +0000">
+<programme channel="1016" start="20250812232000 +0000" stop="20250812235000 +0000">
     <title>Svet :24</title><desc></desc><date>12.08.2025</date>
   </programme>
 <programme channel="1016" start="20250813002000 +0000" stop="20250813003000 +0000">
@@ -676,6 +667,18 @@
   </programme>
 <programme channel="1016" start="20250813020500 +0000" stop="20250813021500 +0000">
     <title>Počasie</title><desc></desc><date>12.08.2025</date>
+  </programme>
+<programme channel="1016" start="20250812103000 +0000" stop="20250812110000 +0000">
+    <title>Z prvej ruky</title><desc></desc><date>12.08.2025</date>
+  </programme>
+<programme channel="1016" start="20250812112500 +0000" stop="20250812120000 +0000">
+    <title>Cestománia</title><desc></desc><date>12.08.2025</date>
+  </programme>
+<programme channel="1016" start="20250812133000 +0000" stop="20250812140000 +0000">
+    <title>Z prvej ruky</title><desc></desc><date>12.08.2025</date>
+  </programme>
+<programme channel="1016" start="20250812235000 +0000" stop="20250813002000 +0000">
+    <title>Z prvej ruky</title><desc></desc><date>12.08.2025</date>
   </programme>,<programme channel="1017" start="20250812033000 +0000" stop="20250812041500 +0000">
     <title>Policajné prípady</title><desc>Pomsta tínedžerky: Milena (43) dostala od dcéry Martiny (16) telefonát, že je pri neďalekých garážach a v nebezpečenstve. Na mieste polícia narazí na Karolínu (17), ktorá sa vydáva na útek. Spolupracovník SBS: Majiteľ obchodu s elektronikou Marek (50) ohlási krádež. Podozriví sú Pavlína (26) a Radek (46), pripútaný na invalidnom vozíku. Záznam z kamery však chýba. Zatiaľ čo pracovník SBS Andrej (27) ťažko vysvetľuje, prečo bola kamera vypnutá, Pavlína sa snaží zbaviť lupu skrytého v invalidnom vozíku. Dievča z pivnice: Anonymné hlásenie upozorní políciu na krik maloletej osoby. Beáta (31) popiera, že by malo ísť o jej dcéru, ktorá je práve u babky. Polícia na ulici stretáva Františka (6), ktorý ich zavedie k dievčatku zavretému v pivnici. Ukáže sa, že ide o Beátinu dcéru Mišelku (5). Luxusná bunda: Polícia prešetruje konflikt dvoch bezdomovcov Martina (58) a Ištvána (49) o luxusnú bundu. Hliadka v nej objavuje cudziu peňaženku a zbraň. V Ištvánovom vrecku začne zvoniť mobil skutočného majiteľa bundy Michala (43), ktorého Ištván privolá na miesto činu. Michal (43) nevie dokázať, že drží zbraň legálne a pokúsi sa o útek.</desc><date>12.08.2025</date>
   </programme>
