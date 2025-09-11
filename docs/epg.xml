@@ -7,10 +7,7 @@
 <channel id="308"><display-name lang="Slovakia">Dajto</display-name></channel>
 <channel id="1017"><display-name lang="Slovakia">Markíza Krimi</display-name></channel>
 <channel id="1114"><display-name lang="Slovakia">Markíza KLASIK</display-name></channel>
-      <programme channel="180" start="20250911041000 +0000" stop="20250911041500 +0000">
-    <title>Zázračný miniateliér</title><desc></desc><date>11.09.2025</date>
-  </programme>
-<programme channel="180" start="20250911043000 +0000" stop="20250911043500 +0000">
+      <programme channel="180" start="20250911043000 +0000" stop="20250911043500 +0000">
     <title>Slimák Maťo a škriatok Klinček</title><desc></desc><date>11.09.2025</date>
   </programme>
 <programme channel="180" start="20250911043500 +0000" stop="20250911044500 +0000">
@@ -28,6 +25,9 @@
 <programme channel="180" start="20250911051500 +0000" stop="20250911053000 +0000">
     <title>Šéfkuchár Shane</title><desc></desc><date>11.09.2025</date>
   </programme>
+<programme channel="180" start="20250911060000 +0000" stop="20250911060500 +0000">
+    <title>Hírek</title><desc></desc><date>11.09.2025</date>
+  </programme>
 <programme channel="180" start="20250911060500 +0000" stop="20250911063000 +0000">
     <title>Dobrý deň, Patria - rómsky</title><desc></desc><date>11.09.2025</date>
   </programme>
@@ -36,9 +36,6 @@
   </programme>
 <programme channel="180" start="20250911093000 +0000" stop="20250911094000 +0000">
     <title>Obedníček</title><desc></desc><date>11.09.2025</date>
-  </programme>
-<programme channel="180" start="20250911095000 +0000" stop="20250911100000 +0000">
-    <title>Trpaslíci</title><desc></desc><date>11.09.2025</date>
   </programme>
 <programme channel="180" start="20250911121500 +0000" stop="20250911130500 +0000">
     <title>Xianju, putovanie za rovnováhou</title><desc></desc><date>11.09.2025</date>
@@ -64,16 +61,19 @@
 <programme channel="180" start="20250911181000 +0000" stop="20250911183500 +0000">
     <title>Moja diagnóza</title><desc></desc><date>11.09.2025</date>
   </programme>
-<programme channel="180" start="20250911200500 +0000" stop="20250911210000 +0000">
+<programme channel="180" start="20250911183500 +0000" stop="20250911200500 +0000">
+    <title>Špión v tvojom mobile</title><desc></desc><date>11.09.2025</date>
+  </programme>
+<programme channel="180" start="20250911200500 +0000" stop="20250911210500 +0000">
     <title>SK Dejiny</title><desc></desc><date>11.09.2025</date>
   </programme>
-<programme channel="180" start="20250911215500 +0000" stop="20250911222500 +0000">
+<programme channel="180" start="20250911215500 +0000" stop="20250911222600 +0000">
     <title>Cez lupu</title><desc></desc><date>11.09.2025</date>
   </programme>
 <programme channel="180" start="20250911094000 +0000" stop="20250911094500 +0000">
     <title>Zberateľ zvukov</title><desc></desc><date>11.09.2025</date>
   </programme>
-<programme channel="180" start="20250911094500 +0000" stop="20250911095000 +0000">
+<programme channel="180" start="20250911094500 +0000" stop="20250911095500 +0000">
     <title>Pa a Pi</title><desc></desc><date>11.09.2025</date>
   </programme>
 <programme channel="180" start="20250911153000 +0000" stop="20250911163000 +0000">
@@ -91,7 +91,16 @@
 <programme channel="180" start="20250911171000 +0000" stop="20250911172000 +0000">
     <title>Šéfkuchár Shane</title><desc></desc><date>11.09.2025</date>
   </programme>
-<programme channel="180" start="20250911222500 +0000" stop="20250911222700 +0000">
+<programme channel="180" start="20250911231500 +0000" stop="20250911233000 +0000">
+    <title>Hírek</title><desc></desc><date>11.09.2025</date>
+  </programme>
+<programme channel="180" start="20250911040500 +0000" stop="20250911041500 +0000">
+    <title>Zázračný miniateliér</title><desc></desc><date>11.09.2025</date>
+  </programme>
+<programme channel="180" start="20250911095500 +0000" stop="20250911100000 +0000">
+    <title>Trpaslíci</title><desc></desc><date>11.09.2025</date>
+  </programme>
+<programme channel="180" start="20250911222600 +0000" stop="20250911222800 +0000">
     <title>Hymna SR</title><desc></desc><date>11.09.2025</date>
   </programme>
 <programme channel="180" start="20250911041500 +0000" stop="20250911043000 +0000">
@@ -99,9 +108,6 @@
   </programme>
 <programme channel="180" start="20250911053000 +0000" stop="20250911060000 +0000">
     <title>Živá panoráma</title><desc></desc><date>11.09.2025</date>
-  </programme>
-<programme channel="180" start="20250911060000 +0000" stop="20250911060500 +0000">
-    <title>Hírek</title><desc></desc><date>11.09.2025</date>
   </programme>
 <programme channel="180" start="20250911070000 +0000" stop="20250911080000 +0000">
     <title>Regina</title><desc></desc><date>11.09.2025</date>
@@ -124,26 +130,20 @@
 <programme channel="180" start="20250911180700 +0000" stop="20250911181000 +0000">
     <title>Informácia pre tipujúcich: KENO 10, Keno Joker</title><desc></desc><date>11.09.2025</date>
   </programme>
-<programme channel="180" start="20250911183500 +0000" stop="20250911200500 +0000">
-    <title>Špión v tvojom mobile</title><desc></desc><date>11.09.2025</date>
-  </programme>
 <programme channel="180" start="20250911080000 +0000" stop="20250911093000 +0000">
     <title>Rozlúčka s Máriou</title><desc>Tragikomický príbeh zo súčasnej dediny podľa poviedky Milana Zelinku. Mestský chlapec sa prižení do veľkej rodiny na vidieku, usiluje sa o začlenenie do rodinného a dedinského kolektívu, nemôže sa však vyrovnať s mnohými prežitkami v spôsobe života.</desc><date>11.09.2025</date>
   </programme>
 <programme channel="180" start="20250911173500 +0000" stop="20250911174500 +0000">
     <title>Mám rád školu</title><desc></desc><date>11.09.2025</date>
   </programme>
-<programme channel="180" start="20250911210000 +0000" stop="20250911212500 +0000">
+<programme channel="180" start="20250911210500 +0000" stop="20250911213000 +0000">
     <title>Najväčšie kriminálne prípady Slovenska</title><desc></desc><date>11.09.2025</date>
   </programme>
-<programme channel="180" start="20250911212500 +0000" stop="20250911215500 +0000">
+<programme channel="180" start="20250911213000 +0000" stop="20250911215500 +0000">
     <title>Najväčšie kriminálne prípady Slovenska</title><desc></desc><date>11.09.2025</date>
   </programme>
-<programme channel="180" start="20250911222700 +0000" stop="20250911231500 +0000">
+<programme channel="180" start="20250911222800 +0000" stop="20250911231500 +0000">
     <title>Správy</title><desc></desc><date>11.09.2025</date>
-  </programme>
-<programme channel="180" start="20250911231500 +0000" stop="20250911233000 +0000">
-    <title>Hírek</title><desc></desc><date>11.09.2025</date>
   </programme>,<programme channel="181" start="20250911033000 +0000" stop="20250911050000 +0000">
     <title>Dámsky klub</title><desc></desc><date>11.09.2025</date>
   </programme>
