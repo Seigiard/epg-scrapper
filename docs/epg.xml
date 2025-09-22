@@ -7,7 +7,10 @@
 <channel id="308"><display-name lang="Slovakia">Dajto</display-name></channel>
 <channel id="1017"><display-name lang="Slovakia">Markíza Krimi</display-name></channel>
 <channel id="1114"><display-name lang="Slovakia">Markíza KLASIK</display-name></channel>
-      <programme channel="180" start="20250922043000 +0000" stop="20250922044000 +0000">
+      <programme channel="180" start="20250922041000 +0000" stop="20250922041500 +0000">
+    <title>Zázračný miniateliér</title><desc></desc><date>22.09.2025</date>
+  </programme>
+<programme channel="180" start="20250922043000 +0000" stop="20250922044000 +0000">
     <title>Slimák Maťo a škriatok Klinček</title><desc></desc><date>22.09.2025</date>
   </programme>
 <programme channel="180" start="20250922044000 +0000" stop="20250922044500 +0000">
@@ -25,8 +28,8 @@
 <programme channel="180" start="20250922051500 +0000" stop="20250922053000 +0000">
     <title>Šéfkuchár Shane</title><desc></desc><date>22.09.2025</date>
   </programme>
-<programme channel="180" start="20250922060500 +0000" stop="20250922063000 +0000">
-    <title>Dobrý deň, Patria - moravský</title><desc></desc><date>22.09.2025</date>
+<programme channel="180" start="20250922060000 +0000" stop="20250922060500 +0000">
+    <title>Hírek</title><desc></desc><date>22.09.2025</date>
   </programme>
 <programme channel="180" start="20250922063000 +0000" stop="20250922070000 +0000">
     <title>Dobrý deň, Patria - poľsky</title><desc></desc><date>22.09.2025</date>
@@ -34,20 +37,32 @@
 <programme channel="180" start="20250922070000 +0000" stop="20250922073000 +0000">
     <title>Generácia</title><desc></desc><date>22.09.2025</date>
   </programme>
-<programme channel="180" start="20250922093500 +0000" stop="20250922094000 +0000">
-    <title>Zberateľ zvukov</title><desc></desc><date>22.09.2025</date>
+<programme channel="180" start="20250922073000 +0000" stop="20250922080000 +0000">
+    <title>Orientácie</title><desc></desc><date>22.09.2025</date>
   </programme>
-<programme channel="180" start="20250922094000 +0000" stop="20250922095000 +0000">
-    <title>Pa a Pi</title><desc></desc><date>22.09.2025</date>
-  </programme>
-<programme channel="180" start="20250922095000 +0000" stop="20250922100000 +0000">
-    <title>Trpaslíci</title><desc></desc><date>22.09.2025</date>
+<programme channel="180" start="20250922093000 +0000" stop="20250922094000 +0000">
+    <title>Obedníček</title><desc></desc><date>22.09.2025</date>
   </programme>
 <programme channel="180" start="20250922101500 +0000" stop="20250922103000 +0000">
     <title>Cyklopotulky</title><desc></desc><date>22.09.2025</date>
   </programme>
+<programme channel="180" start="20250922113000 +0000" stop="20250922115500 +0000">
+    <title>Peniaze</title><desc></desc><date>22.09.2025</date>
+  </programme>
+<programme channel="180" start="20250922115500 +0000" stop="20250922120000 +0000">
+    <title>Sociálna abeceda</title><desc></desc><date>22.09.2025</date>
+  </programme>
+<programme channel="180" start="20250922133000 +0000" stop="20250922140000 +0000">
+    <title>moje SLOWensko</title><desc></desc><date>22.09.2025</date>
+  </programme>
 <programme channel="180" start="20250922140000 +0000" stop="20250922143000 +0000">
     <title>Krajinou vína II</title><desc></desc><date>22.09.2025</date>
+  </programme>
+<programme channel="180" start="20250922153000 +0000" stop="20250922155500 +0000">
+    <title>Farmárska revue</title><desc></desc><date>22.09.2025</date>
+  </programme>
+<programme channel="180" start="20250922163000 +0000" stop="20250922163500 +0000">
+    <title>Večerníček</title><desc></desc><date>22.09.2025</date>
   </programme>
 <programme channel="180" start="20250922163500 +0000" stop="20250922164000 +0000">
     <title>Zberateľ zvukov</title><desc></desc><date>22.09.2025</date>
@@ -61,47 +76,56 @@
 <programme channel="180" start="20250922165500 +0000" stop="20250922170500 +0000">
     <title>Šmolkovia - nové príbehy II</title><desc></desc><date>22.09.2025</date>
   </programme>
-<programme channel="180" start="20250922170500 +0000" stop="20250922171500 +0000">
+<programme channel="180" start="20250922170500 +0000" stop="20250922172000 +0000">
     <title>Šéfkuchár Shane</title><desc></desc><date>22.09.2025</date>
   </programme>
-<programme channel="180" start="20250922171500 +0000" stop="20250922173000 +0000">
-    <title>Šéfkuchár Shane</title><desc></desc><date>22.09.2025</date>
-  </programme>
-<programme channel="180" start="20250922174000 +0000" stop="20250922180000 +0000">
-    <title>Zázračný miniateliér</title><desc></desc><date>22.09.2025</date>
-  </programme>
-<programme channel="180" start="20250922181000 +0000" stop="20250922184000 +0000">
+<programme channel="180" start="20250922181000 +0000" stop="20250922183500 +0000">
     <title>Lov slov</title><desc></desc><date>22.09.2025</date>
   </programme>
-<programme channel="180" start="20250922200500 +0000" stop="20250922215900 +0000">
+<programme channel="180" start="20250922200500 +0000" stop="20250922215800 +0000">
     <title>Aj zajtra je deň</title><desc>V povojnovom Ríme žije Delia so svojou dcérou a dominantným manželom so sklonmi k násilnému správaniu. Keď jedného dňa dostane tajomný list, rozhodne sa nabrať odvahu a pokúsiť sa zmeniť svoj život. Film populárnej herečky Paoly Cortellesi sa stal v Taliansku diváckym fenoménom a získal viac ako dve desiatky ocenení.</desc><date>22.09.2025</date>
   </programme>
-<programme channel="180" start="20250922215900 +0000" stop="20250922220100 +0000">
-    <title>Hymna SR</title><desc></desc><date>22.09.2025</date>
+<programme channel="180" start="20250922225000 +0000" stop="20250922231000 +0000">
+    <title>Hírek</title><desc></desc><date>22.09.2025</date>
   </programme>
-<programme channel="180" start="20250922041000 +0000" stop="20250922042000 +0000">
+<programme channel="180" start="20250922060500 +0000" stop="20250922063000 +0000">
+    <title>Dobrý deň, Patria - moravský</title><desc></desc><date>22.09.2025</date>
+  </programme>
+<programme channel="180" start="20250922080000 +0000" stop="20250922082500 +0000">
+    <title>Cesta</title><desc></desc><date>22.09.2025</date>
+  </programme>
+<programme channel="180" start="20250922094000 +0000" stop="20250922094500 +0000">
+    <title>Zberateľ zvukov</title><desc></desc><date>22.09.2025</date>
+  </programme>
+<programme channel="180" start="20250922094500 +0000" stop="20250922095500 +0000">
+    <title>Pa a Pi</title><desc></desc><date>22.09.2025</date>
+  </programme>
+<programme channel="180" start="20250922095500 +0000" stop="20250922100000 +0000">
+    <title>Trpaslíci</title><desc></desc><date>22.09.2025</date>
+  </programme>
+<programme channel="180" start="20250922155500 +0000" stop="20250922163000 +0000">
+    <title>Halali</title><desc></desc><date>22.09.2025</date>
+  </programme>
+<programme channel="180" start="20250922172000 +0000" stop="20250922173000 +0000">
+    <title>Šéfkuchár Shane</title><desc></desc><date>22.09.2025</date>
+  </programme>
+<programme channel="180" start="20250922174500 +0000" stop="20250922180000 +0000">
     <title>Zázračný miniateliér</title><desc></desc><date>22.09.2025</date>
   </programme>
-<programme channel="180" start="20250922042000 +0000" stop="20250922043000 +0000">
-    <title>Mám rád školu</title><desc></desc><date>22.09.2025</date>
+<programme channel="180" start="20250922183500 +0000" stop="20250922193000 +0000">
+    <title>Ako sa rodila Zem</title><desc>Objavte históriu našej rodnej Zeme - štyri a pol miliardy rokov vývoja modrej planéty, vyrozprávanej v piatich pútavých príbehoch. Od prvých kvapiek, z ktorých vznikol svet vody, až po príchod neuveriteľných obyvateľov - nás ľudí. Tvorcovia spolupracovali s dvoma stovkami popredných odborníkov (paleontológovia, geológovia, klimatológovia), ktorí prispeli najnovšími vedeckými poznatkami. Pôsobivé vizuálne zábery kombinujú s CGI rekonštrukciami, aby diváka preniesli do stredobodu udalostí, ktoré formovali planétu. Seriál z produkcie BBC zobrazuje Zem nielen ako kulisu ľudských dejín, ale ako živý, meniaci sa organizmus.</desc><date>22.09.2025</date>
+  </programme>
+<programme channel="180" start="20250922193000 +0000" stop="20250922200500 +0000">
+    <title>Experiment</title><desc></desc><date>22.09.2025</date>
+  </programme>
+<programme channel="180" start="20250922215800 +0000" stop="20250922220000 +0000">
+    <title>Hymna SR</title><desc></desc><date>22.09.2025</date>
   </programme>
 <programme channel="180" start="20250922053000 +0000" stop="20250922060000 +0000">
     <title>Živá panoráma</title><desc></desc><date>22.09.2025</date>
   </programme>
-<programme channel="180" start="20250922060000 +0000" stop="20250922060500 +0000">
-    <title>Hírek</title><desc></desc><date>22.09.2025</date>
-  </programme>
-<programme channel="180" start="20250922073000 +0000" stop="20250922075500 +0000">
-    <title>Orientácie</title><desc></desc><date>22.09.2025</date>
-  </programme>
-<programme channel="180" start="20250922075500 +0000" stop="20250922082500 +0000">
-    <title>Cesta</title><desc></desc><date>22.09.2025</date>
-  </programme>
 <programme channel="180" start="20250922082500 +0000" stop="20250922093000 +0000">
     <title>Najvzdialenejšia hviezda na nebi</title><desc></desc><date>22.09.2025</date>
-  </programme>
-<programme channel="180" start="20250922093000 +0000" stop="20250922093500 +0000">
-    <title>Obedníček</title><desc></desc><date>22.09.2025</date>
   </programme>
 <programme channel="180" start="20250922100000 +0000" stop="20250922101500 +0000">
     <title>Živá panoráma</title><desc></desc><date>22.09.2025</date>
@@ -109,31 +133,10 @@
 <programme channel="180" start="20250922103000 +0000" stop="20250922113000 +0000">
     <title>Koža</title><desc></desc><date>22.09.2025</date>
   </programme>
-<programme channel="180" start="20250922113000 +0000" stop="20250922115500 +0000">
-    <title>Peniaze</title><desc></desc><date>22.09.2025</date>
-  </programme>
-<programme channel="180" start="20250922115500 +0000" stop="20250922120500 +0000">
-    <title>Sociálna abeceda</title><desc></desc><date>22.09.2025</date>
-  </programme>
-<programme channel="180" start="20250922120500 +0000" stop="20250922130500 +0000">
-    <title>Pomaly sa ponáhľaj</title><desc></desc><date>22.09.2025</date>
-  </programme>
-<programme channel="180" start="20250922130500 +0000" stop="20250922133000 +0000">
-    <title>Medailón Janka Alexyho</title><desc></desc><date>22.09.2025</date>
-  </programme>
-<programme channel="180" start="20250922133000 +0000" stop="20250922140000 +0000">
-    <title>moje SLOWensko</title><desc></desc><date>22.09.2025</date>
-  </programme>
 <programme channel="180" start="20250922143000 +0000" stop="20250922153000 +0000">
     <title>Regina</title><desc></desc><date>22.09.2025</date>
   </programme>
-<programme channel="180" start="20250922153000 +0000" stop="20250922163000 +0000">
-    <title>Farmárska revue</title><desc></desc><date>22.09.2025</date>
-  </programme>
-<programme channel="180" start="20250922163000 +0000" stop="20250922163500 +0000">
-    <title>Večerníček</title><desc></desc><date>22.09.2025</date>
-  </programme>
-<programme channel="180" start="20250922173000 +0000" stop="20250922174000 +0000">
+<programme channel="180" start="20250922173000 +0000" stop="20250922174500 +0000">
     <title>Mám rád školu</title><desc></desc><date>22.09.2025</date>
   </programme>
 <programme channel="180" start="20250922180000 +0000" stop="20250922180700 +0000">
@@ -142,17 +145,17 @@
 <programme channel="180" start="20250922180700 +0000" stop="20250922181000 +0000">
     <title>Informácia pre tipujúcich: KENO 10, KENO Joker, Extra výplata</title><desc></desc><date>22.09.2025</date>
   </programme>
-<programme channel="180" start="20250922184000 +0000" stop="20250922193500 +0000">
-    <title>Ako sa rodila Zem</title><desc>Objavte históriu našej rodnej Zeme - štyri a pol miliardy rokov vývoja modrej planéty, vyrozprávanej v piatich pútavých príbehoch. Od prvých kvapiek, z ktorých vznikol svet vody, až po príchod neuveriteľných obyvateľov - nás ľudí. Tvorcovia spolupracovali s dvoma stovkami popredných odborníkov (paleontológovia, geológovia, klimatológovia), ktorí prispeli najnovšími vedeckými poznatkami. Pôsobivé vizuálne zábery kombinujú s CGI rekonštrukciami, aby diváka preniesli do stredobodu udalostí, ktoré formovali planétu. Seriál z produkcie BBC zobrazuje Zem nielen ako kulisu ľudských dejín, ale ako živý, meniaci sa organizmus.</desc><date>22.09.2025</date>
+<programme channel="180" start="20250922041500 +0000" stop="20250922043000 +0000">
+    <title>Mám rád školu</title><desc></desc><date>22.09.2025</date>
   </programme>
-<programme channel="180" start="20250922193500 +0000" stop="20250922200500 +0000">
-    <title>Experiment</title><desc></desc><date>22.09.2025</date>
+<programme channel="180" start="20250922120000 +0000" stop="20250922130000 +0000">
+    <title>Pomaly sa ponáhľaj</title><desc></desc><date>22.09.2025</date>
   </programme>
-<programme channel="180" start="20250922220100 +0000" stop="20250922225000 +0000">
+<programme channel="180" start="20250922130000 +0000" stop="20250922133000 +0000">
+    <title>Medailón Janka Alexyho</title><desc></desc><date>22.09.2025</date>
+  </programme>
+<programme channel="180" start="20250922220000 +0000" stop="20250922225000 +0000">
     <title>Správy</title><desc></desc><date>22.09.2025</date>
-  </programme>
-<programme channel="180" start="20250922225000 +0000" stop="20250922231000 +0000">
-    <title>Hírek</title><desc></desc><date>22.09.2025</date>
   </programme>,<programme channel="181" start="20250922030500 +0000" stop="20250922033000 +0000">
     <title>Slovensko v obrazoch</title><desc></desc><date>22.09.2025</date>
   </programme>
