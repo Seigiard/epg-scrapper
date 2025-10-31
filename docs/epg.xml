@@ -7,47 +7,32 @@
 <channel id="308"><display-name lang="Slovakia">Dajto</display-name></channel>
 <channel id="1017"><display-name lang="Slovakia">Markíza Krimi</display-name></channel>
 <channel id="1114"><display-name lang="Slovakia">Markíza KLASIK</display-name></channel>
-      <programme channel="180" start="20251031051000 +0000" stop="20251031052000 +0000">
+      <programme channel="180" start="20251031051000 +0000" stop="20251031051500 +0000">
     <title>Zázračný miniateliér</title><desc></desc><date>31.10.2025</date>
   </programme>
-<programme channel="180" start="20251031053000 +0000" stop="20251031054000 +0000">
+<programme channel="180" start="20251031053000 +0000" stop="20251031053500 +0000">
     <title>Slimák Maťo a škriatok Klinček</title><desc></desc><date>31.10.2025</date>
   </programme>
-<programme channel="180" start="20251031054000 +0000" stop="20251031054500 +0000">
-    <title>Slimák Maťo a škriatok Klinček</title><desc></desc><date>31.10.2025</date>
-  </programme>
-<programme channel="180" start="20251031054500 +0000" stop="20251031055000 +0000">
-    <title>Medvedík Pompon</title><desc></desc><date>31.10.2025</date>
-  </programme>
-<programme channel="180" start="20251031055000 +0000" stop="20251031060500 +0000">
+<programme channel="180" start="20251031055000 +0000" stop="20251031060000 +0000">
     <title>Rodinka líšok a jazvecov</title><desc></desc><date>31.10.2025</date>
   </programme>
-<programme channel="180" start="20251031060500 +0000" stop="20251031063000 +0000">
-    <title>Heidi</title><desc></desc><date>31.10.2025</date>
+<programme channel="180" start="20251031070000 +0000" stop="20251031070500 +0000">
+    <title>Hírek</title><desc></desc><date>31.10.2025</date>
   </programme>
 <programme channel="180" start="20251031070500 +0000" stop="20251031080000 +0000">
     <title>Dobrý deň, Patria - maďarsky</title><desc></desc><date>31.10.2025</date>
   </programme>
-<programme channel="180" start="20251031103000 +0000" stop="20251031103500 +0000">
+<programme channel="180" start="20251031103000 +0000" stop="20251031104000 +0000">
     <title>Obedníček</title><desc></desc><date>31.10.2025</date>
   </programme>
-<programme channel="180" start="20251031103500 +0000" stop="20251031104500 +0000">
-    <title>Bluey II</title><desc></desc><date>31.10.2025</date>
-  </programme>
-<programme channel="180" start="20251031104500 +0000" stop="20251031105000 +0000">
+<programme channel="180" start="20251031104500 +0000" stop="20251031105500 +0000">
     <title>Pa a Pi</title><desc></desc><date>31.10.2025</date>
-  </programme>
-<programme channel="180" start="20251031105000 +0000" stop="20251031110000 +0000">
-    <title>Trpaslíci</title><desc></desc><date>31.10.2025</date>
   </programme>
 <programme channel="180" start="20251031113000 +0000" stop="20251031124500 +0000">
     <title>Leo Da Vinci - Misia Mona Líza</title><desc></desc><date>31.10.2025</date>
   </programme>
-<programme channel="180" start="20251031124500 +0000" stop="20251031133500 +0000">
+<programme channel="180" start="20251031124500 +0000" stop="20251031134000 +0000">
     <title>Strašidelné strašidlo</title><desc></desc><date>31.10.2025</date>
-  </programme>
-<programme channel="180" start="20251031133500 +0000" stop="20251031152500 +0000">
-    <title>Nažive</title><desc>Dokumentárna cesta francúzskou prírodou prináša pohľad na fascinujúcu biodiverzitu, ktorá existuje na relatívne malom území a dáva tak divákom možnosť uvedomiť si bohatstvo druhov, ktorého súčasťou je aj človek, hoci pričasto koná tak, aby toto prepojenie pretrhol...</desc><date>31.10.2025</date>
   </programme>
 <programme channel="180" start="20251031152500 +0000" stop="20251031160000 +0000">
     <title>Túžba po hviezdach</title><desc></desc><date>31.10.2025</date>
@@ -55,11 +40,8 @@
 <programme channel="180" start="20251031173000 +0000" stop="20251031173500 +0000">
     <title>Sviatočné slovo</title><desc></desc><date>31.10.2025</date>
   </programme>
-<programme channel="180" start="20251031173500 +0000" stop="20251031174500 +0000">
+<programme channel="180" start="20251031173500 +0000" stop="20251031174000 +0000">
     <title>Večerníček</title><desc></desc><date>31.10.2025</date>
-  </programme>
-<programme channel="180" start="20251031174500 +0000" stop="20251031175000 +0000">
-    <title>Bluey II</title><desc></desc><date>31.10.2025</date>
   </programme>
 <programme channel="180" start="20251031175000 +0000" stop="20251031175500 +0000">
     <title>Medvedík Pompon</title><desc></desc><date>31.10.2025</date>
@@ -79,26 +61,41 @@
 <programme channel="180" start="20251031203000 +0000" stop="20251031210000 +0000">
     <title>Július Filo - sila skutkov viery</title><desc>Príbeh Júliusa Fila, emeritného generálneho biskupa Evanjelickej cirkvi a.v. na Slovensku. Pochádza z pevného rodinného zázemia, ktoré formovalo nielen jeho osobnosť, ale aj pohľad na svet. Po vzore otca si aj on vybral kňazské povolanie. Pôsobil ako dekan Evanjelickej bohosloveckej fakulty UK, generálny biskup, predseda Ekumenickej rady cirkví, koordinátor pre prácu s mládežou a neskôr ako viceprezident Svetového luteránskeho zväzu. Vo Svätom Jure založil Cirkevnú materskú školu Betlehem, školiace stredisko Agapé, dom pre seniorov, za jeho pôsobenia vo funkcii generálneho biskupa bola postavená Evanjelická bohoslovecká fakulta UK. Vyše 50 rokov pôsobí ako pedagóg na EBF UK a stále ako kňaz v cirkevnom zbore ECAV vo Vrbovciach. Július Filo má 3 deti a 8 vnúčat. Je autorom viacerých kníh.</desc><date>31.10.2025</date>
   </programme>
-<programme channel="180" start="20251031210000 +0000" stop="20251031220000 +0000">
+<programme channel="180" start="20251031210000 +0000" stop="20251031220500 +0000">
     <title>Trochu inak s Adelou</title><desc></desc><date>31.10.2025</date>
   </programme>
-<programme channel="180" start="20251031220000 +0000" stop="20251031223000 +0000">
+<programme channel="180" start="20251031053500 +0000" stop="20251031054000 +0000">
+    <title>Slimák Maťo a škriatok Klinček</title><desc></desc><date>31.10.2025</date>
+  </programme>
+<programme channel="180" start="20251031054000 +0000" stop="20251031055000 +0000">
+    <title>Medvedík Pompon</title><desc></desc><date>31.10.2025</date>
+  </programme>
+<programme channel="180" start="20251031060000 +0000" stop="20251031063000 +0000">
+    <title>Heidi</title><desc></desc><date>31.10.2025</date>
+  </programme>
+<programme channel="180" start="20251031104000 +0000" stop="20251031104500 +0000">
+    <title>Bluey II</title><desc></desc><date>31.10.2025</date>
+  </programme>
+<programme channel="180" start="20251031105500 +0000" stop="20251031110000 +0000">
+    <title>Trpaslíci</title><desc></desc><date>31.10.2025</date>
+  </programme>
+<programme channel="180" start="20251031134000 +0000" stop="20251031152500 +0000">
+    <title>Nažive</title><desc>Dokumentárna cesta francúzskou prírodou prináša pohľad na fascinujúcu biodiverzitu, ktorá existuje na relatívne malom území a dáva tak divákom možnosť uvedomiť si bohatstvo druhov, ktorého súčasťou je aj človek, hoci pričasto koná tak, aby toto prepojenie pretrhol...</desc><date>31.10.2025</date>
+  </programme>
+<programme channel="180" start="20251031174000 +0000" stop="20251031175000 +0000">
+    <title>Bluey II</title><desc></desc><date>31.10.2025</date>
+  </programme>
+<programme channel="180" start="20251031220500 +0000" stop="20251031223500 +0000">
     <title>moje SLOWensko</title><desc></desc><date>31.10.2025</date>
   </programme>
-<programme channel="180" start="20251031223000 +0000" stop="20251031233800 +0000">
+<programme channel="180" start="20251031223500 +0000" stop="20251031234400 +0000">
     <title>Bratislavské jazzové dni</title><desc></desc><date>31.10.2025</date>
   </programme>
-<programme channel="180" start="20251031233800 +0000" stop="20251031234000 +0000">
+<programme channel="180" start="20251031234400 +0000" stop="20251031234600 +0000">
     <title>Hymna SR</title><desc></desc><date>31.10.2025</date>
-  </programme>
-<programme channel="180" start="20251031052000 +0000" stop="20251031053000 +0000">
-    <title>Doma chutí najlepšie</title><desc></desc><date>31.10.2025</date>
   </programme>
 <programme channel="180" start="20251031063000 +0000" stop="20251031070000 +0000">
     <title>Živá panoráma</title><desc></desc><date>31.10.2025</date>
-  </programme>
-<programme channel="180" start="20251031070000 +0000" stop="20251031070500 +0000">
-    <title>Hírek</title><desc></desc><date>31.10.2025</date>
   </programme>
 <programme channel="180" start="20251031080000 +0000" stop="20251031085500 +0000">
     <title>Regina</title><desc></desc><date>31.10.2025</date>
@@ -118,13 +115,16 @@
 <programme channel="180" start="20251031185000 +0000" stop="20251031185700 +0000">
     <title>Správy v slovenskom posunkovom jazyku</title><desc></desc><date>31.10.2025</date>
   </programme>
-<programme channel="180" start="20251031185700 +0000" stop="20251031190000 +0000">
-    <title>Informácia pre tipujúcich: KENO 10, Keno Joker, Loto, Loto 5 z 35, Joker, Všetko alebo nič</title><desc></desc><date>31.10.2025</date>
+<programme channel="180" start="20251031051500 +0000" stop="20251031053000 +0000">
+    <title>Doma chutí najlepšie</title><desc></desc><date>31.10.2025</date>
   </programme>
-<programme channel="180" start="20251031234000 +0000" stop="20251101003000 +0000">
+<programme channel="180" start="20251031185700 +0000" stop="20251031190000 +0000">
+    <title>Informácia pre tipujúcich: KENO 10, Keno Joker, Loto, Loto 5 z 35, Joker, Všetko alebo nič (B, piatok)</title><desc></desc><date>31.10.2025</date>
+  </programme>
+<programme channel="180" start="20251031234600 +0000" stop="20251101003500 +0000">
     <title>Správy</title><desc></desc><date>31.10.2025</date>
   </programme>
-<programme channel="180" start="20251101003000 +0000" stop="20251101005000 +0000">
+<programme channel="180" start="20251101003500 +0000" stop="20251101005000 +0000">
     <title>Hírek</title><desc></desc><date>31.10.2025</date>
   </programme>,<programme channel="181" start="20251031043000 +0000" stop="20251031060000 +0000">
     <title>Dámsky klub</title><desc></desc><date>31.10.2025</date>
