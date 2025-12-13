@@ -7,11 +7,8 @@
 <channel id="308"><display-name lang="Slovakia">Dajto</display-name></channel>
 <channel id="1017"><display-name lang="Slovakia">Markíza Krimi</display-name></channel>
 <channel id="1114"><display-name lang="Slovakia">Markíza KLASIK</display-name></channel>
-      <programme channel="180" start="20251213053500 +0000" stop="20251213060500 +0000">
+      <programme channel="180" start="20251213053500 +0000" stop="20251213060000 +0000">
     <title>Z mesta do mesta</title><desc></desc><date>13.12.2025</date>
-  </programme>
-<programme channel="180" start="20251213060500 +0000" stop="20251213063000 +0000">
-    <title>Československý vesmír</title><desc></desc><date>13.12.2025</date>
   </programme>
 <programme channel="180" start="20251213063000 +0000" stop="20251213070000 +0000">
     <title>Československý vesmír</title><desc></desc><date>13.12.2025</date>
@@ -55,9 +52,6 @@
 <programme channel="180" start="20251213113000 +0000" stop="20251213122000 +0000">
     <title>Generácia</title><desc></desc><date>13.12.2025</date>
   </programme>
-<programme channel="180" start="20251213122000 +0000" stop="20251213144500 +0000">
-    <title>Florbal - MS 2025 (ženy)</title><desc></desc><date>13.12.2025</date>
-  </programme>
 <programme channel="180" start="20251213144500 +0000" stop="20251213151500 +0000">
     <title>Farmárska revue</title><desc></desc><date>13.12.2025</date>
   </programme>
@@ -72,9 +66,6 @@
   </programme>
 <programme channel="180" start="20251213161500 +0000" stop="20251213162000 +0000">
     <title>Eko to funguje</title><desc></desc><date>13.12.2025</date>
-  </programme>
-<programme channel="180" start="20251213162000 +0000" stop="20251213174000 +0000">
-    <title>Medzinárodný ekumenický koncert 2025</title><desc></desc><date>13.12.2025</date>
   </programme>
 <programme channel="180" start="20251213174000 +0000" stop="20251213175000 +0000">
     <title>Večerníček</title><desc></desc><date>13.12.2025</date>
@@ -97,6 +88,15 @@
 <programme channel="180" start="20251214002600 +0000" stop="20251214002800 +0000">
     <title>Hymna SR</title><desc></desc><date>13.12.2025</date>
   </programme>
+<programme channel="180" start="20251213060000 +0000" stop="20251213063000 +0000">
+    <title>Československý vesmír</title><desc></desc><date>13.12.2025</date>
+  </programme>
+<programme channel="180" start="20251213122000 +0000" stop="20251213144500 +0000">
+    <title>Florbal - MS 2025 (ženy)</title><desc></desc><date>13.12.2025</date>
+  </programme>
+<programme channel="180" start="20251213162000 +0000" stop="20251213174000 +0000">
+    <title>Medzinárodný ekumenický koncert 2025</title><desc></desc><date>13.12.2025</date>
+  </programme>
 <programme channel="180" start="20251213070000 +0000" stop="20251213073000 +0000">
     <title>Živá panoráma</title><desc></desc><date>13.12.2025</date>
   </programme>
@@ -106,14 +106,14 @@
 <programme channel="180" start="20251213193500 +0000" stop="20251213211500 +0000">
     <title>Nanič chlapec</title><desc></desc><date>13.12.2025</date>
   </programme>
-<programme channel="180" start="20251213220500 +0000" stop="20251214002600 +0000">
-    <title>Mulholland Drive</title><desc></desc><date>13.12.2025</date>
-  </programme>
 <programme channel="180" start="20251213180000 +0000" stop="20251213181000 +0000">
     <title>Lucia strážkyňa poriadku</title><desc></desc><date>13.12.2025</date>
   </programme>
 <programme channel="180" start="20251214002800 +0000" stop="20251214014000 +0000">
     <title>Správy</title><desc></desc><date>13.12.2025</date>
+  </programme>
+<programme channel="180" start="20251213220500 +0000" stop="20251214002600 +0000">
+    <title>130 ROKOV KINEMATOGRAFIE</title><desc></desc><date>13.12.2025</date>
   </programme>,<programme channel="181" start="20251213040000 +0000" stop="20251213041000 +0000">
     <title>Meduška</title><desc></desc><date>13.12.2025</date>
   </programme>
