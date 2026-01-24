@@ -2,6 +2,16 @@ const cheerio = require("cheerio");
 
 const CONFIG = {
   CHANNEL_IDS: ["180", "181", "182", "183", "308", "1016", "1017", "1114"],
+  CHANNEL_NAMES: {
+    180: "Jednotka HD.sk",
+    181: "Dvojka HD.sk",
+    182: "Doma HD.sk",
+    183: "Markíza HD.sk",
+    308: "DAJTO HD.sk",
+    1016: ":24 HD.sk",
+    1017: "Markíza KRIMI HD.sk",
+    1114: "Markíza Klasik HD.sk",
+  },
   BASE_URLS: {
     programs: "https://services.mujtvprogram.cz/tvprogram2services/services/tvprogrammelist_mobile.php",
     channels: "https://services.mujtvprogram.cz/tvprogram2services/services/tvchannellist_mobile.php",
@@ -17,10 +27,11 @@ async function generateEpgXml() {
     const xmlPromises = CONFIG.CHANNEL_IDS.map((channelId) => fetchChannelProgramsXml(channelId));
     const xmlResponses = await Promise.all(xmlPromises);
     const xmlPrograms = xmlResponses.map((xml, i) => xmlParsePrograms(CONFIG.CHANNEL_IDS[i], xml));
-    return `<?xml version="1.0" encoding="UTF-8"?><tv generator-info-name="TV Program">
+    return `<?xml version="1.0" encoding="UTF-8" ?>
+      <tv generator-info-name="TV Program">
       ${xmlChannels}
       ${xmlPrograms}
-    </tv>`;
+    </tv>`.replace(/\n\s+/g, "\n");
   } catch (error) {
     console.error("Error generating EPG:", error.message);
     throw error;
@@ -103,13 +114,13 @@ function formatTimestamp(timestamp) {
 }
 
 function tplProgramXml({ channelId, start, stop, title, desc, date }) {
-  return `<programme channel="${channelId}" start="${start} ${CONFIG.TIMEZONE_OFFSET}" stop="${stop} ${CONFIG.TIMEZONE_OFFSET}">
+  return `<programme channel="${CONFIG.CHANNEL_NAMES?.[channelId] || channelId}" start="${start} ${CONFIG.TIMEZONE_OFFSET}" stop="${stop} ${CONFIG.TIMEZONE_OFFSET}">
     <title>${escapeHtml(title)}</title><desc>${escapeHtml(desc)}</desc><date>${date}</date>
   </programme>`;
 }
 
 function tplChannelXml({ id, name }) {
-  return `<channel id="${id}"><display-name lang="Slovakia">${escapeHtml(name)}</display-name></channel>`;
+  return `<channel id="${CONFIG.CHANNEL_NAMES?.[id] || id}"><display-name>${escapeHtml(name)}</display-name></channel>`;
 }
 
 function escapeHtml(input) {
