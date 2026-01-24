@@ -1,42 +1,40 @@
-const cheerio = require('cheerio');
+const cheerio = require("cheerio");
 
 const CONFIG = {
-  CHANNEL_IDS: [
-    "180", "181", "182", "183", "308", "1016", "1017", "1114"
-  ],
+  CHANNEL_IDS: ["180", "181", "182", "183", "308", "1016", "1017", "1114"],
   BASE_URLS: {
-    programs: 'https://services.mujtvprogram.cz/tvprogram2services/services/tvprogrammelist_mobile.php',
-    channels: 'https://services.mujtvprogram.cz/tvprogram2services/services/tvchannellist_mobile.php'
+    programs: "https://services.mujtvprogram.cz/tvprogram2services/services/tvprogrammelist_mobile.php",
+    channels: "https://services.mujtvprogram.cz/tvprogram2services/services/tvchannellist_mobile.php",
   },
-  TIMEZONE_OFFSET: '+0000'
-}
+  TIMEZONE_OFFSET: "+0000",
+};
 
 async function generateEpgXml() {
   try {
     const channelList = await fetchChannelList(CONFIG.CHANNEL_IDS);
-    const xmlChannels = xmlParseChannels(channelList)
+    const xmlChannels = xmlParseChannels(channelList);
 
-    const xmlPromises = CONFIG.CHANNEL_IDS.map(channelId => fetchChannelProgramsXml(channelId));
-    const xmlResponses = await Promise.all(xmlPromises)
+    const xmlPromises = CONFIG.CHANNEL_IDS.map((channelId) => fetchChannelProgramsXml(channelId));
+    const xmlResponses = await Promise.all(xmlPromises);
     const xmlPrograms = xmlResponses.map((xml, i) => xmlParsePrograms(CONFIG.CHANNEL_IDS[i], xml));
-    return `<?xml version="1.0" encoding="UTF-8"?><tv generator-info-name="TV Program Merger">
+    return `<?xml version="1.0" encoding="UTF-8"?><tv generator-info-name="TV Program">
       ${xmlChannels}
       ${xmlPrograms}
-    </tv>`
+    </tv>`;
   } catch (error) {
-    console.error('Error generating EPG:', error.message);
+    console.error("Error generating EPG:", error.message);
     throw error;
   }
 }
 
 async function fetchChannelList(channelIds) {
   try {
-    const channelParam = channelIds.join(',');
+    const channelParam = channelIds.join(",");
     const response = await fetch(`${CONFIG.BASE_URLS.channels}?channel_cid_arr=${channelParam}`);
     const data = await response.text();
     return data;
   } catch (error) {
-    console.error('Error fetching channel list:', error.message);
+    console.error("Error fetching channel list:", error.message);
     return null;
   }
 }
@@ -58,16 +56,17 @@ function xmlParseChannels(xml) {
   const $ = cheerio.load(xml, { xmlMode: true });
 
   // Extract channels
-  $('channel').each((_, channel) => {
-    channels.push(tplChannelXml({
-      id: $('cid', channel).text(),
-      name: $('name:first', channel).text()
-    }));
+  $("channel").each((_, channel) => {
+    channels.push(
+      tplChannelXml({
+        id: $("cid", channel).text(),
+        name: $("name:first", channel).text(),
+      }),
+    );
   });
 
-  return channels.join('\n');
+  return channels.join("\n");
 }
-
 
 function xmlParsePrograms(channelId, xml) {
   const programms = [];
@@ -75,50 +74,54 @@ function xmlParsePrograms(channelId, xml) {
   const $ = cheerio.load(xml, { xmlMode: true });
 
   // Extract channels
-  $('programme').each((_, programme) => {
-    programms.push(tplProgramXml({
-      channelId: channelId,
-      start: formatTimestamp($('startDateTimeInSec', programme).text()),
-      stop: formatTimestamp($('endDateTimeInSec', programme).text()),
-      title: $('name:first', programme).text(),
-      desc: $('longDescription', programme).text(),
-      date: $('date', programme).text(),
-    }));
+  $("programme").each((_, programme) => {
+    programms.push(
+      tplProgramXml({
+        channelId: channelId,
+        start: formatTimestamp($("startDateTimeInSec", programme).text()),
+        stop: formatTimestamp($("endDateTimeInSec", programme).text()),
+        title: $("name:first", programme).text(),
+        desc: $("longDescription", programme).text(),
+        date: $("date", programme).text(),
+      }),
+    );
   });
 
-  return programms.join('\n');
+  return programms.join("\n");
 }
 
 function formatTimestamp(timestamp) {
   const date = new Date(timestamp * 1000);
-  return date.getFullYear() +
-    String(date.getMonth() + 1).padStart(2, '0') +
-    String(date.getDate()).padStart(2, '0') +
-    String(date.getHours()).padStart(2, '0') +
-    String(date.getMinutes()).padStart(2, '0') +
-    String(date.getSeconds()).padStart(2, '0');
+  return (
+    date.getFullYear() +
+    String(date.getMonth() + 1).padStart(2, "0") +
+    String(date.getDate()).padStart(2, "0") +
+    String(date.getHours()).padStart(2, "0") +
+    String(date.getMinutes()).padStart(2, "0") +
+    String(date.getSeconds()).padStart(2, "0")
+  );
 }
 
 function tplProgramXml({ channelId, start, stop, title, desc, date }) {
   return `<programme channel="${channelId}" start="${start} ${CONFIG.TIMEZONE_OFFSET}" stop="${stop} ${CONFIG.TIMEZONE_OFFSET}">
     <title>${escapeHtml(title)}</title><desc>${escapeHtml(desc)}</desc><date>${date}</date>
-  </programme>`
+  </programme>`;
 }
 
 function tplChannelXml({ id, name }) {
-  return `<channel id="${id}"><display-name lang="Slovakia">${escapeHtml(name)}</display-name></channel>`
+  return `<channel id="${id}"><display-name lang="Slovakia">${escapeHtml(name)}</display-name></channel>`;
 }
 
 function escapeHtml(input) {
-    const specialChars = {
-        '&': '&amp;',
-        '<': '&lt;',
-        '>': '&gt;',
-        '"': '&quot;',
-        "'": '&#39;', // The apostrophe can also be replaced using this for HTML.
-    };
+  const specialChars = {
+    "&": "&amp;",
+    "<": "&lt;",
+    ">": "&gt;",
+    '"': "&quot;",
+    "'": "&#39;", // The apostrophe can also be replaced using this for HTML.
+  };
 
-    return input.replace(/[&<>"']/g, (match) => specialChars[match]);
+  return input.replace(/[&<>"']/g, (match) => specialChars[match]);
 }
 
 module.exports = { generateEpgXml };
