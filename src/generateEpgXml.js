@@ -8,8 +8,8 @@ const CONFIG = {
     "Markíza HD.sk",
     "DAJTO HD.sk",
     ":24 HD.sk",
-    "Markíza KRIMI HD.sk",
-    "Markíza Klasik HD.sk",
+    // "Markíza KRIMI HD.sk",
+    // "Markíza Klasik HD.sk",
   ],
   BASE_URLS: "https://www.open-epg.com/files/slovakia1.xml",
 };
