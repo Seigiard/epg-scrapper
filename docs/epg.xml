@@ -18,136 +18,6 @@
   <channel id="Markíza HD.sk">
     <display-name>Markíza HD.sk</display-name>
   </channel>
-  <programme start="20260329222300 +0000" stop="20260329231500 +0000" channel=":24 HD.sk">
-    <title>Správy N</title>
-    <desc>Aktuálne informácie na jednom mieste. (skryte titulky)</desc>
-  </programme>
-  <programme start="20260329231500 +0000" stop="20260330003000 +0000" channel=":24 HD.sk">
-    <title>O 5 minút 12 N</title>
-    <desc>Politická diskusia o temach, ktore počas týždňa rezonovali v politickom a spoločenskom dianí. (skryte titulky)</desc>
-  </programme>
-  <programme start="20260330003000 +0000" stop="20260330010000 +0000" channel=":24 HD.sk">
-    <title>Cez lupu</title>
-    <sub-title>Cez lupu - Ukrajinske zdravotne sestry</sub-title>
-    <desc>Slovensku chýbajú tisíce zdravotných sestier. Ukrajinske sestry tu chcú pracovať - no system ich často zastaví na začiatku. Je problem v kvalite vzdelania, v byrokracii, alebo v nedostatku odvahy zmeniť pravidlá? (skryte titulky)</desc>
-    <episode-num system="xmltv_ns">.5.</episode-num>
-  </programme>
-  <programme start="20260330012500 +0000" stop="20260330022000 +0000" channel=":24 HD.sk">
-    <title>Správy N</title>
-    <desc>Aktuálne informácie na jednom mieste. (skryte titulky)</desc>
-  </programme>
-  <programme start="20260330022500 +0000" stop="20260330025500 +0000" channel=":24 HD.sk">
-    <title>Cez lupu</title>
-    <sub-title>Cez lupu - Ukrajinske zdravotne sestry</sub-title>
-    <desc>Slovensku chýbajú tisíce zdravotných sestier. Ukrajinske sestry tu chcú pracovať - no system ich často zastaví na začiatku. Je problem v kvalite vzdelania, v byrokracii, alebo v nedostatku odvahy zmeniť pravidlá? (skryte titulky)</desc>
-    <episode-num system="xmltv_ns">.5.</episode-num>
-  </programme>
-  <programme start="20260330035500 +0000" stop="20260330050000 +0000" channel=":24 HD.sk">
-    <title>Správy N</title>
-    <desc>Aktuálne informácie na jednom mieste. (skryte titulky)</desc>
-  </programme>
-  <programme start="20260330050000 +0000" stop="20260330063000 +0000" channel=":24 HD.sk">
-    <title>Ranne správy</title>
-    <desc>Najdôležitejšie informácie, rozhovory na aktuálne temy, očakávane udalosti začínajúceho sa dňa. (skryte titulky)</desc>
-    <episode-num system="xmltv_ns">.58.</episode-num>
-  </programme>
-  <programme start="20260330063000 +0000" stop="20260330074500 +0000" channel=":24 HD.sk">
-    <title>O 5 minút 12 N</title>
-    <desc>Politická diskusia o temach, ktore počas týždňa rezonovali v politickom a spoločenskom dianí. (skryte titulky)</desc>
-  </programme>
-  <programme start="20260330080000 +0000" stop="20260330083000 +0000" channel=":24 HD.sk">
-    <title>Správy :24</title>
-    <desc>Slovenská republika 2025 (skryte titulky)</desc>
-  </programme>
-  <programme start="20260330083000 +0000" stop="20260330090000 +0000" channel=":24 HD.sk">
-    <title>Správy :24</title>
-    <desc>Slovenská republika 2025 (skryte titulky)</desc>
-  </programme>
-  <programme start="20260330090000 +0000" stop="20260330093000 +0000" channel=":24 HD.sk">
-    <title>Správy :24</title>
-    <desc>Slovenská republika 2025 (skryte titulky)</desc>
-  </programme>
-  <programme start="20260330093000 +0000" stop="20260330100000 +0000" channel=":24 HD.sk">
-    <title>Interview :24</title>
-    <sub-title>Jana Nagyová</sub-title>
-    <desc>Diskusná relácia s hosťami o aktuálnych temach (skryte titulky)</desc>
-    <episode-num system="xmltv_ns">.55.</episode-num>
-  </programme>
-  <programme start="20260330100000 +0000" stop="20260330103000 +0000" channel=":24 HD.sk">
-    <title>Správy</title>
-    <desc>Najdôležitejšie udalosti uplynulých hodín, aktuálne dianie doma aj vo svete. (skryte titulky)</desc>
-  </programme>
-  <programme start="20260330103000 +0000" stop="20260330110000 +0000" channel=":24 HD.sk">
-    <title>Z prvej ruky</title>
-    <desc>Diskusná rozhlasová relácia o aktuálnych temach. (skryte titulky)</desc>
-    <episode-num system="xmltv_ns">.54.</episode-num>
-  </programme>
-  <programme start="20260330110000 +0000" stop="20260330113000 +0000" channel=":24 HD.sk">
-    <title>Aktuálne :24</title>
-    <desc>Správy, rozhovory, žive vstupy, tlačove konferencie. Aktuálne dianie doma i vo svete na spravodajskej :24. (skryte titulky)</desc>
-    <episode-num system="xmltv_ns">.58.</episode-num>
-  </programme>
-  <programme start="20260330113000 +0000" stop="20260330120000 +0000" channel=":24 HD.sk">
-    <title>Aktuálne :24</title>
-    <desc>Správy, rozhovory, žive vstupy, tlačove konferencie. Aktuálne dianie doma i vo svete na spravodajskej :24. (skryte titulky)</desc>
-    <episode-num system="xmltv_ns">.58.</episode-num>
-  </programme>
-  <programme start="20260330122500 +0000" stop="20260330130000 +0000" channel=":24 HD.sk">
-    <title>Občan za dverami</title>
-    <desc>Jedna seniorka zaplatila z odložených peňazí na pohreb, druhá musela dať vačšiu časť celeho svojho dôchodku. A to na revíziu elektriny, ktorú vykonal technik nedôsledne, za pár minút a vlastne to ani nepotrebovali. Po našej nedávnej reportáži sa ozvali ďalší dôchodcovia, ktorí sa cítia byť podvedení samozvanými revíznymi technikmi firmy, ktorá úraduje po slovenských obciach a využíva na to aj miestne rozhlasy... Sedemposchodová bytovka. Jej obyvatelia zo dňa na deň zostali bez výťahu.</desc>
-  </programme>
-  <programme start="20260330130000 +0000" stop="20260330133000 +0000" channel=":24 HD.sk">
-    <title>Aktuálne :24</title>
-    <desc>Správy, rozhovory, žive vstupy, tlačove konferencie. Aktuálne dianie doma i vo svete na spravodajskej :24. (skryte titulky)</desc>
-    <episode-num system="xmltv_ns">.58.</episode-num>
-  </programme>
-  <programme start="20260330133000 +0000" stop="20260330140000 +0000" channel=":24 HD.sk">
-    <title>Aktuálne :24</title>
-    <desc>Aktuálne spravodajstvo z domova a zo sveta obohatene o názory odborníkov, či analytikov z rôznych oblastí spoločenskeho života.</desc>
-    <episode-num system="xmltv_ns">.58.</episode-num>
-  </programme>
-  <programme start="20260330140000 +0000" stop="20260330143000 +0000" channel=":24 HD.sk">
-    <title>Správy</title>
-    <desc>Najdôležitejšie udalosti uplynulých hodín, aktuálne dianie doma aj vo svete. (skryte titulky)</desc>
-  </programme>
-  <programme start="20260330143000 +0000" stop="20260330150000 +0000" channel=":24 HD.sk">
-    <title>Ekonomika :24</title>
-    <desc>Všetko dôležite z oblasti ekonomiky na jednom mieste. (skryte titulky)</desc>
-    <episode-num system="xmltv_ns">.47.</episode-num>
-  </programme>
-  <programme start="20260330150000 +0000" stop="20260330153000 +0000" channel=":24 HD.sk">
-    <title>Svet :24</title>
-    <desc>Najdôležitejšie udalosti zo sveta doplnene názormi odborníkov. (skryte titulky)</desc>
-    <episode-num system="xmltv_ns">.61.</episode-num>
-  </programme>
-  <programme start="20260330153000 +0000" stop="20260330160000 +0000" channel=":24 HD.sk">
-    <title>Správy z regionov</title>
-    <desc>Novinky, ktore rezonujú v jednotlivých regionoch Slovenska. (skryte titulky)</desc>
-  </programme>
-  <programme start="20260330170000 +0000" stop="20260330175500 +0000" channel=":24 HD.sk">
-    <title>Správy N</title>
-    <desc>Aktuálne informácie na jednom mieste. (skryte titulky)</desc>
-  </programme>
-  <programme start="20260330182000 +0000" stop="20260330190500 +0000" channel=":24 HD.sk">
-    <title>Komentáre dňa</title>
-    <desc>Aktuálne temy z rôznych uhlov pohľadu. Moderovaná diskusia so zaujímavými hosťami. (skryte titulky)</desc>
-    <episode-num system="xmltv_ns">.45.</episode-num>
-  </programme>
-  <programme start="20260330193000 +0000" stop="20260330200000 +0000" channel=":24 HD.sk">
-    <title>Z prvej ruky</title>
-    <desc>Diskusná rozhlasová relácia o aktuálnych temach. (skryte titulky)</desc>
-    <episode-num system="xmltv_ns">.54.</episode-num>
-  </programme>
-  <programme start="20260330205000 +0000" stop="20260330212000 +0000" channel=":24 HD.sk">
-    <title>Svet :24</title>
-    <desc>Najdôležitejšie udalosti zo sveta doplnene názormi odborníkov. (skryte titulky)</desc>
-    <episode-num system="xmltv_ns">.61.</episode-num>
-  </programme>
-  <programme start="20260330214400 +0000" stop="20260330223500 +0000" channel=":24 HD.sk">
-    <title>Komentáre dňa</title>
-    <desc>Aktuálne temy z rôznych uhlov pohľadu. Moderovaná diskusia so zaujímavými hosťami. (skryte titulky)</desc>
-    <episode-num system="xmltv_ns">.45.</episode-num>
-  </programme>
   <programme start="20260330223500 +0000" stop="20260330232500 +0000" channel=":24 HD.sk">
     <title>Správy N</title>
     <desc>Aktuálne informácie na jednom mieste. (skryte titulky)</desc>
@@ -304,124 +174,157 @@
     <title>Správy N</title>
     <desc>Aktuálne informácie na jednom mieste. (skryte titulky)</desc>
   </programme>
-  <programme start="20260329234500 +0000" stop="20260330002000 +0000" channel="DAJTO HD.sk">
-    <title>Susedia</title>
-    <sub-title>Striakiller</sub-title>
-    <desc>Chlapom &quot;prihára</desc>
-    <episode-num system="xmltv_ns">.17.</episode-num>
+  <programme start="20260401030000 +0000" stop="20260401033000 +0000" channel=":24 HD.sk">
+    <title>Svet :24</title>
+    <desc>Najdôležitejšie udalosti zo sveta doplnene názormi odborníkov. (skryte titulky)</desc>
+    <episode-num system="xmltv_ns">.62.</episode-num>
   </programme>
-  <programme start="20260330002000 +0000" stop="20260330011000 +0000" channel="DAJTO HD.sk">
-    <title>Horná Dolná</title>
-    <sub-title>Rybník</sub-title>
-    <desc>Niekto vraždí ryby v obecnom rybníku. Starosta baží po pomste.</desc>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
+  <programme start="20260401033000 +0000" stop="20260401042000 +0000" channel=":24 HD.sk">
+    <title>Správy N</title>
+    <desc>Aktuálne informácie na jednom mieste. (skryte titulky)</desc>
   </programme>
-  <programme start="20260330011000 +0000" stop="20260330022000 +0000" channel="DAJTO HD.sk">
-    <title>Smiechoty</title>
-    <desc>Stres sa najlepšie odbúrava smiechom. Hovorí sa, že naozaj najlepší je ten škodoradostný. Preto ani dnes si nenechajte ujsť smiechoty - komicke situácie zachytene domácim videom. Aj dnešným večerom vás bude sprevádzať Vilo Rozboril.</desc>
-    <episode-num system="xmltv_ns">.0.</episode-num>
+  <programme start="20260401042000 +0000" stop="20260401050000 +0000" channel=":24 HD.sk">
+    <title>Ekonomika :24</title>
+    <desc>Všetko dôležite z oblasti ekonomiky na jednom mieste. (skryte titulky)</desc>
+    <episode-num system="xmltv_ns">.48.</episode-num>
   </programme>
-  <programme start="20260330022000 +0000" stop="20260330030500 +0000" channel="DAJTO HD.sk">
-    <title>Zig a Sharko</title>
-    <desc>Jediným cieľom hladnej hyeny Ziga, je morská víla Marina, ktorá ale má statneho ochrancu žraloka Sharka.</desc>
+  <programme start="20260401050000 +0000" stop="20260401063000 +0000" channel=":24 HD.sk">
+    <title>Ranne správy</title>
+    <desc>Najdôležitejšie informácie, rozhovory na aktuálne temy, očakávane udalosti začínajúceho sa dňa. (skryte titulky)</desc>
+    <episode-num system="xmltv_ns">.60.</episode-num>
   </programme>
-  <programme start="20260330030500 +0000" stop="20260330040000 +0000" channel="DAJTO HD.sk">
-    <title>Oggy a šváby</title>
-    <desc>Pridajte sa k fešnemu kocúrovi Oggymu a hravej slonici Piyi na ceste za bláznivými dobrodružstvami. Trojica švábov im bude chcieť pokaziť celú zábavu.</desc>
+  <programme start="20260401063000 +0000" stop="20260401070000 +0000" channel=":24 HD.sk">
+    <title>Interview :24</title>
+    <sub-title>Martin Karabiňoš</sub-title>
+    <desc>Diskusná relácia s hosťami o aktuálnych temach (skryte titulky)</desc>
+    <episode-num system="xmltv_ns">.57.</episode-num>
   </programme>
-  <programme start="20260330040000 +0000" stop="20260330045500 +0000" channel="DAJTO HD.sk">
-    <title>Je to možne?!</title>
-    <desc>Je to možne?! Minimálne raz v živote si toto každý z nás povedal. V živote sú iste chvíle, ktore sa jednoducho nemôžu stať - ale aj tak sa stanú! Neuveriteľne veci sa skrátka stávajú. Nuž a presne o tom bola na skvelej fabulácii a čare skrytej kamery postavená vtipná relácia na prelome tisícročí mimoriadne vychyteneho zabávača Joža Pročka! V relácii Je to možne?!</desc>
-    <episode-num system="xmltv_ns">.0.</episode-num>
+  <programme start="20260401071000 +0000" stop="20260401080000 +0000" channel=":24 HD.sk">
+    <title>Komentáre dňa</title>
+    <desc>Aktuálne temy z rôznych uhlov pohľadu. Moderovaná diskusia so zaujímavými hosťami. (skryte titulky)</desc>
+    <episode-num system="xmltv_ns">.46.</episode-num>
   </programme>
-  <programme start="20260330045500 +0000" stop="20260330053000 +0000" channel="DAJTO HD.sk">
-    <title>Susedia</title>
-    <sub-title>Dobrý deň, pán Nagy</sub-title>
-    <desc>František a Lászlo majú tajomstvá a stále hrozí, že budú odhalení. Lászlo chodí v jednom dlhorukávovom tričku, ktorým zakrýva tetovanie. Poštár dá Zuzane šek na zaplatenie dane z podnikateľskeho priestoru, ktorý je však pre Františka. Chlapi sa tvária, že chodia do práce, hoci v skutočnosti prerábajú priestor na reštauráciu. Aby mali elektrinu, musí Lászlo z vlastneho bytu natiahnuť predlžovačku. Sladká chce podnikať s nimi.</desc>
-    <episode-num system="xmltv_ns">.16.</episode-num>
+  <programme start="20260401080000 +0000" stop="20260401083000 +0000" channel=":24 HD.sk">
+    <title>Správy :24</title>
+    <desc>Slovenská republika 2025 (skryte titulky)</desc>
   </programme>
-  <programme start="20260330053000 +0000" stop="20260330060500 +0000" channel="DAJTO HD.sk">
-    <title>Susedia</title>
-    <sub-title>Striakiller</sub-title>
-    <desc>Chlapom &quot;prihára</desc>
-    <episode-num system="xmltv_ns">.17.</episode-num>
+  <programme start="20260401083000 +0000" stop="20260401090000 +0000" channel=":24 HD.sk">
+    <title>Správy :24</title>
+    <desc>Slovenská republika 2025 (skryte titulky)</desc>
   </programme>
-  <programme start="20260330060500 +0000" stop="20260330074500 +0000" channel="DAJTO HD.sk">
-    <title>Kredenc</title>
-    <desc>Zábavná retrospektíva vo forme satirických správ a parodií na aktuálne temy z mediálneho, spoločenskeho a politickeho prostredia. Diváci sa môžu tešiť na špičkovú zostavu hercov a komikov. V Kredenci sa predstavia vynikajúci Juraj Kemka, Petra Polnišová, Roman Pomajbo, Zuzana Šebová, Svaťo Malachovský, Michal Kubovčík, Dano Heriban a Števo Martinovič.</desc>
-    <episode-num system="xmltv_ns">.4.</episode-num>
+  <programme start="20260401090000 +0000" stop="20260401093000 +0000" channel=":24 HD.sk">
+    <title>Správy :24</title>
+    <desc>Slovenská republika 2025 (skryte titulky)</desc>
   </programme>
-  <programme start="20260330074500 +0000" stop="20260330083500 +0000" channel="DAJTO HD.sk">
-    <title>Partička</title>
-    <desc>Petra Polnišová, Lukáš Latinák, Marián Miezga, Robo Jakab a Roman Pomajbo sú absolútni profesionáli, ktorí bez vačších problemov - hoc aj o polnoci, poslepiačky či pospiatky - zahrajú... V podstate úplne čokoľvek! A presne o to v medzičasom už kultovej zábavnej šou Partička ide - nenechať sa zaskočiť hocako absurdne znejúcim zadaním diabolskeho moderátora Dana Dangla a na veľkú radosť divákov v štúdiu i pred obrazovkami improvizovať ako o život!</desc>
-    <episode-num system="xmltv_ns">.3.</episode-num>
+  <programme start="20260401093000 +0000" stop="20260401100000 +0000" channel=":24 HD.sk">
+    <title>Ekonomika :24</title>
+    <desc>Všetko dôležite z oblasti ekonomiky na jednom mieste. (skryte titulky)</desc>
+    <episode-num system="xmltv_ns">.48.</episode-num>
   </programme>
-  <programme start="20260330083500 +0000" stop="20260330091500 +0000" channel="DAJTO HD.sk">
-    <title>Horná Dolná</title>
-    <sub-title>Diviak</sub-title>
-    <desc>Dedinčanov ohrozuje nebezpečný lesný netvor!</desc>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
+  <programme start="20260401100000 +0000" stop="20260401103000 +0000" channel=":24 HD.sk">
+    <title>Správy</title>
+    <desc>Najdôležitejšie udalosti uplynulých hodín, aktuálne dianie doma aj vo svete. (skryte titulky)</desc>
   </programme>
-  <programme start="20260330101500 +0000" stop="20260330104500 +0000" channel="DAJTO HD.sk">
-    <title>Dva a pol chlapa</title>
-    <desc>Sú Vianoce a každý má naponáhlo. Walden a Billy sa musia rozhodnúť, či príjmu ponuku Marka Zuckerberga, ktorý chce dať celý majetok, aby vlastnil rozhodujúci podiel vo firme. Alanovi dochádza, že na sviatky si bude tento rok musieť vystačiť sám. A Walden ďalej pokračuje vo svojej tajnej identite Sama Wilsona, aby si udržal normálnu priateľku... (skryte titulky)</desc>
-    <episode-num system="xmltv_ns">9.10.</episode-num>
+  <programme start="20260401103000 +0000" stop="20260401110000 +0000" channel=":24 HD.sk">
+    <title>Z prvej ruky</title>
+    <desc>Diskusná rozhlasová relácia o aktuálnych temach. (skryte titulky)</desc>
+    <episode-num system="xmltv_ns">.56.</episode-num>
   </programme>
-  <programme start="20260330111000 +0000" stop="20260330115500 +0000" channel="DAJTO HD.sk">
-    <title>Teoria veľkeho tresku</title>
-    <desc>Amy by mohla byť ešte len štvrtou ženou, ktorá získa Nobelovu cenu za fyziku. Z tej predstavy je pod takým veľkým tlakom, že sa Sheldonovi nedarí ju upokojiť. Rozhodnú sa preto vyskúšať nádrž senzorickej deprivácie...</desc>
-    <episode-num system="xmltv_ns">11.18.</episode-num>
+  <programme start="20260401110000 +0000" stop="20260401113000 +0000" channel=":24 HD.sk">
+    <title>Aktuálne :24</title>
+    <desc>Správy, rozhovory, žive vstupy, tlačove konferencie. Aktuálne dianie doma i vo svete na spravodajskej :24. (skryte titulky)</desc>
+    <episode-num system="xmltv_ns">.60.</episode-num>
   </programme>
-  <programme start="20260330122000 +0000" stop="20260330125000 +0000" channel="DAJTO HD.sk">
-    <title>Teoria veľkeho tresku</title>
-    <desc>Barry Kripke tvrdí, že má dôkaz o tom, že doktor Pemberton podvádzal pri písaní diplomovej práce, čo by mohlo ohroziť jeho šance na Nobelovu cenu. A Sheldon s Amy riešia dilemu, či o tom majú niekomu povedať...</desc>
-    <episode-num system="xmltv_ns">11.20.</episode-num>
+  <programme start="20260401113000 +0000" stop="20260401120000 +0000" channel=":24 HD.sk">
+    <title>Aktuálne :24</title>
+    <desc>Správy, rozhovory, žive vstupy, tlačove konferencie. Aktuálne dianie doma i vo svete na spravodajskej :24. (skryte titulky)</desc>
+    <episode-num system="xmltv_ns">.60.</episode-num>
   </programme>
-  <programme start="20260330130500 +0000" stop="20260330133500 +0000" channel="DAJTO HD.sk">
-    <title>Teoria veľkeho tresku</title>
-    <desc>Sheldon a Amy napato očakávajú telefonát zo Švedska, či získali Nobelovu cenu. Pozornosť novinárov aj kolegov, ktorá neskôr nasleduje, ale vydesí Sheldona natoľko, že sa začne skrývať...</desc>
-    <episode-num system="xmltv_ns">11.22.</episode-num>
+  <programme start="20260401120000 +0000" stop="20260401123000 +0000" channel=":24 HD.sk">
+    <title>Aktuálne :24</title>
+    <desc>Správy, rozhovory, žive vstupy, tlačove konferencie. Aktuálne dianie doma i vo svete na spravodajskej :24. (skryte titulky)</desc>
+    <episode-num system="xmltv_ns">.60.</episode-num>
   </programme>
-  <programme start="20260330133500 +0000" stop="20260330140500 +0000" channel="DAJTO HD.sk">
-    <title>Priatelia</title>
-    <desc>Rachel je poriadne naštvaná, pretože Monica omylom pozvala jej pracovneho rivala Gavina na jej oslavu narodenín. Ross má plne ruky práce, aby &quot;odtrhol&quot; Joeyho od novej a veľmi príťažlivej slečny, ktorá stráži malú Emmu. Rachel úplne nečakane dostala od Gavina malý darček. Phoebe sa snaží prehovoriť svojho priateľa Mika, aby spoločne v byte chovali male krysy.</desc>
-    <episode-num system="xmltv_ns">8.11.</episode-num>
+  <programme start="20260401123000 +0000" stop="20260401130000 +0000" channel=":24 HD.sk">
+    <title>Slovensko v obrazoch</title>
+    <desc>V roku 1995 počas návštevy Slovenska vyhlásil pápež Ján Pavol II. troch košických mučeníkov za svatých. Paradoxne, ani jeden z nich nebol Slovák. Relikvie dvoch jezuitov sú v Trnave, tretí odpočíva v Ostrihome. V reportáži sa dozviete, ako sa svatci dostali z Košíc do maleho Ríma. Kroje tzv. čilejkárskeho regionu z Tekova sú najvyzdobenejšie. V plnej krojovej paráde ženy na sebe nosili aj 16 kilogramov. Legendárna tehlová budova YMKA v Bratislave a Eiffelova veža v Paríži.</desc>
+    <episode-num system="xmltv_ns">1..</episode-num>
   </programme>
-  <programme start="20260330140500 +0000" stop="20260330144500 +0000" channel="DAJTO HD.sk">
-    <title>Priatelia</title>
-    <desc>Phoebe vezme Monicu do karaoke baru, kde jej priateľ Mike hrá na piano. Napriek počiatočnemu ostychu Monica nakoniec zaspieva niekoľko pesničiek. Trochu naivne sa pritom domnieva, že sa všetkým návštevníkom baru jej spev veľmi páči. Pravý dôvod opakovaneho potlesku je ale úplne iný. Ross požiada Chandlera, aby mu pomohol nájsť nejakú dievčinu. Chce totiž, aby sa Rachel prestala zaujímať o svojho kolegu Gavina a začala žiarliť.</desc>
-    <episode-num system="xmltv_ns">8.12.</episode-num>
+  <programme start="20260401130000 +0000" stop="20260401133000 +0000" channel=":24 HD.sk">
+    <title>Aktuálne :24</title>
+    <desc>Správy, rozhovory, žive vstupy, tlačove konferencie. Aktuálne dianie doma i vo svete na spravodajskej :24. (skryte titulky)</desc>
+    <episode-num system="xmltv_ns">.60.</episode-num>
   </programme>
-  <programme start="20260330151000 +0000" stop="20260330154000 +0000" channel="DAJTO HD.sk">
-    <title>Dva a pol chlapa</title>
-    <desc>Kým Kate je v New Yorku a chystá sa na svoju prehliadku, Walden sa u nej v byte zabíja smútkom. Našťastie ho navštívi Alan a presvedčí ho, že viesť dvojitý život je nad jeho sily a že by mal povedať Kate, kto naozaj je. A tak sa Alan s Waldenom vydávajú do New Yorku ... (skryte titulky)</desc>
-    <episode-num system="xmltv_ns">9.12.</episode-num>
+  <programme start="20260401133000 +0000" stop="20260401140000 +0000" channel=":24 HD.sk">
+    <title>Aktuálne :24</title>
+    <desc>Aktuálne spravodajstvo z domova a zo sveta obohatene o názory odborníkov, či analytikov z rôznych oblastí spoločenskeho života.</desc>
+    <episode-num system="xmltv_ns">.60.</episode-num>
   </programme>
-  <programme start="20260330160500 +0000" stop="20260330163500 +0000" channel="DAJTO HD.sk">
-    <title>2 baby na mizine</title>
-    <sub-title>A tajná skrýša</sub-title>
-    <desc>Carolinin otec Martin nalieha, aby dcera pri svojej budúcej návšteve so sebou priviedla Max. Kladie jej na srdce, aby v blížiacej sa dražbe rodinneho majetku Channingovcov rozhodne vydražila postriebrený pohár, ktorý Caroline kedysi získala za víťazstvo v jazde cez prekážky. Pragmaticky zmýšľajúca Max je presvedčená, že mu na tom tak záleží preto, že do podstavca pohára schoval vačšiu sumu peňazí, aby dceru zabezpečil do budúcnosti.</desc>
-    <episode-num system="xmltv_ns">1.0.</episode-num>
+  <programme start="20260401140000 +0000" stop="20260401143000 +0000" channel=":24 HD.sk">
+    <title>Správy</title>
+    <desc>Najdôležitejšie udalosti uplynulých hodín, aktuálne dianie doma aj vo svete. (skryte titulky)</desc>
   </programme>
-  <programme start="20260330163500 +0000" stop="20260330173500 +0000" channel="DAJTO HD.sk">
-    <title>Horná Dolná</title>
-    <sub-title>Kúpalisko</sub-title>
-    <desc>Starosta chce premeniť obecný rybník na turistickú atrakciu. Celá akcia prebehne bez strát na životoch.</desc>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
+  <programme start="20260401143000 +0000" stop="20260401150000 +0000" channel=":24 HD.sk">
+    <title>Ekonomika :24</title>
+    <desc>Všetko dôležite z oblasti ekonomiky na jednom mieste. (skryte titulky)</desc>
+    <episode-num system="xmltv_ns">.49.</episode-num>
   </programme>
-  <programme start="20260330173500 +0000" stop="20260330183000 +0000" channel="DAJTO HD.sk">
-    <title>Susedia</title>
-    <sub-title>Chatamari</sub-title>
-    <desc>Ildiko zmizla. Lászlo verí, že sa vráti, keď sa reštaurácia dobre rozbehne. Andrejka navrhuje, aby pozvali známeho americkeho &quot;foodblogera</desc>
-    <episode-num system="xmltv_ns">.18.</episode-num>
+  <programme start="20260401150000 +0000" stop="20260401153000 +0000" channel=":24 HD.sk">
+    <title>Svet :24</title>
+    <desc>Najdôležitejšie udalosti zo sveta doplnene názormi odborníkov. (skryte titulky)</desc>
+    <episode-num system="xmltv_ns">.63.</episode-num>
   </programme>
-  <programme start="20260330183000 +0000" stop="20260330203000 +0000" channel="DAJTO HD.sk">
-    <title>Smrtonosná pasca v oblakoch</title>
-    <desc>Výročný galavečer energetickeho giganta v srdci Londýna sa zmení na nočnú moru, keď budovu obsadí skupina radikálnych aktivistov a zajme 300 prominentných hostí. Ich cieľom je odhaliť rozsiahlu korupciu spoločnosti, no situácia sa rýchlo vymkne spod kontroly. Jeden z extremistov prevezme iniciatívu a je pripravený obetovať všetkých rukojemníkov, aby svetu vyslal svoju desivú anarchistickú správu.</desc>
+  <programme start="20260401153000 +0000" stop="20260401160000 +0000" channel=":24 HD.sk">
+    <title>Správy z regionov</title>
+    <desc>Novinky, ktore rezonujú v jednotlivých regionoch Slovenska. (skryte titulky)</desc>
   </programme>
-  <programme start="20260330203000 +0000" stop="20260330222500 +0000" channel="DAJTO HD.sk">
-    <title>Na love</title>
-    <desc>Bývalý príslušník námornej pechoty Jackson Hardison (Rib Hillis) pracuje v horách Montany ako lovecký sprievodca. Počas sprevádzania záhadnej novej klientky Kate (Rachel Cook) v divočine narazí na hroznú leteckú haváriu a 100 milionov dolárov v ukradnutých peniazoch. Rýchlo sa stanú jedinou prekážkou, ktorá stojí medzi nebezpečnou skupinou teroristov a ich stratenou hotovosťou, ktorú chcú za každú cenu získať spať.</desc>
+  <programme start="20260401162000 +0000" stop="20260401165000 +0000" channel=":24 HD.sk">
+    <title>Ekonomika :24</title>
+    <desc>Všetko dôležite z oblasti ekonomiky na jednom mieste. (skryte titulky)</desc>
+    <episode-num system="xmltv_ns">.49.</episode-num>
+  </programme>
+  <programme start="20260401170000 +0000" stop="20260401175000 +0000" channel=":24 HD.sk">
+    <title>Správy N</title>
+    <desc>Aktuálne informácie na jednom mieste. (skryte titulky)</desc>
+  </programme>
+  <programme start="20260401182000 +0000" stop="20260401190000 +0000" channel=":24 HD.sk">
+    <title>Komentáre dňa</title>
+    <desc>Aktuálne temy z rôznych uhlov pohľadu. Moderovaná diskusia so zaujímavými hosťami. (skryte titulky)</desc>
+    <episode-num system="xmltv_ns">.47.</episode-num>
+  </programme>
+  <programme start="20260401190000 +0000" stop="20260401200000 +0000" channel=":24 HD.sk">
+    <title>Odpovede s Ankou Žitnou</title>
+    <desc>Otvorená debata o temach, ktore hýbu každodenným životom. (skryte titulky)</desc>
+    <episode-num system="xmltv_ns">.11.</episode-num>
+  </programme>
+  <programme start="20260401214900 +0000" stop="20260401223000 +0000" channel=":24 HD.sk">
+    <title>Komentáre dňa</title>
+    <desc>Aktuálne temy z rôznych uhlov pohľadu. Moderovaná diskusia so zaujímavými hosťami. (skryte titulky)</desc>
+    <episode-num system="xmltv_ns">.47.</episode-num>
+  </programme>
+  <programme start="20260401223000 +0000" stop="20260401232000 +0000" channel=":24 HD.sk">
+    <title>Správy N</title>
+    <desc>Aktuálne informácie na jednom mieste. (skryte titulky)</desc>
+  </programme>
+  <programme start="20260401232000 +0000" stop="20260401235000 +0000" channel=":24 HD.sk">
+    <title>Svet :24</title>
+    <desc>Najdôležitejšie udalosti zo sveta doplnene názormi odborníkov. (skryte titulky)</desc>
+    <episode-num system="xmltv_ns">.63.</episode-num>
+  </programme>
+  <programme start="20260402001500 +0000" stop="20260402004500 +0000" channel=":24 HD.sk">
+    <title>Z prvej ruky</title>
+    <desc>Diskusná rozhlasová relácia o aktuálnych temach. (skryte titulky)</desc>
+    <episode-num system="xmltv_ns">.56.</episode-num>
+  </programme>
+  <programme start="20260402011000 +0000" stop="20260402020000 +0000" channel=":24 HD.sk">
+    <title>Správy N</title>
+    <desc>Aktuálne informácie na jednom mieste. (skryte titulky)</desc>
+  </programme>
+  <programme start="20260402022500 +0000" stop="20260402025500 +0000" channel=":24 HD.sk">
+    <title>Interview :24</title>
+    <sub-title>Peter Vereš</sub-title>
+    <desc>Diskusná relácia s hosťami o aktuálnych temach (skryte titulky)</desc>
+    <episode-num system="xmltv_ns">.58.</episode-num>
   </programme>
   <programme start="20260330230000 +0000" stop="20260330233500 +0000" channel="DAJTO HD.sk">
     <title>Susedia</title>
@@ -586,128 +489,134 @@
     <title>Zig a Sharko</title>
     <desc>Jediným cieľom hladnej hyeny Ziga, je morská víla Marina, ktorá ale má statneho ochrancu žraloka Sharka.</desc>
   </programme>
-  <programme start="20260329232000 +0000" stop="20260330005000 +0000" channel="Doma HD.sk">
-    <title>Osudove pokušenie</title>
-    <desc>Derrick Tyler (Michael Ealy) má úspešnú karieru športoveho agenta. Je bohatý a ženatý, ale práve v manželstve mu to v poslednej dobe trochu škrípe. Ide do Las Vegas, kde sa zoznámi s Valerie (Hilary Swank). Po spoločne strávenej noci sa Derrick snaží ráno vypariť, ale nemôže nájsť svoj telefon. Keď mu Valerie oznámi, že ho zamkla do trezoru a len tak mu ho nedá, tak pochopí, že návrat do bežneho života bude ťažký. Rozhodne tu neplatí, že čo sa stane vo Vegas, tak tam aj zostane.</desc>
+  <programme start="20260401030500 +0000" stop="20260401040000 +0000" channel="DAJTO HD.sk">
+    <title>Oggy a šváby</title>
+    <desc>Pridajte sa k fešnemu kocúrovi Oggymu a hravej slonici Piyi na ceste za bláznivými dobrodružstvami. Trojica švábov im bude chcieť pokaziť celú zábavu.</desc>
   </programme>
-  <programme start="20260330005000 +0000" stop="20260330031500 +0000" channel="Doma HD.sk">
-    <title>Mrazivá vášeň</title>
-    <desc>Sympatický psychiater Isaac Barr (Richard Gere) lieči mladú ženu Dianu (Uma Thurmanová) psychoanalyticky rozoberajúc jej obsedantne sny, a aby mohol ľahšie preniknúť do tajov jej duše, zoznámi sa s jej staršou sestrou Heather (Kim Basingerová). Tá mu odkrýva množstvo temných miest v Dianinej minulosti a súčasne prepadá psychiatrovmu mužnemu kúzlu. Jej záujem je opatovaný, a tak medzi mladými ľuďmi vznikne vášnivý vzťah.</desc>
+  <programme start="20260401040000 +0000" stop="20260401045500 +0000" channel="DAJTO HD.sk">
+    <title>Je to možne?!</title>
+    <desc>Je to možne?! Minimálne raz v živote si toto každý z nás povedal. V živote sú iste chvíle, ktore sa jednoducho nemôžu stať - ale aj tak sa stanú! Neuveriteľne veci sa skrátka stávajú. Nuž a presne o tom bola na skvelej fabulácii a čare skrytej kamery postavená vtipná relácia na prelome tisícročí mimoriadne vychyteneho zabávača Joža Pročka! V relácii Je to možne?!</desc>
+    <episode-num system="xmltv_ns">.0.</episode-num>
   </programme>
-  <programme start="20260330031500 +0000" stop="20260330040000 +0000" channel="Doma HD.sk">
-    <title>Bull: Súdny špecialista</title>
-    <desc>Chunk urobí svojej dcere Anne láskavosť a presvedčí Bulla, aby zastupoval tínedžera, ktorý je obžalovaný z lúpežneho prepadnutia a ktoreho na súde čaká ťažký boj, keď odmietne uviesť meno svojho komplica.</desc>
-    <episode-num system="xmltv_ns">4.13.</episode-num>
+  <programme start="20260401045500 +0000" stop="20260401053000 +0000" channel="DAJTO HD.sk">
+    <title>Susedia</title>
+    <sub-title>Chatamari</sub-title>
+    <desc>Ildiko zmizla. Lászlo verí, že sa vráti, keď sa reštaurácia dobre rozbehne. Andrejka navrhuje, aby pozvali známeho americkeho &quot;foodblogera</desc>
+    <episode-num system="xmltv_ns">.18.</episode-num>
   </programme>
-  <programme start="20260330040000 +0000" stop="20260330045500 +0000" channel="Doma HD.sk">
-    <title>Búrlive víno</title>
-    <desc>Rodinný seriál z krásneho vinárskeho prostredia - Búrlive víno, ktorý poteší najma romanticke duše. Určite vás zaujmú osudy dvoch vinárskych rodín, spojených dávnym priateľstvom a rozdelených klamstvom. Je to seriál, ktorý ponúka množstvo emocií, ktore patria do životov každeho z nás, ako je láska, priateľstvo, nenávisť a aj ľudskosť!</desc>
-    <episode-num system="xmltv_ns">3.65.</episode-num>
+  <programme start="20260401053000 +0000" stop="20260401060500 +0000" channel="DAJTO HD.sk">
+    <title>Susedia</title>
+    <sub-title>Americká invázia</sub-title>
+    <desc>Zuzanina &quot;stratená&quot; matka z Ameriky príde na návštevu. Predpovedala, že Zuza v živote nič nedokáže. Tá to nechce priznať a aby ju mama nevydedila, musia predstierať, že sú bohatí... Do reštaurácie sa ohlásila výprava amerických turistov! František na balkone varí guláš, ktorý budú spúšťať po lane. Andrejka ide na predajnú akciu miesto Zuzany, ktorá cez video urobí prezentáciu z vlastnej obývačky. Ildiko stále zvažuje odchod z domu, môže ísť bývať ku kamarátke do Győru kým neporodí.</desc>
+    <episode-num system="xmltv_ns">.19.</episode-num>
   </programme>
-  <programme start="20260330045500 +0000" stop="20260330054000 +0000" channel="Doma HD.sk">
-    <title>Rany z lásky</title>
-    <desc>Boxerka Monita se dozvídá, že ze zdravotních důvodů bude muset na nějaký čas svou sportovní karieru přerušit. Při hledání nove práce potkává podnikatele Martína...</desc>
-    <episode-num system="xmltv_ns">.120.</episode-num>
+  <programme start="20260401060500 +0000" stop="20260401073000 +0000" channel="DAJTO HD.sk">
+    <title>Kredenc</title>
+    <desc>Zábavná retrospektíva vo forme satirických správ a parodií na aktuálne temy z mediálneho, spoločenskeho a politickeho prostredia. Diváci sa môžu tešiť na špičkovú zostavu hercov a komikov. V Kredenci sa predstavia vynikajúci Juraj Kemka, Petra Polnišová, Roman Pomajbo, Zuzana Šebová, Svaťo Malachovský, Michal Kubovčík, Dano Heriban a Števo Martinovič.</desc>
+    <episode-num system="xmltv_ns">.9.</episode-num>
   </programme>
-  <programme start="20260330054000 +0000" stop="20260330064000 +0000" channel="Doma HD.sk">
-    <title>Rany z lásky</title>
-    <desc>Boxerka Monita se dozvídá, že ze zdravotních důvodů bude muset na nějaký čas svou sportovní karieru přerušit. Při hledání nove práce potkává podnikatele Martína...</desc>
-    <episode-num system="xmltv_ns">.121.</episode-num>
+  <programme start="20260401073000 +0000" stop="20260401082000 +0000" channel="DAJTO HD.sk">
+    <title>Partička</title>
+    <desc>Petra Polnišová, Lukáš Latinák, Marián Miezga, Robo Jakab a Roman Pomajbo sú absolútni profesionáli, ktorí bez vačších problemov - hoc aj o polnoci, poslepiačky či pospiatky - zahrajú... V podstate úplne čokoľvek! A presne o to v medzičasom už kultovej zábavnej šou Partička ide - nenechať sa zaskočiť hocako absurdne znejúcim zadaním diabolskeho moderátora Dana Dangla a na veľkú radosť divákov v štúdiu i pred obrazovkami improvizovať ako o život!</desc>
+    <episode-num system="xmltv_ns">.5.</episode-num>
   </programme>
-  <programme start="20260330064000 +0000" stop="20260330071500 +0000" channel="Doma HD.sk">
-    <title>Znovu 20</title>
-    <desc>Josh požiada Lizu, aby za ním a Clare pricestovala do Írska a zúčastnila sa ich svadby. Zároveň má dosvedčiť, že ich vzťah je skutočný, trvá už pol roka a nejde o sobáš z rozumu kvôli zelenej karte. Inými slovami - má klamať. Liza to najskôr odmieta, no napokon je dotlačená do situácie, keď musí verejne vystúpiť a pár obhájiť. Na rozlúčke so slobodou sa Josh opije a príde za Lizou do izby. Povie jej, že chce byť s ňou a že Clare oznámi zrušenie svadby. Ráno je však všetko inak.</desc>
-    <episode-num system="xmltv_ns">3.11.</episode-num>
+  <programme start="20260401082000 +0000" stop="20260401090500 +0000" channel="DAJTO HD.sk">
+    <title>Horná Dolná</title>
+    <sub-title>Návšteva</sub-title>
+    <desc>Do dediny má zavítať premier, aby slávnostne otvoril neexistujúci kruhový objazd. Starosta vyhlási poplach.</desc>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
   </programme>
-  <programme start="20260330071500 +0000" stop="20260330074500 +0000" channel="Doma HD.sk">
-    <title>Znovu 20</title>
-    <desc>Liza sa vracia do vydavateľstva Empirical v nádeji, že sa všetko vráti do zabehnutých koľají. Charles však oznámi nový projekt, ktorý spustí seriu znepokojivých odhalení.</desc>
-    <episode-num system="xmltv_ns">4.0.</episode-num>
+  <programme start="20260401105000 +0000" stop="20260401113000 +0000" channel="DAJTO HD.sk">
+    <title>Teoria veľkeho tresku</title>
+    <desc>Sheldon a Amy napato očakávajú telefonát zo Švedska, či získali Nobelovu cenu. Pozornosť novinárov aj kolegov, ktorá neskôr nasleduje, ale vydesí Sheldona natoľko, že sa začne skrývať...</desc>
+    <episode-num system="xmltv_ns">11.22.</episode-num>
   </programme>
-  <programme start="20260330074500 +0000" stop="20260330082000 +0000" channel="Doma HD.sk">
-    <title>Znovu 20</title>
-    <desc>Liza a Kelsey hľadajú v Millennial potenciálneho obchodneho partnera. Novomanžel Josh sa vracia do Brooklynu. A Charles sa na Lizu začne pozerať úplne novými očami.</desc>
-    <episode-num system="xmltv_ns">4.1.</episode-num>
+  <programme start="20260401113000 +0000" stop="20260401120000 +0000" channel="DAJTO HD.sk">
+    <title>Teoria veľkeho tresku</title>
+    <desc>Cestou v lietadle je Sheldon trochu vydesený z toho, že Penny stále navštevuje toaletu. Obáva sa, že trpí nákazlivou chorobou. A tak musia Penny a Leonard s pravdou von...</desc>
+    <episode-num system="xmltv_ns">11.23.</episode-num>
   </programme>
-  <programme start="20260330082000 +0000" stop="20260330091000 +0000" channel="Doma HD.sk">
-    <title>Bull: Súdny špecialista</title>
-    <desc>Keď Bullov tím zastupuje Hanka Alstona, agenta pre vymáhanie detí, ktorý je obvinený z podvodu, pretože nemal zdokumentovane dôkazy o úspechoch svojich tajných operácií, Bull sa snaží presvedčiť federálnu porotu bez použitia tvrdých dôkazov.</desc>
-    <episode-num system="xmltv_ns">4.14.</episode-num>
+  <programme start="20260401120000 +0000" stop="20260401123000 +0000" channel="DAJTO HD.sk">
+    <title>Teoria veľkeho tresku</title>
+    <desc>Keď sa Sheldon a Leonard vracajú zo spermobanky pre jedincov s vysokým IQ, stretnú prvýkrát svoju novú susedku Penny, ktorá sa práve nasťahovala do bytu oproti. Leonardovi Penny ihneď učaruje. Na scenu prichádzajú aj Howard a Raj- Sheldonovi a Leonardovi najlepší kamaráti. (skryte titulky)</desc>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20260330091000 +0000" stop="20260330100000 +0000" channel="Doma HD.sk">
-    <title>Leyla</title>
-    <desc>Nur zostane v šoku, keď sa Leyla objaví v kuchyni ako Vedatova osobná šefkuchárka. Mali sa dozvie, že obyvatelia vily sú Nurini príbuzní. V jednom z opustených bytových domov rodiny Koroğluovcov dôjde k vážnej nehode, ktorá sa dostane do správ…</desc>
-    <episode-num system="xmltv_ns">.118.</episode-num>
+  <programme start="20260401123000 +0000" stop="20260401130000 +0000" channel="DAJTO HD.sk">
+    <title>Teoria veľkeho tresku</title>
+    <desc>Penny sa trochu hnevá. Zistí totiž, že kým spala do bytu sa jej vkradli Leonard a Sheldon a úplne všetok neporiadok jej upratali. (skryte titulky)</desc>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
   </programme>
-  <programme start="20260330100000 +0000" stop="20260330111000 +0000" channel="Doma HD.sk">
-    <title>Leyla</title>
-    <desc>Celá rodina rieši následky nehody a snaží sa uhasiť škandál, ktorý prepukol. Leyla by najradšej povedala Erenovi pravdu, no nemôže. Feza si postupne získava Dilarinu priazeň - a zároveň si berie na mušku Vedata…</desc>
-    <episode-num system="xmltv_ns">.119.</episode-num>
+  <programme start="20260401130000 +0000" stop="20260401133000 +0000" channel="DAJTO HD.sk">
+    <title>Teoria veľkeho tresku</title>
+    <desc>Leonard pozve Penny na „nenápadne“ rande, keď zistí, že by mohla začať chodiť s ďalším svalovcom. (skryte titulky)</desc>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
   </programme>
-  <programme start="20260330111000 +0000" stop="20260330120500 +0000" channel="Doma HD.sk">
-    <title>Oteckovia</title>
-    <desc>Tamara obviní Mareka, že kvôli nemu pribrala! Sisa si myslí, že Lenka má na Alexa zlý vplyv. Marek dostane nápad, ako Petru dostať z domu…</desc>
-    <episode-num system="xmltv_ns">3.4.</episode-num>
-  </programme>
-  <programme start="20260330120500 +0000" stop="20260330131500 +0000" channel="Doma HD.sk">
-    <title>Nedodržaný sľub</title>
-    <desc>Azra je úspěšná rozvodová právnička, která pracuje, stejně jako její sestra Sanem, v advokátní kanceláři sve matky Colpan. Jejich klienty jsou nejbohatší lide z Istanbulu. Po sporu s matkou Azra firmu ze dne na den opouští a nechá se zaměstnat u konkurenční firmy. A právě tehdy se objeví její otec Faruk, který před dávnými lety rodinu opustil a všichni ho měli za mrtveho...</desc>
-    <episode-num system="xmltv_ns">.60.</episode-num>
-  </programme>
-  <programme start="20260330131500 +0000" stop="20260330140500 +0000" channel="Doma HD.sk">
-    <title>Nedodržaný sľub</title>
-    <desc>Azra je úspěšná rozvodová právnička, která pracuje, stejně jako její sestra Sanem, v advokátní kanceláři sve matky Colpan. Jejich klienty jsou nejbohatší lide z Istanbulu. Po sporu s matkou Azra firmu ze dne na den opouští a nechá se zaměstnat u konkurenční firmy. A právě tehdy se objeví její otec Faruk, který před dávnými lety rodinu opustil a všichni ho měli za mrtveho...</desc>
-    <episode-num system="xmltv_ns">.61.</episode-num>
-  </programme>
-  <programme start="20260330140500 +0000" stop="20260330150000 +0000" channel="Doma HD.sk">
-    <title>Esmeralda</title>
-    <desc>Esmeralda a Jose Armando sa stretávajú na lekárskom plese, kde sa Esmeralda pripije zo šampanskeho. Esmeraldu vezme Jose Armando domov. Georgina a Alvaro sú znepokojení z ich zmiznutia.</desc>
-    <episode-num system="xmltv_ns">.79.</episode-num>
-  </programme>
-  <programme start="20260330150000 +0000" stop="20260330160000 +0000" channel="Doma HD.sk">
-    <title>Esmeralda</title>
-    <desc>Jose Armando povie Esmeralde, že ju ešte stále miluje, ale nemôžu byť spolu, pretože by to každemu prinieslo bolesť. Jose Armando žiada Georginu o prepáčenie kvôli incidentu a dievča sa rozhodne, že mu odpustí. Graciela si pohnevá Emilia svojím správaním.</desc>
-    <episode-num system="xmltv_ns">.80.</episode-num>
-  </programme>
-  <programme start="20260330160000 +0000" stop="20260330170000 +0000" channel="Doma HD.sk">
-    <title>Bull: Súdny špecialista</title>
-    <desc>Izzy odloží svoju a Bullovu nadchádzajúcu svadbu, keď Bull ohrozí Bennyho volebnú kampaň tým, že poverí svoj tím obhajobou bývaleho okresneho prokurátora, ktoreho chce Benny nahradiť.</desc>
-    <episode-num system="xmltv_ns">4.15.</episode-num>
-  </programme>
-  <programme start="20260330170000 +0000" stop="20260330180500 +0000" channel="Doma HD.sk">
-    <title>Leyla</title>
-    <desc>Mali si vezme Nur za manželku. Do sídla rodiny Koroğluovcov prichádzajú bezdomovci zranení pri nehode, ktorým rodina pripraví večeru. Leyle začne do seba zapadať obraz o tom, kto stojí za nehodou, a Eren sa púšťa do pátrania. Z Vedatovej izby sa náhle ozve výstrel…</desc>
-    <episode-num system="xmltv_ns">.120.</episode-num>
-  </programme>
-  <programme start="20260330180500 +0000" stop="20260330190000 +0000" channel="Doma HD.sk">
-    <title>Leyla</title>
-    <desc>Vedat vystrelí na ženu, ktorá nečakane vstúpi do jeho izby - nápadne sa podobá na jeho zosnulú manželku. Členovia rodiny sa začnú navzájom podozrievať, komu mohli udalosti vyhovovať, a medzi podozrivými sa objaví aj Nur, ktorá opať začína ťahať nitky v pozadí…</desc>
-    <episode-num system="xmltv_ns">.121.</episode-num>
-  </programme>
-  <programme start="20260330191000 +0000" stop="20260330194000 +0000" channel="Doma HD.sk">
-    <title>Znovu 20</title>
-    <desc>Liza čelí komplikáciám počas propagačneho turne ku novej knihe Marriage Vacation. Kelsey a Zane sa medzitým vyberú do Washingtonu D.C., aby získali memoáre od jedneho politickeho autorovho rečníka.</desc>
-    <episode-num system="xmltv_ns">4.2.</episode-num>
-  </programme>
-  <programme start="20260330194000 +0000" stop="20260330201000 +0000" channel="Doma HD.sk">
-    <title>Znovu 20</title>
-    <desc>Liza riskne spoluprácu s charizmatickým novinárom - a to nielen pracovnú, ale aj osobnú. Medzitým Diana vystúpi zo svojej komfortnej zony.</desc>
-    <episode-num system="xmltv_ns">4.3.</episode-num>
-  </programme>
-  <programme start="20260330201000 +0000" stop="20260330204000 +0000" channel="Doma HD.sk">
+  <programme start="20260401133000 +0000" stop="20260401140000 +0000" channel="DAJTO HD.sk">
     <title>Priatelia</title>
-    <desc>Ponořte se do srdcí a myslí šestice přátel žijících v New Yorku, zkoumajících úzkosti a absurdity skutečne dospělosti. Tento sofistikovaný kultovní seriál nabízí veselý pohled na randění a práci ve velkoměstě. Jak si Rachel, Monica, Phoebe, Joey, Chandler a Ross dobře uvědomují, hledání štěstí často zdánlivě přináší mnohem více otázek než odpovědí. Zatímco se snaží dosáhnout vlastního naplnění, starají se jeden o druheho v teto vzrušující době, kdy je možne úplně všechno - dokud máte přátele.</desc>
-    <episode-num system="xmltv_ns">8.13.</episode-num>
+    <desc>Chandler a Monica majú vo svojom manželstve prve vačšie finančne problemy. Monica ide tajne za Joeym a žiada ho o pôžičku. Chandler, ktorý nič netuší, požiada Joeyho o rovnaký druh pomoci. Phoebe má pocit, že konečne nastala vhodná chvíľa, aby zistila v akom &quot;stave&quot; je jej milostný vzťah. Preto nečakane ponúkne svojmu priateľovi, aby sa k nej nasťahoval do bytu. Pritom vôbec netuší, ake pocity tým u neho môže vyvolať ...</desc>
+    <episode-num system="xmltv_ns">8.15.</episode-num>
   </programme>
-  <programme start="20260330204000 +0000" stop="20260330211000 +0000" channel="Doma HD.sk">
+  <programme start="20260401140000 +0000" stop="20260401143000 +0000" channel="DAJTO HD.sk">
     <title>Priatelia</title>
-    <desc>Ponořte se do srdcí a myslí šestice přátel žijících v New Yorku, zkoumajících úzkosti a absurdity skutečne dospělosti. Tento sofistikovaný kultovní seriál nabízí veselý pohled na randění a práci ve velkoměstě. Jak si Rachel, Monica, Phoebe, Joey, Chandler a Ross dobře uvědomují, hledání štěstí často zdánlivě přináší mnohem více otázek než odpovědí. Zatímco se snaží dosáhnout vlastního naplnění, starají se jeden o druheho v teto vzrušující době, kdy je možne úplně všechno - dokud máte přátele.</desc>
-    <episode-num system="xmltv_ns">8.14.</episode-num>
+    <desc>Ross a Chandler sú na seba trochu nahnevaní a píšu o tom druhom neveľmi lichotive veci na webových stránkach absolventov ich vysokej školy. Vrcholom všetkeho je, keď si Chandler vymyslí, že Ross zomrel. Trochu do seba zahľadený Ross potom urobí smútočnú slávnosť, aby zistil, kto všetko na ňu príde. Malá Emma si obľúbila Joeyho plyšoveho tučniaka na spanie, a &quot;nechce&quot; ho vrátiť majiteľovi. Phoebe a Mike sa trápia kvôli svojmu rozchodu.</desc>
+    <episode-num system="xmltv_ns">8.16.</episode-num>
   </programme>
-  <programme start="20260330211000 +0000" stop="20260330222000 +0000" channel="Doma HD.sk">
-    <title>Zachránene životy</title>
-    <desc>Jeden z najsilnejších príbehov z krajiny polmesiaca prichádza na obrazovky televízie Doma! Spoznajte príbeh Nefes (Irem Helvacioglu), ktorú ako 16-ročnú predal ako detskú nevestu jej chamtivý otec za bohateho Vedata (Mehmet Ali Nuroglu) a ona mu porodila syna Yigita (Demir Birinci). Jej manžel ju však fyzicky týra a ona sníva o úteku so svojím synom ďaleko od násilníckeho manžela. Všetky jej pokusy však končia ešte vačším násilím.</desc>
-    <episode-num system="xmltv_ns">.120.</episode-num>
+  <programme start="20260401143000 +0000" stop="20260401150000 +0000" channel="DAJTO HD.sk">
+    <title>Dva a pol chlapa</title>
+    <desc>Alan má pre Lyndsey naplánovaný úžasný Valentín v drahom hoteli a verí, že tak zvýrazní svoju mužnosť. Osud má však ine plány, a tak sú tie Alanove behom chvíľky v troskách. Walden dostane prekvapivú správu od Kate, ktorá prišla do mesta a chce sa s ním stretnúť ... (skryte titulky)</desc>
+    <episode-num system="xmltv_ns">9.15.</episode-num>
+  </programme>
+  <programme start="20260401150000 +0000" stop="20260401153000 +0000" channel="DAJTO HD.sk">
+    <title>Dva a pol chlapa</title>
+    <desc>Walden si pri sledovaní videoodkazu, ktore pred rokmi nahral svojmu budúcemu ja, uvedomí, že jeho život je aj napriek tomu, že sa stal boháčom, taký nekompletný a nemá to, na čom mu vtedy záležalo, čo bolo založenie rodiny. Rozhodne sa dohnať, čo za tie roky zanedbal ... (skryte titulky)</desc>
+    <episode-num system="xmltv_ns">9.16.</episode-num>
+  </programme>
+  <programme start="20260401155500 +0000" stop="20260401162500 +0000" channel="DAJTO HD.sk">
+    <title>2 baby na mizine</title>
+    <sub-title>A predschválená kreditná karta</sub-title>
+    <desc>Dievčatá sú evidentne vo finančnej tiesni, Max dochádza rúž, Caroline sa zlomí podpatok. Doma im Sophie prinesie ich poštu, ktorú jej omylom hodili do schránky. Nájdu medzi ňou aj schválenú kreditnú kartu. Max ju nechce, hovorí, že na to nemajú dosť sebadisciplíny. Do bistra prichádza Earlov syn Darius, úspešný obchodník s autami, ktorý práve presedlal na dráhu komika.</desc>
+    <episode-num system="xmltv_ns">1.4.</episode-num>
+  </programme>
+  <programme start="20260401162500 +0000" stop="20260401173500 +0000" channel="DAJTO HD.sk">
+    <title>Horná Dolná</title>
+    <sub-title>Prvý apríl</sub-title>
+    <desc>Blíži sa prvý apríl a všetci sa obávajú Ďurových výčinov. Rozhodnú sa, že tentoraz ho predbehnú.</desc>
+    <episode-num system="xmltv_ns">8.3.</episode-num>
+  </programme>
+  <programme start="20260401173500 +0000" stop="20260401183000 +0000" channel="DAJTO HD.sk">
+    <title>Susedia</title>
+    <sub-title>Prvý apríl</sub-title>
+    <desc>František sa teší z noveho služobneho auta. Radosť mu prekazí správa, že dcera Milka je možno tehotná. V koši totiž so Zuzanou našli pozitívny tehotenský test. Ildiko a Lászlo vyzvedajú, či má syn Geregly priateľku. Nie sú spokojní s jeho výberom. Všetci štyria rodičia sa dohodnú, že by mohli dať svoje deti dokopy.</desc>
+    <episode-num system="xmltv_ns">.4.</episode-num>
+  </programme>
+  <programme start="20260401183000 +0000" stop="20260401203500 +0000" channel="DAJTO HD.sk">
+    <title>Zberateľ duší</title>
+    <desc>Detektív Jake Doyle (Martin Lawrence) a jeho kolegyňa Mary Kelly (Melissa Roxburgh) sa ocitnú uprostred vyšetrovania serie brutálnych vrážd. Obete sú nájdene naaranžovane do desivých scen pripomínajúcich archanjelov - presne v štýle, aký kedysi používal už odsúdený seriový vrah prezývaný „Umelec“ (John Malkovich). Keď sa ukáže, že ide o napodobovateľa, Mary navrhne riskantný krok: požiadať samotneho Umelca o pomoc pri vyšetrovaní. Ten však svoje vedomosti poskytuje len za vysokú cenu.</desc>
+  </programme>
+  <programme start="20260401203500 +0000" stop="20260401225500 +0000" channel="DAJTO HD.sk">
+    <title>Sedem</title>
+    <desc>Detektív poručík William Somerset (Morgan Freeman) pomaly končí svoju karieru a jeho poslednou úlohou je zaučiť mladeho a ambiciozneho detektíva Davida Millsa (Brad Pitt). Obaja sú nasadení na vyšetrovanie prípadu brutálnej vraždy, ktorý ich neodvolateľne vtiahne do pomýleneho a zvráteneho sveta psychicky narušeneho, ale inteligentneho a rafinovaneho zločinca, s krycím menom Johna Doe.</desc>
+  </programme>
+  <programme start="20260401233000 +0000" stop="20260402000500 +0000" channel="DAJTO HD.sk">
+    <title>Susedia</title>
+    <sub-title>Prvý apríl</sub-title>
+    <desc>František sa teší z noveho služobneho auta. Radosť mu prekazí správa, že dcera Milka je možno tehotná. V koši totiž so Zuzanou našli pozitívny tehotenský test. Ildiko a Lászlo vyzvedajú, či má syn Geregly priateľku. Nie sú spokojní s jeho výberom. Všetci štyria rodičia sa dohodnú, že by mohli dať svoje deti dokopy.</desc>
+    <episode-num system="xmltv_ns">.4.</episode-num>
+  </programme>
+  <programme start="20260402000500 +0000" stop="20260402005500 +0000" channel="DAJTO HD.sk">
+    <title>Horná Dolná</title>
+    <sub-title>Návšteva</sub-title>
+    <desc>Do dediny má zavítať premier, aby slávnostne otvoril neexistujúci kruhový objazd. Starosta vyhlási poplach.</desc>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+  </programme>
+  <programme start="20260402005500 +0000" stop="20260402020500 +0000" channel="DAJTO HD.sk">
+    <title>Smiechoty</title>
+    <desc>Stres sa najlepšie odbúrava smiechom. Hovorí sa, že naozaj najlepší je ten škodoradostný. Preto ani dnes si nenechajte ujsť smiechoty - komicke situácie zachytene domácim videom. Aj dnešným večerom vás bude sprevádzať Vilo Rozboril.</desc>
+    <episode-num system="xmltv_ns">.9.</episode-num>
+  </programme>
+  <programme start="20260402020500 +0000" stop="20260402040000 +0000" channel="DAJTO HD.sk">
+    <title>Zig a Sharko</title>
+    <desc>Jediným cieľom hladnej hyeny Ziga, je morská víla Marina, ktorá ale má statneho ochrancu žraloka Sharka.</desc>
   </programme>
   <programme start="20260330222000 +0000" stop="20260330230500 +0000" channel="Doma HD.sk">
     <title>Zachránene životy</title>
@@ -865,86 +774,129 @@
     <title>Adela show</title>
     <desc>Je vysoká, štíhla, úspešná... a je to blondína. Čím nás prekvapí dnes večer? Vaše večery bude spríjemňovať Adela Banášová reflexiou každodenných problemov, ktore za pomoci svojich glosátorských kolegov rozmení na drobne, podfarbí vtipom a odľahčí ironiou. Samozrejme nebudú chýbať ani zaujímaví hostia.</desc>
   </programme>
-  <programme start="20260330013400 +0000" stop="20260330040500 +0000" channel="Dvojka HD.sk">
-    <title>Správy N</title>
+  <programme start="20260401031000 +0000" stop="20260401040000 +0000" channel="Doma HD.sk">
+    <title>Oteckovia</title>
+    <desc>Deti prídu do triedy a čaká ich poriadne prekvapenie! Viki prezradí Tamare, že namiesto hotela spali v chatke bez záchoda… Aj Max chce v škole zaviesť “kiss me too”.</desc>
+    <episode-num system="xmltv_ns">3.5.</episode-num>
   </programme>
-  <programme start="20260330053000 +0000" stop="20260330060000 +0000" channel="Dvojka HD.sk">
-    <title>Živá panoráma</title>
-    <desc>Aktuálne zábery a informácie zo slovenských hôr a stredísk cestovneho ruchu. (skryte titulky)</desc>
+  <programme start="20260401040000 +0000" stop="20260401051000 +0000" channel="Doma HD.sk">
+    <title>Búrlive víno</title>
+    <desc>Rodinný seriál z krásneho vinárskeho prostredia - Búrlive víno, ktorý poteší najma romanticke duše. Určite vás zaujmú osudy dvoch vinárskych rodín, spojených dávnym priateľstvom a rozdelených klamstvom. Je to seriál, ktorý ponúka množstvo emocií, ktore patria do životov každeho z nás, ako je láska, priateľstvo, nenávisť a aj ľudskosť!</desc>
+    <episode-num system="xmltv_ns">3.67.</episode-num>
   </programme>
-  <programme start="20260330063000 +0000" stop="20260330070000 +0000" channel="Dvojka HD.sk">
-    <title>Dobrý deň, Patria (chorvátsky)</title>
-    <sub-title>Chorvátsky magazín</sub-title>
-    <desc>Publicistická relácia zo života chorvátskej národnostnej menšiny žijúcej na Slovensku.</desc>
-    <episode-num system="xmltv_ns">.0.</episode-num>
+  <programme start="20260401051000 +0000" stop="20260401055500 +0000" channel="Doma HD.sk">
+    <title>Rany z lásky</title>
+    <desc>Boxerka Monita se dozvídá, že ze zdravotních důvodů bude muset na nějaký čas svou sportovní karieru přerušit. Při hledání nove práce potkává podnikatele Martína...</desc>
+    <episode-num system="xmltv_ns">.124.</episode-num>
   </programme>
-  <programme start="20260330070000 +0000" stop="20260330073000 +0000" channel="Dvojka HD.sk">
-    <title>Generácia</title>
-    <desc>Herečka Ľudmila Mandžárová (74), ktorej nezameniteľný hlas poznajú diváci najma z dabingu svetových hviezd ako Meryl Streep, Susan Sarandon či Demi Moore, v portrete spomína na svoju bohatú hereckú karieru aj na zlatú eru slovenskeho dabingu. Hovorí tiež o osobnej strate - o smrti manžela, herca Štefana Mandžára, s ktorým prežila celý život. V relácii sa pozrieme aj na príbeh Ivana Križana, ktorý si k šesťdesiatke splnil sen a na bicykli prešiel zo Slovenska až do Barcelony.</desc>
-    <episode-num system="xmltv_ns">.8.</episode-num>
+  <programme start="20260401055500 +0000" stop="20260401064500 +0000" channel="Doma HD.sk">
+    <title>Rany z lásky</title>
+    <desc>Boxerka Monita se dozvídá, že ze zdravotních důvodů bude muset na nějaký čas svou sportovní karieru přerušit. Při hledání nove práce potkává podnikatele Martína...</desc>
+    <episode-num system="xmltv_ns">.125.</episode-num>
   </programme>
-  <programme start="20260330075500 +0000" stop="20260330082500 +0000" channel="Dvojka HD.sk">
-    <title>Televízny klub nepočujúcich</title>
-    <desc>Tomáš Slezák pracuje ako kontrolor parkovania v systeme PAASv Bratislave.Tomáš je nepočujúci. ASj tak sme sa ho pýtali na jeho prácu, ako sa mu darí, či je spokojný, ale tiež sme sa chceli prostredníctvom nehol dozvedieť o niektorých púravidlách parkovania v Bratislave. V druhej časti smer sa boli pozrieť na prechádzku po Bratislave, s názvom Rande s mestom.Po meste nás bude spravádzať sprievodkyňa a tlmočník do posunkoveho jazyka.</desc>
-    <episode-num system="xmltv_ns">.3.</episode-num>
+  <programme start="20260401073500 +0000" stop="20260401080500 +0000" channel="Doma HD.sk">
+    <title>Znovu 20</title>
+    <desc>Keď sa Charles dostane do problemov s rockovou hviezdou medzi autormi na Shelter Islande, Liza prichádza na pomoc ako posila. Medzitým Maggie dosiahne významný míľnik vo svojej kariere.</desc>
+    <episode-num system="xmltv_ns">4.5.</episode-num>
   </programme>
-  <programme start="20260330082500 +0000" stop="20260330093000 +0000" channel="Dvojka HD.sk">
-    <title>Malvína z Bretonska</title>
-    <desc>Televízna adaptácia humoristickej poviedky anglickeho spisovateľa. Zakliatu vílu Malvínu, ktorú môžu vyslobodiť 3 bozky od jedneho muža, objaví mladý letec Artúr a privedie ju k svojmu strýkovi Krištofovi. Ten objaví jej čarovnú moc - meniť charaktery ľudí. Po serii zmien ľudí v mestečku strýko Krištof príde na to, že nie je dobre zasahovať týmto spôsobom do života ľudí a Malvína musí všetko vrátiť do pôvodneho stavu.</desc>
+  <programme start="20260401080500 +0000" stop="20260401091000 +0000" channel="Doma HD.sk">
+    <title>Bull: Súdny špecialista</title>
+    <desc>Bull a jeho tím musia využiť všetky svoje spoločne skúsenosti, aby našli Bullovu unesenú dceru, a únosca ich varuje, aby nešli na políciu. Ako Bull pracuje na vytvorení najdôležitejšieho psychologickeho profilu svojho života, začína mať podozrenie, že únosca je niekto, kto je spojený s jeho minulosťou.</desc>
+    <episode-num system="xmltv_ns">5.0.</episode-num>
   </programme>
-  <programme start="20260330103000 +0000" stop="20260330110500 +0000" channel="Dvojka HD.sk">
-    <title>Pať zŕn</title>
-    <sub-title>Šťastie</sub-title>
-    <desc>Televízna adaptácia slovenskej ľudovej rozprávky o čižmárovi, ktorý si myslí, že on bude vysedávať v krčme a Šťastie bude robiť za neho. (skryte titulky)</desc>
-    <episode-num system="xmltv_ns">.3.</episode-num>
+  <programme start="20260401091000 +0000" stop="20260401100000 +0000" channel="Doma HD.sk">
+    <title>Leyla</title>
+    <desc>Rodina sa sústreďuje na postrelenú ženu. Firdevs sa stretne s Arzu a Nur, obávajúc sa odhalenia, požiada o pomoc Maliho. Eren sa zamiluje do Leyly. Suat má dosť otcových výčitiek a začne spochybňovať jeho príčetnosť, čo vyústi do rodinnej porady…</desc>
+    <episode-num system="xmltv_ns">.122.</episode-num>
   </programme>
-  <programme start="20260330110500 +0000" stop="20260330114500 +0000" channel="Dvojka HD.sk">
-    <title>Nasledovanie Orfea</title>
-    <desc>Televízna kompozícia podľa rovnomennej básnickej skladby Vojtecha Mihálika. Básnik v konfrontácii ideálnej lásky s nenaplneným vzťahom naplňuje problem zložiteho hľadania človeka na ceste za čistotou ľúbostneho citu. (skryte titulky)</desc>
+  <programme start="20260401100000 +0000" stop="20260401111000 +0000" channel="Doma HD.sk">
+    <title>Leyla</title>
+    <desc>Leyla prijme do nadácie noveho riaditeľa. Nur manipuluje tromi súrodencami v otázke zbavenia ich otca spôsobilosti na právne úkony. Vedat chce Erena pripraviť o dedičstvo a požiada o pomoc Fezu…</desc>
+    <episode-num system="xmltv_ns">.123.</episode-num>
   </programme>
-  <programme start="20260330123500 +0000" stop="20260330132500 +0000" channel="Dvojka HD.sk">
-    <title>Srdce</title>
-    <desc>Dokumentárny film o prvej transplantácii srdca na Slovensku, ale aj v celom východnom bloku - akademikom Karolom Šiškom. Bola to historicky prelomová udalosť Československeho lekárstva, ktorá našu krajinu zaradila medzi priekopníkov srdcovej chirurgie na celom svete. Emocionálne silný príbeh, ktorý opisuje neľahkú prípravu, obetavosť a veľke riziká, vyvrcholil 6. júla 1968 a otvoril brány poznania budúcim generáciám.</desc>
+  <programme start="20260401111000 +0000" stop="20260401120500 +0000" channel="Doma HD.sk">
+    <title>Oteckovia</title>
+    <desc>Lenka chce za každú cenu zistiť, kto je Alexova milenka… Edo navrhne Tamare, aby do školy umiestnili kamery! Ema opať podľahne Alexovmu šarmu…</desc>
+    <episode-num system="xmltv_ns">3.6.</episode-num>
   </programme>
-  <programme start="20260330132500 +0000" stop="20260330135500 +0000" channel="Dvojka HD.sk">
-    <title>Budujeme Slovensko</title>
-    <sub-title>Budujeme Slovensko - Zimný prístav v Bratislave</sub-title>
-    <desc>Budujeme Slovensko je cyklus šiestich 26-minútových dokumentárnych portretov miest, v ktorých sa budoval priemysel a konštruovali dejiny Slovenska. Dvojica fotografov objavuje starý bratislavský prístav. Pod vŕzgajúcimi ramenami zhrdzavených žeriavov zbierajú zábery i spomienky. Lodnícke historky plne poetickej nostalgie sa striedajú s rozprávaním o Dunaji ako tuho zadrôtovanej socialistickej hranici, ktorej „ochrana“ stála nad ľudským životom.</desc>
-    <episode-num system="xmltv_ns">.5.</episode-num>
+  <programme start="20260401120500 +0000" stop="20260401131000 +0000" channel="Doma HD.sk">
+    <title>Nedodržaný sľub</title>
+    <desc>Azra je úspěšná rozvodová právnička, která pracuje, stejně jako její sestra Sanem, v advokátní kanceláři sve matky Colpan. Jejich klienty jsou nejbohatší lide z Istanbulu. Po sporu s matkou Azra firmu ze dne na den opouští a nechá se zaměstnat u konkurenční firmy. A právě tehdy se objeví její otec Faruk, který před dávnými lety rodinu opustil a všichni ho měli za mrtveho...</desc>
+    <episode-num system="xmltv_ns">.64.</episode-num>
   </programme>
-  <programme start="20260330135500 +0000" stop="20260330143000 +0000" channel="Dvojka HD.sk">
-    <title>360° okolo sveta</title>
-    <sub-title>Curacao - delfíny ako liečitelia</sub-title>
-    <desc>Seriál oceňovaných reportáží prináša nezvyčajne stretnutia so zaujímavými ľuďmi a pozoruhodnými zvieratami z celeho sveta. Tvorcovia cestovali na Sardíniu za výrobcami jedinečneho morskeho hodvábu, sprevádzali hľadačov kryštálov vo Švajčiarsku a nazreli aj do zákulisia Švajčiarskej gardy vo Vatikáne. Priniesli emotívne reportáže o ohrozených gepardoch v Namíbii, terapeutických delfínoch na ostrove Curacao, vzácnych kajkách z Islandu či majestátnych mantách z Maldiv.</desc>
-    <episode-num system="xmltv_ns">.2.</episode-num>
+  <programme start="20260401131000 +0000" stop="20260401140000 +0000" channel="Doma HD.sk">
+    <title>Nedodržaný sľub</title>
+    <desc>Azra je úspěšná rozvodová právnička, která pracuje, stejně jako její sestra Sanem, v advokátní kanceláři sve matky Colpan. Jejich klienty jsou nejbohatší lide z Istanbulu. Po sporu s matkou Azra firmu ze dne na den opouští a nechá se zaměstnat u konkurenční firmy. A právě tehdy se objeví její otec Faruk, který před dávnými lety rodinu opustil a všichni ho měli za mrtveho...</desc>
+    <episode-num system="xmltv_ns">.65.</episode-num>
   </programme>
-  <programme start="20260330143000 +0000" stop="20260330153000 +0000" channel="Dvojka HD.sk">
-    <title>Regina</title>
-    <desc>Denný magazín o živote v regionoch. (skryte titulky)</desc>
-    <episode-num system="xmltv_ns">.14.</episode-num>
+  <programme start="20260401140000 +0000" stop="20260401150000 +0000" channel="Doma HD.sk">
+    <title>Esmeralda</title>
+    <desc>Graciela má dosť rozkazovania od svojej matky. Rodolfo pristihne Gracielu a Adriána osamote a zakáže Graciele sa s ním viac stretávať. Alvaro požiada Esmeraldu o ruku a ona súhlasí. Keď sa túto správu dozvie Jose Armando, je zúfalý.</desc>
+    <episode-num system="xmltv_ns">.83.</episode-num>
   </programme>
-  <programme start="20260330153000 +0000" stop="20260330160000 +0000" channel="Dvojka HD.sk">
-    <title>Farmárska revue</title>
-    <desc>Magazín pre malých záhradkárov aj veľkých farmárov, pestovateľov a chovateľov. (skryte titulky)</desc>
-    <episode-num system="xmltv_ns">.8.</episode-num>
+  <programme start="20260401150000 +0000" stop="20260401160000 +0000" channel="Doma HD.sk">
+    <title>Esmeralda</title>
+    <desc>Ukáže sa, že po Emilianovi Graciela nič nezdedí, preto sa Fátima obáva o ich budúcnosť. Adrián zaklame Aurore o jeho citoch ku Graciele. Jose Armando žiarli na Alvara, pretože jeho ženou sa má čoskoro stať Esmeralda.</desc>
+    <episode-num system="xmltv_ns">.84.</episode-num>
   </programme>
-  <programme start="20260330160000 +0000" stop="20260330163000 +0000" channel="Dvojka HD.sk">
-    <title>Halali</title>
-    <desc>HALALI - magazín pre priateľov prírody. Najnovšia relácia Halali prináša pohľad do sveta prírody, ľudí a tradícií, ktore formujú našu krajinu. Poľovníci, rybári, ochranári aj včelári - všetci stoja pred rovnakou výzvou: nájsť rovnováhu medzi ochranou a využívaním prírody. V reportáži „Hodnoty prírody spájajú“ uvidíte, ako rôzne skupiny manažerov vidieka hľadajú spoločnú reč a spoluprácu.</desc>
-    <episode-num system="xmltv_ns">.4.</episode-num>
+  <programme start="20260401160000 +0000" stop="20260401170000 +0000" channel="Doma HD.sk">
+    <title>Bull: Súdny špecialista</title>
+    <desc>Strategia obhajoby klienta, ktorý je súdený za zverejnenie utajovaných vládnych informácií podľa zákona o špionáži, je ohrozená, keď Bull prežíva emocionálny otras po únose svojej dcery. Keďže Bull je čoraz rozrušenejší, tím čaká na súde ťažke obdobie, federálny zákon im totiž nedovoľuje povedať porotcom motív úniku citlivých informácií ich klienta.</desc>
+    <episode-num system="xmltv_ns">5.1.</episode-num>
   </programme>
-  <programme start="20260330183500 +0000" stop="20260330193500 +0000" channel="Dvojka HD.sk">
-    <title>Nove výskumy o pôste</title>
-    <desc>Od detoxikačných kúr až po prerušovaný pôst - nove prístupy k zdraviu si nachádzajú cestu medzi vrcholových manažerov, influencerov aj alternatívnych terapeutov, pričom nie všetky praktiky sú podložene vedeckými dôkazmi. Tvorcovia dokumentu navštívili europske výskumne centrá, kliniky aj wellness centrá, a snažili sa zistiť, či sa pôst môže stať nielen súčasťou životneho štýlu, ale aj nástrojom verejnej zdravotnej politiky.</desc>
+  <programme start="20260401170000 +0000" stop="20260401180500 +0000" channel="Doma HD.sk">
+    <title>Leyla</title>
+    <desc>Suat plánuje pomstu voči svojmu otcovi. Leyla sa rozhodne Nur čeliť - pohrozí jej, že ju pred Vedatom odhalí, ak do 48 hodín nepomôže Erenovi získať jeho podiel z dedičstva. Nur sa preto rozhodne, že sa musí mladých definitívne zbaviť - a spolu s nimi aj Murata…</desc>
+    <episode-num system="xmltv_ns">.124.</episode-num>
   </programme>
-  <programme start="20260330193500 +0000" stop="20260330201000 +0000" channel="Dvojka HD.sk">
-    <title>Sezona nebezpečných kliešťov</title>
-    <desc>Cítia náš pot, telesnú teplotu aj vydychovaný oxid uhličitý. Nie sme ich primárny cieľ, ale chutí im aj naša krv. Globálna zmena klímy spôsobila, že ich sezona sa na Slovensku predĺžila celoročne. Na to, aby začali byť aktívne, stačí teplota nad 8 stupňov Celzia. Rozprávať sa budeme o kliešťoch, ktore môžu prenášať závažne patogeny, ako Lymskú boreliozu a kliešťovú encefalitídu. (skryte titulky)</desc>
-    <episode-num system="xmltv_ns">.10.</episode-num>
+  <programme start="20260401180500 +0000" stop="20260401191000 +0000" channel="Doma HD.sk">
+    <title>Leyla</title>
+    <desc>Nur dosiahne, že sa Ahsen a Dilara pohádajú. Leyla sa dozvie, že práve Nur zabila Erenovu matku. Nový veľký šef si chce privlastniť pracovňu. Murat zistí, odkiaľ je mu známa ich gazdiná…</desc>
+    <episode-num system="xmltv_ns">.125.</episode-num>
   </programme>
-  <programme start="20260330201000 +0000" stop="20260330215900 +0000" channel="Dvojka HD.sk">
-    <title>Ciao bambino</title>
-    <desc>Attilio má 19 rokov a žije v chudobnej štvrti Neapola. Jedneho dňa na konci leta dostane za úlohu &quot;ochraňovať&quot; mladú prostitútku z Ukrajiny. Chlapec sa do nej zamiluje, no svoje city nedokáže otvorene priznať. Keď sa z vazenia vráti Attiliov otec, ktorý dlží veľkú sumu peňazí, Attilio si bude musieť vybrať medzi láskou k Anastasii a láskou a zodpovednosťou voči rodine. (skryte titulky)</desc>
+  <programme start="20260401191000 +0000" stop="20260401201500 +0000" channel="Doma HD.sk">
+    <title>Leyla</title>
+    <sub-title>FINÁLE</sub-title>
+    <desc>Eren vyzná Leyle lásku, no vzápatí mu príde nevoľno. Suat uskutoční to, na čo si doteraz netrúfal ani pomyslieť. Mali prezradí Leyle, kto je zodpovedný za Civanovu smrť. Nur zlikviduje Suata a potom si vezme na mušku Leylu - no s jednou vecou neráta…</desc>
+    <episode-num system="xmltv_ns">.126.</episode-num>
+  </programme>
+  <programme start="20260401201500 +0000" stop="20260401204500 +0000" channel="Doma HD.sk">
+    <title>Priatelia</title>
+    <desc>Ponořte se do srdcí a myslí šestice přátel žijících v New Yorku, zkoumajících úzkosti a absurdity skutečne dospělosti. Tento sofistikovaný kultovní seriál nabízí veselý pohled na randění a práci ve velkoměstě. Jak si Rachel, Monica, Phoebe, Joey, Chandler a Ross dobře uvědomují, hledání štěstí často zdánlivě přináší mnohem více otázek než odpovědí. Zatímco se snaží dosáhnout vlastního naplnění, starají se jeden o druheho v teto vzrušující době, kdy je možne úplně všechno - dokud máte přátele.</desc>
+    <episode-num system="xmltv_ns">8.17.</episode-num>
+  </programme>
+  <programme start="20260401204500 +0000" stop="20260401211500 +0000" channel="Doma HD.sk">
+    <title>Priatelia</title>
+    <desc>Ponořte se do srdcí a myslí šestice přátel žijících v New Yorku, zkoumajících úzkosti a absurdity skutečne dospělosti. Tento sofistikovaný kultovní seriál nabízí veselý pohled na randění a práci ve velkoměstě. Jak si Rachel, Monica, Phoebe, Joey, Chandler a Ross dobře uvědomují, hledání štěstí často zdánlivě přináší mnohem více otázek než odpovědí. Zatímco se snaží dosáhnout vlastního naplnění, starají se jeden o druheho v teto vzrušující době, kdy je možne úplně všechno - dokud máte přátele.</desc>
+    <episode-num system="xmltv_ns">8.18.</episode-num>
+  </programme>
+  <programme start="20260401211500 +0000" stop="20260401221000 +0000" channel="Doma HD.sk">
+    <title>Zachránene životy</title>
+    <desc>Jeden z najsilnejších príbehov z krajiny polmesiaca prichádza na obrazovky televízie Doma! Spoznajte príbeh Nefes (Irem Helvacioglu), ktorú ako 16-ročnú predal ako detskú nevestu jej chamtivý otec za bohateho Vedata (Mehmet Ali Nuroglu) a ona mu porodila syna Yigita (Demir Birinci). Jej manžel ju však fyzicky týra a ona sníva o úteku so svojím synom ďaleko od násilníckeho manžela. Všetky jej pokusy však končia ešte vačším násilím.</desc>
+    <episode-num system="xmltv_ns">.124.</episode-num>
+  </programme>
+  <programme start="20260401221000 +0000" stop="20260401225500 +0000" channel="Doma HD.sk">
+    <title>Zachránene životy</title>
+    <desc>Jeden z najsilnejších príbehov z krajiny polmesiaca prichádza na obrazovky televízie Doma! Spoznajte príbeh Nefes (Irem Helvacioglu), ktorú ako 16-ročnú predal ako detskú nevestu jej chamtivý otec za bohateho Vedata (Mehmet Ali Nuroglu) a ona mu porodila syna Yigita (Demir Birinci). Jej manžel ju však fyzicky týra a ona sníva o úteku so svojím synom ďaleko od násilníckeho manžela. Všetky jej pokusy však končia ešte vačším násilím.</desc>
+    <episode-num system="xmltv_ns">.125.</episode-num>
+  </programme>
+  <programme start="20260401225500 +0000" stop="20260401234000 +0000" channel="Doma HD.sk">
+    <title>Esmeralda</title>
+    <desc>Graciela má dosť rozkazovania od svojej matky. Rodolfo pristihne Gracielu a Adriána osamote a zakáže Graciele sa s ním viac stretávať. Alvaro požiada Esmeraldu o ruku a ona súhlasí. Keď sa túto správu dozvie Jose Armando, je zúfalý.</desc>
+    <episode-num system="xmltv_ns">.83.</episode-num>
+  </programme>
+  <programme start="20260401234000 +0000" stop="20260402002000 +0000" channel="Doma HD.sk">
+    <title>Esmeralda</title>
+    <desc>Ukáže sa, že po Emilianovi Graciela nič nezdedí, preto sa Fátima obáva o ich budúcnosť. Adrián zaklame Aurore o jeho citoch ku Graciele. Jose Armando žiarli na Alvara, pretože jeho ženou sa má čoskoro stať Esmeralda.</desc>
+    <episode-num system="xmltv_ns">.84.</episode-num>
+  </programme>
+  <programme start="20260402002000 +0000" stop="20260402012500 +0000" channel="Doma HD.sk">
+    <title>Smotánka</title>
+    <desc>Nevšedný svet kľúčovou dierkou.</desc>
+  </programme>
+  <programme start="20260402012500 +0000" stop="20260402031000 +0000" channel="Doma HD.sk">
+    <title>Adela show</title>
+    <desc>Je vysoká, štíhla, úspešná... a je to blondína. Čím nás prekvapí dnes večer? Vaše večery bude spríjemňovať Adela Banášová reflexiou každodenných problemov, ktore za pomoci svojich glosátorských kolegov rozmení na drobne, podfarbí vtipom a odľahčí ironiou. Samozrejme nebudú chýbať ani zaujímaví hostia.</desc>
   </programme>
   <programme start="20260330220100 +0000" stop="20260330225000 +0000" channel="Dvojka HD.sk">
     <title>Správy N</title>
@@ -1050,109 +1002,92 @@
     <desc>Spravodajstvo v jazyku maďarskej menšiny. (skryte titulky)</desc>
     <episode-num system="xmltv_ns">.59.</episode-num>
   </programme>
-  <programme start="20260329225500 +0000" stop="20260329234500 +0000" channel="Jednotka HD.sk">
-    <title>Správy N</title>
-    <desc>(skryte titulky)</desc>
+  <programme start="20260401032000 +0000" stop="20260401040500 +0000" channel="Dvojka HD.sk">
+    <title>Hírek</title>
+    <desc>Spravodajstvo v jazyku maďarskej menšiny.</desc>
+    <episode-num system="xmltv_ns">.59.</episode-num>
   </programme>
-  <programme start="20260330001500 +0000" stop="20260330014000 +0000" channel="Jednotka HD.sk">
-    <title>Slavnosti sněženek</title>
-    <desc>Freska žánrových príbehov poznačená nostalgickým úsmevom a hlboko ľudským pochopením autora scenára Bohumila Hrabala a režisera Jiřího Menzla. Humorne a absurdne, ale aj smutne a tragicke situácie zachytávajú postavy a postavičky, žijúce v autorovom milovanom Kersku na Polabí. (skryte titulky)</desc>
+  <programme start="20260401053000 +0000" stop="20260401060000 +0000" channel="Dvojka HD.sk">
+    <title>Živá panoráma</title>
+    <desc>Aktuálne zábery a informácie zo slovenských hôr a stredísk cestovneho ruchu. (skryte titulky)</desc>
   </programme>
-  <programme start="20260330014000 +0000" stop="20260330023500 +0000" channel="Jednotka HD.sk">
-    <title>Správy N</title>
-    <desc>(skryte titulky)</desc>
+  <programme start="20260401063000 +0000" stop="20260401070000 +0000" channel="Dvojka HD.sk">
+    <title>Kimondo</title>
+    <desc>Rozhovory so známymi a zaujímavými osobnosťami - Talk Show s Karolom Tothom.</desc>
+    <episode-num system="xmltv_ns">.0.</episode-num>
   </programme>
-  <programme start="20260330033000 +0000" stop="20260330050000 +0000" channel="Jednotka HD.sk">
-    <title>Dámsky klub</title>
-    <desc>Radosti a starosti nielen zo sveta žien. Dámsky klub je denný magazín o ženách pre ženy, ktorý vám ponúka rady, postrehy, námety, odpovede na otázky a problemy, ktore trápia súčasnú ženu (skryte titulky)</desc>
-  </programme>
-  <programme start="20260330050000 +0000" stop="20260330063000 +0000" channel="Jednotka HD.sk">
-    <title>Ranne správy</title>
-    <desc>Najdôležitejšie informácie, rozhovory na aktuálne temy, očakávane udalosti začínajúceho sa dňa. (skryte titulky)</desc>
-    <episode-num system="xmltv_ns">.58.</episode-num>
-  </programme>
-  <programme start="20260330065500 +0000" stop="20260330075500 +0000" channel="Jednotka HD.sk">
-    <title>Detektívi zo severu II</title>
-    <sub-title>Anjelská trúba</sub-title>
-    <desc>Finn Kiesewetter opustil políciu so zámerom venovať sa ekologickej farme. Ale keď ju zničí požiar, Finn si uvedomí, že je zničený a nútený vrátiť sa k orgánom činným v trestnom konaní. Vracia sa do rodneho Lubecku, kde sa bude odohrávať dej seriálu. Mesto Lubeck, súčasť svetoveho dedičstva, ponúka množstvo atraktívnych scen. (skryte titulky)</desc>
-    <episode-num system="xmltv_ns">.11.</episode-num>
-  </programme>
-  <programme start="20260330075500 +0000" stop="20260330085500 +0000" channel="Jednotka HD.sk">
-    <title>Siska</title>
-    <sub-title>Nostalgia</sub-title>
-    <desc>Kriminálny seriál, v hlavnej úlohe s vyšetrovateľom Petrom Siskom. Je to tzv. typicky europska detektívka, seriál produkuje známy producent úspešneho seriálu Derrick...Tento je už &quot;modernejší</desc>
-    <episode-num system="xmltv_ns">.13.</episode-num>
-  </programme>
-  <programme start="20260330085500 +0000" stop="20260330092500 +0000" channel="Jednotka HD.sk">
-    <title>Duel</title>
-    <desc>V 1. kole moderátor v časovom limite 60 sekúnd položí každemu hráčovi maximálne desať otázok. Za každú správnu odpoveď pribudne na konto hráča 30 eur. V prípade, že hráč správne odpovie na desať otázok získa premiu 100 eur. Otázky 1. kola nemajú vizuálnu textovú podobu. Pre 2. kolo je pripravených dvadsať otázok, ktore sú zaradene do desiatich tematických okruhov – každý tematický okruh má dve otázky.</desc>
-  </programme>
-  <programme start="20260330092500 +0000" stop="20260330100000 +0000" channel="Jednotka HD.sk">
-    <title>Všade dobre, doma naj</title>
-    <desc>Traja súťažiaci, tri kolá, štipka taktiky a napatie až do konca - to je súťaž Všade dobre, doma naj s moderátorom Martinom Nikodýmom. V 1. kole odpovedajú traja súťažiaci na každú z 8 otázok moderátora výberom zo štyroch možností. Za každú správnu odpoveď získavajú 5 bodov. Do druheho kola postupujú dvaja hráči s najvyššími počtami bodov. V 2. kole majú dvaja súťažiaci striedavo možnosť voliť si otázku z množiny dvanástich tem, ktore sú odlíšene bodovým ohodnotením (5 - 10 - 15 bodov).</desc>
-    <episode-num system="xmltv_ns">.157.</episode-num>
-  </programme>
-  <programme start="20260330102500 +0000" stop="20260330120500 +0000" channel="Jednotka HD.sk">
-    <title>Dámsky klub</title>
-    <desc>Radosti a starosti nielen zo sveta žien. Dámsky klub je denný magazín o ženách pre ženy, ktorý vám ponúka rady, postrehy, námety, odpovede na otázky a problemy, ktore trápia súčasnú ženu (skryte titulky)</desc>
-  </programme>
-  <programme start="20260330120500 +0000" stop="20260330125500 +0000" channel="Jednotka HD.sk">
-    <title>Tajomstvo mojej kuchyne</title>
-    <desc>Najlepšie recepty Kamily Magálovej, Pavla Pospíšila a ich hostí. (skryte titulky)</desc>
-    <episode-num system="xmltv_ns">.13.</episode-num>
-  </programme>
-  <programme start="20260330125500 +0000" stop="20260330134500 +0000" channel="Jednotka HD.sk">
-    <title>Pobrežná hliadka: Bodamske jazero</title>
-    <sub-title>Hazardná hra</sub-title>
-    <desc>Napínave príbehy s kriminálnymi zápletkami sa odohrávajú v malebnom alpskom prostredí pri Bodamskom jazere. Fanúšikovia zločinu si prídu na svoje pri vyšetrovaní medzinárodných intríg, popretkávaných medziľudskými vzťahmi a konfliktami medzi detektívmi. (skryte titulky)</desc>
-    <episode-num system="xmltv_ns">.24.</episode-num>
-  </programme>
-  <programme start="20260330140000 +0000" stop="20260330143000 +0000" channel="Jednotka HD.sk">
-    <title>Správy</title>
-    <desc>Najdôležitejšie udalosti uplynulých hodín, aktuálne dianie doma aj vo svete. (skryte titulky)</desc>
-  </programme>
-  <programme start="20260330143000 +0000" stop="20260330150000 +0000" channel="Jednotka HD.sk">
-    <title>Bez batožiny</title>
-    <sub-title>Španielsko - Madrid</sub-title>
-    <desc>Vyberte sa na cestu po svete. Tvorcovia tejto serie vás vezmú na Bali, do Japonska, Indonezie,do mnohých exotických krajín.... všade sa dozviete niečo mimoriadne, niečo zvláštne,niečo zaujímave. vypočujete si pozitívne príbehy ľudí, ktorí zdieľajú spoločne hodnoty. dozviete sa o rozmanitých kultúrach a ich historii o úžasnýžch ľuďoch a ich životných podmienkach. vyberte sa na cestu - bez batožiny.... (skryte titulky)</desc>
-    <episode-num system="xmltv_ns">.18.</episode-num>
-  </programme>
-  <programme start="20260330150000 +0000" stop="20260330155000 +0000" channel="Jednotka HD.sk">
-    <title>Detektívi zo severu II</title>
-    <sub-title>Smrteľná obchádzka</sub-title>
-    <desc>Finn Kiesewetter opustil políciu so zámerom venovať sa ekologickej farme. Ale keď ju zničí požiar, Finn si uvedomí, že je zničený a nútený vrátiť sa k orgánom činným v trestnom konaní. Vracia sa do rodneho Lubecku, kde sa bude odohrávať dej seriálu. Mesto Lubeck, súčasť svetoveho dedičstva, ponúka množstvo atraktívnych scen. (skryte titulky)</desc>
-    <episode-num system="xmltv_ns">.12.</episode-num>
-  </programme>
-  <programme start="20260330155500 +0000" stop="20260330162500 +0000" channel="Jednotka HD.sk">
-    <title>Duel</title>
-    <desc>V 1. kole moderátor v časovom limite 60 sekúnd položí každemu hráčovi maximálne desať otázok. Za každú správnu odpoveď pribudne na konto hráča 30 eur. V prípade, že hráč správne odpovie na desať otázok získa premiu 100 eur. Otázky 1. kola nemajú vizuálnu textovú podobu. Pre 2. kolo je pripravených dvadsať otázok, ktore sú zaradene do desiatich tematických okruhov – každý tematický okruh má dve otázky.</desc>
-  </programme>
-  <programme start="20260330162500 +0000" stop="20260330170000 +0000" channel="Jednotka HD.sk">
-    <title>Všade dobre, doma naj</title>
-    <desc>Traja súťažiaci, tri kolá, štipka taktiky a napatie až do konca - to je súťaž Všade dobre, doma naj s moderátorom Martinom Nikodýmom. V 1. kole odpovedajú traja súťažiaci na každú z 8 otázok moderátora výberom zo štyroch možností. Za každú správnu odpoveď získavajú 5 bodov. Do druheho kola postupujú dvaja hráči s najvyššími počtami bodov. V 2. kole majú dvaja súťažiaci striedavo možnosť voliť si otázku z množiny dvanástich tem, ktore sú odlíšene bodovým ohodnotením (5 - 10 - 15 bodov).</desc>
-    <episode-num system="xmltv_ns">.158.</episode-num>
-  </programme>
-  <programme start="20260330170000 +0000" stop="20260330175500 +0000" channel="Jednotka HD.sk">
-    <title>Správy</title>
-    <desc>(skryte titulky)</desc>
-  </programme>
-  <programme start="20260330183000 +0000" stop="20260330200500 +0000" channel="Jednotka HD.sk">
-    <title>Jednoduche veci</title>
-    <desc>Zbesile životne tempo známeho podnikateľa Vincenta sa neočakávane spomalí, keď sa mu pokazí auto na horskej ceste ďaleko od najbližšieho mesta. Na pomoc mu príde Pierre, ktorý býva v blízkosti, ukrytý pred moderným svetom vo svojom malom lráľovstve v srdci prírody. Stretnutie dvoch protikladov najskôr prinesie vzájomne nepochopenie a konflikt, môžu sa však od seba navzájom aj veľa naučiť. (skryte titulky)</desc>
-  </programme>
-  <programme start="20260330200500 +0000" stop="20260330204000 +0000" channel="Jednotka HD.sk">
-    <title>Reporteri</title>
-    <desc>V EPSTEINOVEJ SIETI:Jeffrey Epstein - finančník, ktoreho meno sa stalo symbolom temneho zákulisia svetových elít. Vyšetrovania odhalili sieť zneužívania maloletých aj kontakty na najvplyvnejších ľudí sveta. Po jeho kontroverznej smrti sa zdalo, že mnohe tajomstvá zostanú pochovane. Odpečatene súdne spisy však spustili novú vlnu škandálov, ktorá zasiahla aj Slovensko. Aký bol Epsteinov vzostup a pád? A čo hovoria spisy o jeho stopách u nás?</desc>
-  </programme>
-  <programme start="20260330210000 +0000" stop="20260330215100 +0000" channel="Jednotka HD.sk">
-    <title>Alice Neversová</title>
-    <sub-title>Neviditeľne rany - 2. časť</sub-title>
-    <desc>Alice Neversová je mladá a krásna vyšetrujúca sudkyňa. S kolegom, detektívom Fredom Marquandom, sa snažia vyriešiť zločiny podľa svojich metod. (skryte titulky)</desc>
+  <programme start="20260401070000 +0000" stop="20260401075500 +0000" channel="Dvojka HD.sk">
+    <title>Regina</title>
+    <desc>Denný magazín o živote v regionoch Slovenska. (skryte titulky)</desc>
     <episode-num system="xmltv_ns">.19.</episode-num>
   </programme>
-  <programme start="20260330215300 +0000" stop="20260330225000 +0000" channel="Jednotka HD.sk">
-    <title>Duel šampionov</title>
-    <desc>Vedomostná súťaž s jedným moderátorom a dvoma výnimočnými hráčmi. (skryte titulky)</desc>
+  <programme start="20260401075500 +0000" stop="20260401093000 +0000" channel="Dvojka HD.sk">
+    <title>Četnícke humoresky II</title>
+    <sub-title>Táta</sub-title>
+    <desc>&quot;Četnicke humoresky&quot; prinášajú detektívne i vesele príbehy z prostredia žandárskej pátracej stanice na vidieku, pri meste Brno. Dej seriálu sa odohráva v období Prvej republiky, v druhej polovici tridsiatych rokov minuleho storočia. Kriminálne zápletky v seriáli vychádzajú zo skutočných kriminálnych prípadov, ktore boli vybrane z archívov. (skryte titulky)</desc>
+    <episode-num system="xmltv_ns">.6.</episode-num>
+  </programme>
+  <programme start="20260401103000 +0000" stop="20260401112000 +0000" channel="Dvojka HD.sk">
+    <title>Ruža z Herátu</title>
+    <desc>Televízna inscenácia spracovaná na motívy uzbeckej legendy. Lyrický príbeh lásky básnika Ališera Navoiho a Giuli, dcery tkáča. V druhej polovici 15.storočia žil slávny básnik, zakladateľ uzbeckej literatúry. Bol nielen vynikajúcim básnikom, ale mal aj take povahove vlastnosti, že legenda o jeho dobrote pretrvala stáročia. Na dvore u sultána sa však musel preukázať i ako dôvtipný a múdry radca, ktorý si i v tých najťažších chvíľach uchováva česť a hrdosť. (skryte titulky)</desc>
+  </programme>
+  <programme start="20260401112000 +0000" stop="20260401120000 +0000" channel="Dvojka HD.sk">
+    <title>Rozprávač</title>
+    <desc>Profil spisovateľa zasl. umelca Ladislava Balleka. Autorov život a práca. Zamyslenie autora - hovorí o svojej tvorbe. Celý film je bez komentára, hovorí iba L.Ballek - synchron. Materiál je natočený v okolí Levíc. Prírodná sceneria, kvety, orol, vodný mlan, zátišie v okolí mlyna. Konský povoz ide po ceste. Foto L.Balleka s rodičmi.Mestečko Palánok, zátišia dvorov, ploty, zvieratá, kvety. Ballek - sediaci v tráve - hovorí o svojej tvorbe. Bociany na komíne v hniezde.</desc>
+    <episode-num system="xmltv_ns">49..</episode-num>
+  </programme>
+  <programme start="20260401120000 +0000" stop="20260401125500 +0000" channel="Dvojka HD.sk">
+    <title>Caravaggio - v nádhere tieňov</title>
+    <desc>Sugestívny portret talianskeho barokoveho maliara Michelangela Merisiho da Caravaggio sleduje jeho dramatický životný príbeh od detstva v Lombardii cez obdobie veľkeho úspechu v Ríme až po násilný pád, ktorý vyústil do vyhnanstva po vražde a úteku pred pápežskou justíciou. Film pripomína, že Caravaggiova povaha bola rovnako búrlivá ako jeho tvorba - umelec sa pohyboval medzi aristokratickými mecenášmi a temnými uličkami mesta, často sa zapájal do bitiek a niekoľkokrát skončil vo vazení.</desc>
+  </programme>
+  <programme start="20260401125500 +0000" stop="20260401135500 +0000" channel="Dvojka HD.sk">
+    <title>Záhada obrazcov na planine Nazca</title>
+    <desc>Od prvých objavov až po najnovšie archeologicke nálezy - odhalíme vám všetko, čo dnes vieme o záhadných líniách na planine Nazca v južnej Amerike. V Peru. (skryte titulky)</desc>
+  </programme>
+  <programme start="20260401135500 +0000" stop="20260401143000 +0000" channel="Dvojka HD.sk">
+    <title>360° okolo sveta</title>
+    <sub-title>India, slony ako predmet sporu</sub-title>
+    <desc>Seriál oceňovaných reportáží prináša nezvyčajne stretnutia so zaujímavými ľuďmi a pozoruhodnými zvieratami z celeho sveta. Tvorcovia cestovali na Sardíniu za výrobcami jedinečneho morskeho hodvábu, sprevádzali hľadačov kryštálov vo Švajčiarsku a nazreli aj do zákulisia Švajčiarskej gardy vo Vatikáne. Priniesli emotívne reportáže o ohrozených gepardoch v Namíbii, terapeutických delfínoch na ostrove Curacao, vzácnych kajkách z Islandu či majestátnych mantách z Maldiv.</desc>
+    <episode-num system="xmltv_ns">.4.</episode-num>
+  </programme>
+  <programme start="20260401143000 +0000" stop="20260401153000 +0000" channel="Dvojka HD.sk">
+    <title>Regina</title>
+    <desc>Denný magazín o živote v regionoch. (skryte titulky)</desc>
+    <episode-num system="xmltv_ns">.15.</episode-num>
+  </programme>
+  <programme start="20260401155500 +0000" stop="20260401163000 +0000" channel="Dvojka HD.sk">
+    <title>Moja diagnoza</title>
+    <sub-title>Nove výzvy v liečbe karcinomu pažeráka</sub-title>
+    <desc>Andrejka, žena plná života miluje pohyb, rodinu, krásu prírody a svoju záhradu. Má veľkú rodinu a je na ňu hrdá. Z krásneho života ju vytrhli nenápadne zdravotne problemy. Najskôr sa ozvala nevysvetliteľná únava a problemy s prehĺtaním. Nikdy nebývala chorá tak nemala dôvod predpokladať, že sa v jej tele skrýva zhubný karcinom pažeráka. Myslela na stres alebo pracovne preťaženie, až kým nešla na gastrofibroskopiu. Čakala ju veľká a závažná operácia a boj o to, či bude žiť...</desc>
+    <episode-num system="xmltv_ns">.2.</episode-num>
+  </programme>
+  <programme start="20260401181000 +0000" stop="20260401190000 +0000" channel="Dvojka HD.sk">
+    <title>Zvieratá z Biblie</title>
+    <desc>Biblia, jeden z najznámejších textov na svete, už cele tisícročia poskytuje obrovske množstvo ponaučení a posolstiev nielen pre kresťanov. Okrem Boha, svatcov, prorokov a hriešnikov je plná odkazov na zvieratá, ktore slúžia nielen ako žive tvory, ale aj ako symboly viery, hriechu, či vykúpenia. Všetci poznajú príbehy, ktorých súčasťou sú nevinná ovca, pokorný somár alebo pokušiteľský had. Vedeli ste však, že sa v Biblii spomínajú aj gazely, levy, damany či dokonca pštrosy?</desc>
+  </programme>
+  <programme start="20260401190000 +0000" stop="20260401195500 +0000" channel="Dvojka HD.sk">
+    <title>Nečakane tragedie</title>
+    <sub-title>Nehody v zábavných parkoch</sub-title>
+    <desc>Adrenalínove atrakcie majú posúvať hranice vzrušenia, no seria tragických udalostí ukazuje, ako sa aj technologicky vyspele zariadenia môžu v zlomku sekundy zmeniť na pascu. Diváci sledujú otrasnú nehodu atrakcie Fire Ball v americkom Ohiu, kde skrytá korozia oslabila oceľovú konštrukciu natoľko, že počas jazdy došlo k jej fatálnemu zlomeniu. Príbeh preživšej tínedžerky odhaľuje, ake následky môže mať jediná prehliadnutá technická chyba a nedbanlivá kontrola.</desc>
+    <episode-num system="xmltv_ns">.4.</episode-num>
+  </programme>
+  <programme start="20260401195500 +0000" stop="20260401204500 +0000" channel="Dvojka HD.sk">
+    <title>Do kríža</title>
+    <desc>Diskusná relácia. (skryte titulky)</desc>
+    <episode-num system="xmltv_ns">.10.</episode-num>
+  </programme>
+  <programme start="20260401204500 +0000" stop="20260401224200 +0000" channel="Dvojka HD.sk">
+    <title>O BARIPEN - Le periben o Elena Lackovo</title>
+    <desc>Elena Lacková je považovaná za jednu z kľúčových osobností romskej kultúry. Či už sa jedná o jej dramatickú a literárnu tvorbu, alebo osvetovú činnosť počas obdobia komunizmu, ale aj po Nežnej revolúcii. Jej mottom je hrdosť. Po stopách svojej prababky pátra aj Alžbeta Ferencová, pravnučka Eleny Lackovej. /Verzia s romskymi titulkami/ (skryte titulky)</desc>
+  </programme>
+  <programme start="20260401224400 +0000" stop="20260401233500 +0000" channel="Dvojka HD.sk">
+    <title>Správy N</title>
+    <desc>(skryte titulky)</desc>
+  </programme>
+  <programme start="20260401233500 +0000" stop="20260402033500 +0000" channel="Dvojka HD.sk">
+    <title>Hírek</title>
+    <desc>Spravodajstvo v jazyku maďarskej menšiny. (skryte titulky)</desc>
+    <episode-num system="xmltv_ns">.60.</episode-num>
   </programme>
   <programme start="20260330225000 +0000" stop="20260330234000 +0000" channel="Jednotka HD.sk">
     <title>Správy N</title>
@@ -1285,99 +1220,101 @@
     <title>Správy N</title>
     <desc>(skryte titulky)</desc>
   </programme>
-  <programme start="20260329220000 +0000" stop="20260329235000 +0000" channel="Markíza HD.sk">
-    <title>Manžel na prenájom</title>
-    <desc>Krásna a bohatá dedička Lola (Nadine Velazquez) má pred sebou zásadnú životnú podmienku - do svojich dvadsiatich piatych narodenín sa musí vydať, inak príde o značnú časť rodinneho dedičstva. Keď však len 48 hodín pred rozhodujúcim termínom pristihne svojho snúbenca pri nevere, jej dokonalý plán sa zrúti. V časovej tiesni sa rozhodne pre odvážne riešenie - najme si „manžela na prenájom“.</desc>
+  <programme start="20260401033000 +0000" stop="20260401050000 +0000" channel="Jednotka HD.sk">
+    <title>Dámsky klub</title>
+    <desc>Radosti a starosti nielen zo sveta žien. Dámsky klub je denný magazín o ženách pre ženy, ktorý vám ponúka rady, postrehy, námety, odpovede na otázky a problemy, ktore trápia súčasnú ženu (skryte titulky)</desc>
   </programme>
-  <programme start="20260329235000 +0000" stop="20260330020000 +0000" channel="Markíza HD.sk">
-    <title>V lete ti poviem, ako sa mám</title>
-    <desc>Tesne pred Vianocami oznámi Ivane (Tereza Kostková), ktorá žije len pre rodinu, jej manžel Martin (Marián Miezga) vec, ktorá jej zničí sviatky, a o ktorej vie len ich spoločná kamarátka Adriana (Dana Rogoz), rozvodová právnička. Tá sa ako jediná z partie nevydala a nemá deti. Žije sama, ale udržiava pomer so svojim šefom Filipom (Martin Hofmann).</desc>
+  <programme start="20260401050000 +0000" stop="20260401063000 +0000" channel="Jednotka HD.sk">
+    <title>Ranne správy</title>
+    <desc>Najdôležitejšie informácie, rozhovory na aktuálne temy, očakávane udalosti začínajúceho sa dňa. (skryte titulky)</desc>
+    <episode-num system="xmltv_ns">.60.</episode-num>
   </programme>
-  <programme start="20260330020000 +0000" stop="20260330030000 +0000" channel="Markíza HD.sk">
-    <title>Rodinne prípady</title>
-    <sub-title>Ženske zaležitosti</sub-title>
-    <desc>Rodiny sú rôzne a aj život v nich prebieha rôznym spôsobom. Aj pri najlepšej snahe sa rodičom výchova detí občas vymkne z rúk a hotove nešťastie je na svete. Inokedy stačí, že sa začlenia do nesprávnej partie a celá rodina má zrazu zo života peklo! Presne takýmito situáciami sa zaoberá nový formát s názvom Rodinne prípady (skryte titulky)</desc>
-    <episode-num system="xmltv_ns">.6.</episode-num>
-  </programme>
-  <programme start="20260330030000 +0000" stop="20260330040000 +0000" channel="Markíza HD.sk">
-    <title>TELEVÍZNE NOVINY</title>
-    <desc>Aktuálne a dynamicke informácie z politickej a spoločensko-kultúrnej sfery z domova i zo zahraničia.</desc>
-  </programme>
-  <programme start="20260330040000 +0000" stop="20260330062500 +0000" channel="Markíza HD.sk">
-    <title>Teleráno</title>
-    <desc>Ranne vysielanie televízie Markíza.</desc>
-  </programme>
-  <programme start="20260330062500 +0000" stop="20260330074000 +0000" channel="Markíza HD.sk">
-    <title>Zámena manželiek</title>
-    <sub-title>Andrea a Petra</sub-title>
-    <desc>Ako si poradí temperamentná Petra v rodine so siedmimi deťmi a nie príliš tolerantným oteckom k tomu? Dokáže sa pokojná Andrea prispôsobiť domácnosti s dvoma pubertiakmi? Úspešná reality šou, v ktorej si dve ženy vymenia domácnosť na desať dní, ktore strávia pod dohľadom noveho manžela, nových detí a hlavne televíznej kamery!</desc>
-  </programme>
-  <programme start="20260330074000 +0000" stop="20260330084500 +0000" channel="Markíza HD.sk">
-    <title>Sľub</title>
-    <desc>Michal a Zuzana experimentujú. Kamilu niekto sleduje. Andrea berie tehotenstvo vážne.</desc>
-    <episode-num system="xmltv_ns">2.43.</episode-num>
-  </programme>
-  <programme start="20260330084500 +0000" stop="20260330094500 +0000" channel="Markíza HD.sk">
-    <title>Rodinne prípady</title>
-    <sub-title>Druhý dych</sub-title>
-    <desc>Rodiny sú rôzne a aj život v nich prebieha rôznym spôsobom. Aj pri najlepšej snahe sa rodičom výchova detí občas vymkne z rúk a hotove nešťastie je na svete. Inokedy stačí, že sa začlenia do nesprávnej partie a celá rodina má zrazu zo života peklo! Presne takýmito situáciami sa zaoberá nový formát s názvom Rodinne prípady (skryte titulky)</desc>
-    <episode-num system="xmltv_ns">.10.</episode-num>
-  </programme>
-  <programme start="20260330094500 +0000" stop="20260330105000 +0000" channel="Markíza HD.sk">
-    <title>Rodinne prípady</title>
-    <sub-title>Dobrá rodina</sub-title>
-    <desc>Rodiny sú rôzne a aj život v nich prebieha rôznym spôsobom. Aj pri najlepšej snahe sa rodičom výchova detí občas vymkne z rúk a hotove nešťastie je na svete. Inokedy stačí, že sa začlenia do nesprávnej partie a celá rodina má zrazu zo života peklo! Presne takýmito situáciami sa zaoberá nový formát s názvom Rodinne prípady (skryte titulky)</desc>
-    <episode-num system="xmltv_ns">.7.</episode-num>
-  </programme>
-  <programme start="20260330105000 +0000" stop="20260330115000 +0000" channel="Markíza HD.sk">
-    <title>Monk</title>
-    <sub-title>Všetko najlepšie, pán Monk!</sub-title>
-    <desc>Tony Shalhoub v roli velice zvláštního a obsesivního detektiva Adriana Monka, který trpí psychologickou poruchou, která ho již připravila o skvělou pozici policejního detektiva v oddělení vražd u San Franciske policie. Kvůli tragicke a nevyjasněne vraždě jeho manželky si vybudoval abnormální odpor k davům, rušným ulicím, bakteriíím, mleku a dalším věcem, což mu ale v jistých chvíích velice napomáhá k vyřešení případů.</desc>
-    <episode-num system="xmltv_ns">7.8.</episode-num>
-  </programme>
-  <programme start="20260330115000 +0000" stop="20260330125000 +0000" channel="Markíza HD.sk">
-    <title>Monk</title>
-    <sub-title>Pán Monk a Sharona</sub-title>
-    <desc>Tony Shalhoub v roli velice zvláštního a obsesivního detektiva Adriana Monka, který trpí psychologickou poruchou, která ho již připravila o skvělou pozici policejního detektiva v oddělení vražd u San Franciske policie. Kvůli tragicke a nevyjasněne vraždě jeho manželky si vybudoval abnormální odpor k davům, rušným ulicím, bakteriíím, mleku a dalším věcem, což mu ale v jistých chvíích velice napomáhá k vyřešení případů.</desc>
-    <episode-num system="xmltv_ns">7.9.</episode-num>
-  </programme>
-  <programme start="20260330125000 +0000" stop="20260330135500 +0000" channel="Markíza HD.sk">
-    <title>Susedske prípady</title>
-    <sub-title>Svadba</sub-title>
-    <desc>Janka a Andrej prežívali najkrajšie obdobie života - o dva týždne sa mali brať. Snažili sa naplánovať každý detail svadby. Niekoľko dní pred obradom však niekto z rodiny náhle zistí, že sobáš treba za každú cenu zrušiť...</desc>
+  <programme start="20260401065500 +0000" stop="20260401075500 +0000" channel="Jednotka HD.sk">
+    <title>Detektívi zo severu II</title>
+    <sub-title>Cez palubu</sub-title>
+    <desc>Finn Kiesewetter opustil políciu so zámerom venovať sa ekologickej farme. Ale keď ju zničí požiar, Finn si uvedomí, že je zničený a nútený vrátiť sa k orgánom činným v trestnom konaní. Vracia sa do rodneho Lubecku, kde sa bude odohrávať dej seriálu. Mesto Lubeck, súčasť svetoveho dedičstva, ponúka množstvo atraktívnych scen. (skryte titulky)</desc>
     <episode-num system="xmltv_ns">.13.</episode-num>
   </programme>
-  <programme start="20260330135500 +0000" stop="20260330150000 +0000" channel="Markíza HD.sk">
-    <title>Rodinne prípady</title>
-    <sub-title>Bezdomovec</sub-title>
-    <desc>Rodina Adámkovcov žila spokojným životom, Martinovi sa už roky darilo v banke na manažerskom poste. Po návrate z luxusnej dovolenky sa však objavia nečakane problemy. Martin je obvinený z toho, že ukradol peniaze... (skryte titulky)</desc>
+  <programme start="20260401075500 +0000" stop="20260401090000 +0000" channel="Jednotka HD.sk">
+    <title>Siska</title>
+    <sub-title>Leonardovo tajomstvo</sub-title>
+    <desc>Kriminálny seriál, v hlavnej úlohe s vyšetrovateľom Petrom Siskom. Je to tzv. typicky europska detektívka, seriál produkuje známy producent úspešneho seriálu Derrick...Tento je už &quot;modernejší</desc>
+    <episode-num system="xmltv_ns">.15.</episode-num>
+  </programme>
+  <programme start="20260401090000 +0000" stop="20260401093000 +0000" channel="Jednotka HD.sk">
+    <title>Duel</title>
+    <desc>V 1. kole moderátor v časovom limite 60 sekúnd položí každemu hráčovi maximálne desať otázok. Za každú správnu odpoveď pribudne na konto hráča 30 eur. V prípade, že hráč správne odpovie na desať otázok získa premiu 100 eur. Otázky 1. kola nemajú vizuálnu textovú podobu. Pre 2. kolo je pripravených dvadsať otázok, ktore sú zaradene do desiatich tematických okruhov – každý tematický okruh má dve otázky.</desc>
+  </programme>
+  <programme start="20260401093000 +0000" stop="20260401100000 +0000" channel="Jednotka HD.sk">
+    <title>Všade dobre, doma naj</title>
+    <desc>Traja súťažiaci, tri kolá, štipka taktiky a napatie až do konca - to je súťaž Všade dobre, doma naj s moderátorom Martinom Nikodýmom. V 1. kole odpovedajú traja súťažiaci na každú z 8 otázok moderátora výberom zo štyroch možností. Za každú správnu odpoveď získavajú 5 bodov. Do druheho kola postupujú dvaja hráči s najvyššími počtami bodov. V 2. kole majú dvaja súťažiaci striedavo možnosť voliť si otázku z množiny dvanástich tem, ktore sú odlíšene bodovým ohodnotením (5 - 10 - 15 bodov).</desc>
+    <episode-num system="xmltv_ns">.159.</episode-num>
+  </programme>
+  <programme start="20260401102500 +0000" stop="20260401120500 +0000" channel="Jednotka HD.sk">
+    <title>Dámsky klub</title>
+    <desc>Radosti a starosti nielen zo sveta žien. Dámsky klub je denný magazín o ženách pre ženy, ktorý vám ponúka rady, postrehy, námety, odpovede na otázky a problemy, ktore trápia súčasnú ženu (skryte titulky)</desc>
+  </programme>
+  <programme start="20260401120500 +0000" stop="20260401124500 +0000" channel="Jednotka HD.sk">
+    <title>Tajomstvo mojej kuchyne</title>
+    <desc>Najlepšie recepty Kamily Magálovej, Pavla Pospíšila a ich hostí. (skryte titulky)</desc>
+    <episode-num system="xmltv_ns">.12.</episode-num>
+  </programme>
+  <programme start="20260401131000 +0000" stop="20260401140000 +0000" channel="Jednotka HD.sk">
+    <title>Pobrežná hliadka: Bodamske jazero</title>
+    <sub-title>Nebezpečne sny</sub-title>
+    <desc>Napínave príbehy s kriminálnymi zápletkami sa odohrávajú v malebnom alpskom prostredí pri Bodamskom jazere. Fanúšikovia zločinu si prídu na svoje pri vyšetrovaní medzinárodných intríg, popretkávaných medziľudskými vzťahmi a konfliktami medzi detektívmi. (skryte titulky)</desc>
+    <episode-num system="xmltv_ns">.26.</episode-num>
+  </programme>
+  <programme start="20260401140000 +0000" stop="20260401143500 +0000" channel="Jednotka HD.sk">
+    <title>Správy</title>
+    <desc>Najdôležitejšie udalosti uplynulých hodín, aktuálne dianie doma aj vo svete. (skryte titulky)</desc>
+  </programme>
+  <programme start="20260401150000 +0000" stop="20260401155000 +0000" channel="Jednotka HD.sk">
+    <title>Detektívi zo severu II</title>
+    <sub-title>Stredoveká pomsta</sub-title>
+    <desc>Finn Kiesewetter opustil políciu so zámerom venovať sa ekologickej farme. Ale keď ju zničí požiar, Finn si uvedomí, že je zničený a nútený vrátiť sa k orgánom činným v trestnom konaní. Vracia sa do rodneho Lubecku, kde sa bude odohrávať dej seriálu. Mesto Lubeck, súčasť svetoveho dedičstva, ponúka množstvo atraktívnych scen. (skryte titulky)</desc>
+    <episode-num system="xmltv_ns">.14.</episode-num>
+  </programme>
+  <programme start="20260401155500 +0000" stop="20260401163000 +0000" channel="Jednotka HD.sk">
+    <title>Duel</title>
+    <desc>V 1. kole moderátor v časovom limite 60 sekúnd položí každemu hráčovi maximálne desať otázok. Za každú správnu odpoveď pribudne na konto hráča 30 eur. V prípade, že hráč správne odpovie na desať otázok získa premiu 100 eur. Otázky 1. kola nemajú vizuálnu textovú podobu. Pre 2. kolo je pripravených dvadsať otázok, ktore sú zaradene do desiatich tematických okruhov – každý tematický okruh má dve otázky.</desc>
+  </programme>
+  <programme start="20260401163000 +0000" stop="20260401170000 +0000" channel="Jednotka HD.sk">
+    <title>Všade dobre, doma naj</title>
+    <desc>Traja súťažiaci, tri kolá, štipka taktiky a napatie až do konca - to je súťaž Všade dobre, doma naj s moderátorom Martinom Nikodýmom. V 1. kole odpovedajú traja súťažiaci na každú z 8 otázok moderátora výberom zo štyroch možností. Za každú správnu odpoveď získavajú 5 bodov. Do druheho kola postupujú dvaja hráči s najvyššími počtami bodov. V 2. kole majú dvaja súťažiaci striedavo možnosť voliť si otázku z množiny dvanástich tem, ktore sú odlíšene bodovým ohodnotením (5 - 10 - 15 bodov).</desc>
+    <episode-num system="xmltv_ns">.160.</episode-num>
+  </programme>
+  <programme start="20260401170000 +0000" stop="20260401175500 +0000" channel="Jednotka HD.sk">
+    <title>Správy</title>
+    <desc>(skryte titulky)</desc>
+  </programme>
+  <programme start="20260401183000 +0000" stop="20260401201000 +0000" channel="Jednotka HD.sk">
+    <title>Vraždy v Arbois</title>
+    <desc>Renomovaný biolog na dôchodku Adrien Bailly sa stane obeťou vraždy. Miestom, kde nájdu jeho telo, je Múzeum Louisa Pasteura v Arbois a vyšetrovatelia zistia, že príčinou jeho smrti bola besnota. Kapitán Hugo Villermoz, ktorý prípad vyšetruje spolu s Julie Dorleacovou čoskoro zisťuje, že Dorleacová o ňom má naozaj veľa informácií a smť Baillyho nebol jediný dôvod, prečo prišla do Arbois. (skryte titulky)</desc>
+  </programme>
+  <programme start="20260401201000 +0000" stop="20260401214100 +0000" channel="Jednotka HD.sk">
+    <title>Kolos na hlinených nohách</title>
+    <desc>Bývalý hráč rugby Sebastien je navonok tvrdý chlap, vo svojom vnútri však nosí tajomstvo. Počas dospievania ho sexuálne zneužíval rodinný priateľ. Sebastian o svojom utrpení mlčal aby ochránil svoju rodinu a ani po tridsiatich rokoch neprehovoril. Keď však stretne chlapca, ktorý prechádza podobným utrpením, musí sa rozhodnúť, či ďalej bude v sebe dusiť svoje tajomstvo, alebo konečne prehovorí v záujme spravodlivosti. (skryte titulky)</desc>
+  </programme>
+  <programme start="20260401214300 +0000" stop="20260401231500 +0000" channel="Jednotka HD.sk">
+    <title>Doktorka Alexandra</title>
+    <sub-title>Odkaz pre večnosť</sub-title>
+    <desc>Alexandra Ehleová, je súdna lekárka v Ústave súdneho lekárstva vo francúzskom Bordeaux. S plným nasadením sa venuje svojej práci a za svoje poslanie považuje prinavrátiť mŕtvym dôstojnosť a dosiahnuť pre nich spravodlivosť. Aj preto sa často púšťa do vlastneho pátrania. To sa nepáči Antoinovi Doisneauovi, veliteľovi policajnej jednotky, ktoreho svojimi intuitívnymi postupmi neraz predstihne. Alexandre asistuje mladý Theo Durrel, nováčik na oddelení súdneho lekárstva.</desc>
     <episode-num system="xmltv_ns">.11.</episode-num>
   </programme>
-  <programme start="20260330155500 +0000" stop="20260330170000 +0000" channel="Markíza HD.sk">
-    <title>Sľub</title>
-    <desc>Matej viní rodičov. Dávid zatají Natáliu. Lekvár ponúkne Jožovi prácu.</desc>
-    <episode-num system="xmltv_ns">2.44.</episode-num>
+  <programme start="20260401231500 +0000" stop="20260402000500 +0000" channel="Jednotka HD.sk">
+    <title>Správy N</title>
+    <desc>(skryte titulky)</desc>
   </programme>
-  <programme start="20260330170000 +0000" stop="20260330180000 +0000" channel="Markíza HD.sk">
-    <title>TELEVÍZNE NOVINY</title>
-    <desc>Aktuálne a dynamicke informácie z politickej a spoločensko-kultúrnej sfery z domova i zo zahraničia.</desc>
+  <programme start="20260402003500 +0000" stop="20260402012500 +0000" channel="Jednotka HD.sk">
+    <title>Pobrežná hliadka: Bodamske jazero</title>
+    <sub-title>Nebezpečne sny</sub-title>
+    <desc>Napínave príbehy s kriminálnymi zápletkami sa odohrávajú v malebnom alpskom prostredí pri Bodamskom jazere. Fanúšikovia zločinu si prídu na svoje pri vyšetrovaní medzinárodných intríg, popretkávaných medziľudskými vzťahmi a konfliktami medzi detektívmi. (skryte titulky)</desc>
+    <episode-num system="xmltv_ns">.26.</episode-num>
   </programme>
-  <programme start="20260330183000 +0000" stop="20260330195000 +0000" channel="Markíza HD.sk">
-    <title>Pán profesor</title>
-    <sub-title>Rodina</sub-title>
-    <desc>Rodinný komediálny seriál o stredoškolskom učiteľovi s veľmi nekonvenčnými metodami výuky. Čeliť musí nielen problemom svojich študentov, ale aj tým vo svojom súkromí.</desc>
-    <episode-num system="xmltv_ns">5.9.</episode-num>
-  </programme>
-  <programme start="20260330195000 +0000" stop="20260330210000 +0000" channel="Markíza HD.sk">
-    <title>Výnimočná Nikol</title>
-    <desc>Nikol, Matej a deti sa nasťahovali ku Samovi, ktorý nedokáže pochopiť, ako na nich mohol spadnúť strop. Kadlec zisťuje, že Nikol je až do odvolania suspendovaná kvôli vyšetrovaniu Soni Vagnerovej. Keď jej povie, že nemôže pomôcť v prípade tridsiatničky, ktorú dvakrát postrelili, Nikol je bez seba. Rýchlo však nachádza cestu k prípadu prostredníctvom dobráka Sama, ktoremu dá ponuku, aká sa nedá odmietnuť.</desc>
-    <episode-num system="xmltv_ns">1.1.</episode-num>
-  </programme>
-  <programme start="20260330210000 +0000" stop="20260330221000 +0000" channel="Markíza HD.sk">
-    <title>Špecialisti</title>
-    <sub-title>Skythovia</sub-title>
-    <desc>Elitný tím policajtov v každej epizode hľadá páchateľa tých najzávažnejších trestných činov. Seriál je plný akčných scen, ktore sú neodmysliteľnou súčasťou policajnej práce. Divákom bude opať poodhalene aj súkromie jednotlivých vyšetrovateľov. Ich blízki sú im často nápomocní pri riešení kriminálnych prípadov.</desc>
-    <episode-num system="xmltv_ns">7.8.</episode-num>
+  <programme start="20260402012500 +0000" stop="20260402022000 +0000" channel="Jednotka HD.sk">
+    <title>Správy N</title>
+    <desc>(skryte titulky)</desc>
   </programme>
   <programme start="20260330221000 +0000" stop="20260330230000 +0000" channel="Markíza HD.sk">
     <title>Monk</title>
@@ -1516,5 +1453,114 @@
     <sub-title>Bezdomovec</sub-title>
     <desc>Rodina Adámkovcov žila spokojným životom, Martinovi sa už roky darilo v banke na manažerskom poste. Po návrate z luxusnej dovolenky sa však objavia nečakane problemy. Martin je obvinený z toho, že ukradol peniaze... (skryte titulky)</desc>
     <episode-num system="xmltv_ns">.11.</episode-num>
+  </programme>
+  <programme start="20260401030000 +0000" stop="20260401040000 +0000" channel="Markíza HD.sk">
+    <title>TELEVÍZNE NOVINY</title>
+    <desc>Aktuálne a dynamicke informácie z politickej a spoločensko-kultúrnej sfery z domova i zo zahraničia.</desc>
+  </programme>
+  <programme start="20260401040000 +0000" stop="20260401062500 +0000" channel="Markíza HD.sk">
+    <title>Teleráno</title>
+    <desc>Ranne vysielanie televízie Markíza.</desc>
+  </programme>
+  <programme start="20260401062500 +0000" stop="20260401073500 +0000" channel="Markíza HD.sk">
+    <title>Zámena manželiek</title>
+    <sub-title>Jana a Lucka</sub-title>
+    <desc>Ako si poradí temperamentná Lucka v rodine s úplne iným prístupom k deťom, než pozná ona? Dokáže sa Jana prispôsobiť domácnosti, kde je otec zvyknutý na kompletný servis? Úspešná reality šou, v ktorej si dve ženy vymenia domácnosť na desať dní, ktore strávia pod dohľadom noveho manžela, nových detí a hlavne televíznej kamery!</desc>
+  </programme>
+  <programme start="20260401073500 +0000" stop="20260401083500 +0000" channel="Markíza HD.sk">
+    <title>Sľub</title>
+    <desc>Zuzana s Michalom sa zblížia. Natália prespí u Dávida. Barboru dovezie VB.</desc>
+    <episode-num system="xmltv_ns">2.45.</episode-num>
+  </programme>
+  <programme start="20260401083500 +0000" stop="20260401095500 +0000" channel="Markíza HD.sk">
+    <title>Dunaj, k vašim službám</title>
+    <desc>Kristína sa ocitá v smrteľnom nebezpečenstve. Alena s Klárou sa dozvedajú šokujúce skutočnosti. Nemci majú nový veľkolepý plán. Irene príde nečakaná pošta a Ondrík s Veronikou nájdu útočisko na nečakanom mieste. Partizáni objavia v zrube votrelca. Gardisti si našli príšerný spôsob, ako naplniť transport a dve postavy nám odhalia svoje temne tajomstvá...</desc>
+    <episode-num system="xmltv_ns">12.17.</episode-num>
+  </programme>
+  <programme start="20260401095500 +0000" stop="20260401110500 +0000" channel="Markíza HD.sk">
+    <title>Policie Modrava</title>
+    <sub-title>Neznámy útočník</sub-title>
+    <desc>V Sušicku niekto v krátkom intervale znásilnil tri mlade ženy. Polícia nemá žiadne indície, napadnute nie sú schopne páchateľa popísať. Muž mal vždy na hlave kuklu. Vyzerá to, že sa do vyšetrovania vloží kriminálka z Plzne a Jane Vinickej tento prípad odoberú. Policajti z Kašperských hor však objavia nečakanú stopu a nakoniec prípad úspešne objasnia.</desc>
+    <episode-num system="xmltv_ns">2.5.</episode-num>
+  </programme>
+  <programme start="20260401110500 +0000" stop="20260401120000 +0000" channel="Markíza HD.sk">
+    <title>Monk</title>
+    <sub-title>Pán Monk je ženíchov svedok</sub-title>
+    <desc>Kapitán Stotlemeyer prizve Monka k prípadu beštiálnej vraždy. Vrah obeť postrelil, potom ju polial alkoholom a zapálil. Počas vyšetrovania kapitán Monka požiada, aby mu išiel na svadbe za svedka. Zverí mu dokonca snubný prsteň pre svoju priateľku T.K. Tá medzitým hľadá svoju družičku Stephanii, ktorú predošleho večera zatkli, keď išla svojím autom nedovolenou rýchlosťou. Stottlemeyer zariadi, aby bola Stephanie prepustená a potom sa s nevestou vracia domov a zistí, že jeho byt niekto prehľadal</desc>
+    <episode-num system="xmltv_ns">7.12.</episode-num>
+  </programme>
+  <programme start="20260401120000 +0000" stop="20260401130000 +0000" channel="Markíza HD.sk">
+    <title>Monk</title>
+    <sub-title>Pán Monk a policajný odznak</sub-title>
+    <desc>Monk bol konečne prijatý spať do radov polície. Na oddelení sa mu dostáva vreleho privítania, je však sklamaný, že nie je prizvaný k práci v terene na horúcom prípade serioveho vraha nazývaneho Pick Axe, ktorý oddelenie práve rieši. Ešte toho dňa je vrah zatknutý na základe oznámenia umývača okien Mannyho Alvareza, ktorý ho poznal. O týždeň neskôr dostáva Monk noveho parťáka - detektíva Doyla</desc>
+    <episode-num system="xmltv_ns">7.13.</episode-num>
+  </programme>
+  <programme start="20260401130000 +0000" stop="20260401135500 +0000" channel="Markíza HD.sk">
+    <title>Susedske prípady</title>
+    <sub-title>Zberateľ</sub-title>
+    <desc>Starý mládenec Ernest býva spolu so sestrou v dome po rodičoch. Je zručný, privyrába si drobnými opravami u susedov a opravami starých foťákov. Jedneho dňa mu zmizne vzácny exemplár. Zdá sa, že fotoaparát ukradol susedov chlapec...</desc>
+    <episode-num system="xmltv_ns">.15.</episode-num>
+  </programme>
+  <programme start="20260401135500 +0000" stop="20260401150000 +0000" channel="Markíza HD.sk">
+    <title>Rodinne prípady</title>
+    <sub-title>Právo otca</sub-title>
+    <desc>Rodiny sú rôzne a aj život v nich prebieha rôznym spôsobom. Aj pri najlepšej snahe sa rodičom výchova detí občas vymkne z rúk a hotove nešťastie je na svete. Inokedy stačí, že sa začlenia do nesprávnej partie a celá rodina má zrazu zo života peklo! Presne takýmito situáciami sa zaoberá nový formát s názvom Rodinne prípady (skryte titulky)</desc>
+    <episode-num system="xmltv_ns">.13.</episode-num>
+  </programme>
+  <programme start="20260401155500 +0000" stop="20260401170000 +0000" channel="Markíza HD.sk">
+    <title>Sľub</title>
+    <desc>Zuzana zraní Michala. Matej prezradí Romanovi tajomstvo. Kto nahradí Andreu?</desc>
+    <episode-num system="xmltv_ns">2.46.</episode-num>
+  </programme>
+  <programme start="20260401170000 +0000" stop="20260401180000 +0000" channel="Markíza HD.sk">
+    <title>TELEVÍZNE NOVINY</title>
+    <desc>Aktuálne a dynamicke informácie z politickej a spoločensko-kultúrnej sfery z domova i zo zahraničia.</desc>
+  </programme>
+  <programme start="20260401183000 +0000" stop="20260401200000 +0000" channel="Markíza HD.sk">
+    <title>Na nože</title>
+    <sub-title>Red Horse Restaurant</sub-title>
+    <desc>Divácky hit Na nože pokračuje v roku 2026 ďalšími premierovými časťami. V čisto slovenskej verzii formátu Kitchen Nightmares si srdcia divákov okamžite získal renomovaný a viacerými prestížnymi oceneniami ovenčený šefkuchár Martin Novák, ktorý sa pustil do skutočne náročnej misie - podať pomocnú ruku reštauráciám, ktore sa z najrôznejších dôvodov ocitli v kríze, alebo dokonca na hranici krachu.</desc>
+    <episode-num system="xmltv_ns">4.9.</episode-num>
+  </programme>
+  <programme start="20260401200000 +0000" stop="20260401213500 +0000" channel="Markíza HD.sk">
+    <title>Utajený šef</title>
+    <sub-title>Branko - Marek Horváth</sub-title>
+    <desc>BRANKO: Šiesta epizoda 2. serie prinesie divákom zaujímavosti z prostredia piateho najvačšieho chovateľa moriek v Europe, nitrianskej spoločnosti Branko. Utajený šef Marek Horváth sa v prestrojení za brigádnika Dominika pozrie, ako sa v jeho firme využívajú technologie a či zmena, ktorou ich kúpou do spoločnosti priniesol je problemom, alebo je „pes zakopaný“ niekde úplne inde.</desc>
+    <episode-num system="xmltv_ns">1.5.</episode-num>
+  </programme>
+  <programme start="20260401213500 +0000" stop="20260401223500 +0000" channel="Markíza HD.sk">
+    <title>Špecialisti</title>
+    <sub-title>Taxi</sub-title>
+    <desc>Elitný tím policajtov v každej epizode hľadá páchateľa tých najzávažnejších trestných činov. Seriál je plný akčných scen, ktore sú neodmysliteľnou súčasťou policajnej práce. Divákom bude opať poodhalene aj súkromie jednotlivých vyšetrovateľov. Ich blízki sú im často nápomocní pri riešení kriminálnych prípadov.</desc>
+    <episode-num system="xmltv_ns">7.9.</episode-num>
+  </programme>
+  <programme start="20260401223500 +0000" stop="20260401233000 +0000" channel="Markíza HD.sk">
+    <title>Monk</title>
+    <sub-title>Pán Monk je ženíchov svedok</sub-title>
+    <desc>Kapitán Stotlemeyer prizve Monka k prípadu beštiálnej vraždy. Vrah obeť postrelil, potom ju polial alkoholom a zapálil. Počas vyšetrovania kapitán Monka požiada, aby mu išiel na svadbe za svedka. Zverí mu dokonca snubný prsteň pre svoju priateľku T.K. Tá medzitým hľadá svoju družičku Stephanii, ktorú predošleho večera zatkli, keď išla svojím autom nedovolenou rýchlosťou. Stottlemeyer zariadi, aby bola Stephanie prepustená a potom sa s nevestou vracia domov a zistí, že jeho byt niekto prehľadal</desc>
+    <episode-num system="xmltv_ns">7.12.</episode-num>
+  </programme>
+  <programme start="20260401233000 +0000" stop="20260402001500 +0000" channel="Markíza HD.sk">
+    <title>Monk</title>
+    <sub-title>Pán Monk a policajný odznak</sub-title>
+    <desc>Monk bol konečne prijatý spať do radov polície. Na oddelení sa mu dostáva vreleho privítania, je však sklamaný, že nie je prizvaný k práci v terene na horúcom prípade serioveho vraha nazývaneho Pick Axe, ktorý oddelenie práve rieši. Ešte toho dňa je vrah zatknutý na základe oznámenia umývača okien Mannyho Alvareza, ktorý ho poznal. O týždeň neskôr dostáva Monk noveho parťáka - detektíva Doyla</desc>
+    <episode-num system="xmltv_ns">7.13.</episode-num>
+  </programme>
+  <programme start="20260402001500 +0000" stop="20260402013000 +0000" channel="Markíza HD.sk">
+    <title>Zámena manželiek</title>
+    <sub-title>Petra a Pavlína</sub-title>
+    <desc>Ako si poradí temperamentná Pavlína s nezamestnaným oteckom, navyše v prostredí, ktore je jej cudzie? Dokáže sa pokojná Petra prispôsobiť rodine s vačšími deťmi? Úspešná reality šou, v ktorej si dve ženy vymenia domácnosť na desať dní, ktore strávia pod dohľadom noveho manžela, nových detí a hlavne televíznej kamery!</desc>
+  </programme>
+  <programme start="20260402013000 +0000" stop="20260402021500 +0000" channel="Markíza HD.sk">
+    <title>Susedske prípady</title>
+    <sub-title>Zberateľ</sub-title>
+    <desc>Starý mládenec Ernest býva spolu so sestrou v dome po rodičoch. Je zručný, privyrába si drobnými opravami u susedov a opravami starých foťákov. Jedneho dňa mu zmizne vzácny exemplár. Zdá sa, že fotoaparát ukradol susedov chlapec...</desc>
+    <episode-num system="xmltv_ns">.15.</episode-num>
+  </programme>
+  <programme start="20260402021500 +0000" stop="20260402030000 +0000" channel="Markíza HD.sk">
+    <title>Rodinne prípady</title>
+    <sub-title>Únos</sub-title>
+    <desc>Ivana je slobodná matka, ktorá žije so synom Jakubom. S Vilom - Jakubovým otcom, bývalým investigatívnym novinárom, sa o chlapca súdia od jeho narodenia. Otec a syn sa však pravidelne tajne stretávajú. Jedneho dňa Jakub zmizne... (skryte titulky)</desc>
+    <episode-num system="xmltv_ns">.12.</episode-num>
   </programme>
 </tv>
