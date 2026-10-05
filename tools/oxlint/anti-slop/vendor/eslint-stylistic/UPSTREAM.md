@@ -23,6 +23,8 @@ The opinionated policy lives outside this directory in `../../rules/require-read
 
 ## Updating and verification
 
-Fetch an explicit upstream revision, compare the original rule and types against this revision, and port relevant fixes while retaining the adapters above. Update this record and preserve the license. Run `pnpm check` and `pnpm sync:skill-assets` as required by repository guidance.
+Fetch an explicit upstream revision, compare the original rule and types against this revision, and port relevant fixes while retaining the adapters above. Update this record and preserve the license.
 
-Focused Oxlint RuleTester cases live in `../../rules/require-readable-spacing.test.ts`; they test exact fixes, JSDoc/trailing comments, same-line statements, semicolon-free code, TypeScript exports/overloads, Effect-style generators, and upstream removal behavior. `../../rules/require-readable-spacing-cli.test.ts` verifies the exported plugin through the native Oxlint CLI on multiple files, including rejection, autofix, and repeated-fix stability. The complete upstream JS/TS test suites have not been ported; this is focused compatibility evidence, not a claim of full upstream conformance.
+The anti-slop development repository has the `pnpm check` and `pnpm sync:skill-assets` commands. Its focused tests are [src/rules/require-readable-spacing.test.ts](https://github.com/dmmulroy/anti-slop/blob/c44ef22ca116d0ba62a3ff663a0bd13a3f3fa40b/src/rules/require-readable-spacing.test.ts) and [src/rules/require-readable-spacing-cli.test.ts](https://github.com/dmmulroy/anti-slop/blob/c44ef22ca116d0ba62a3ff663a0bd13a3f3fa40b/src/rules/require-readable-spacing-cli.test.ts). They cover exact fixes, comments, statement forms, and native CLI autofix stability. These commands and tests are not included in this repository. The complete Stylistic JS/TS test suites have not been ported.
+
+For local application verification, run `npm run lint`. See [the baseline](../../../../../docs/anti-slop-baseline.md) for source coverage, syntax checks, and repeated-fix results. Application lint is not a replacement for upstream rule tests.

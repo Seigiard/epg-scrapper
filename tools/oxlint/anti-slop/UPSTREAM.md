@@ -5,6 +5,7 @@
 - Copied directory: `skills/install-anti-slop/assets/anti-slop/`
 - Installed directory: `tools/oxlint/anti-slop/`
 - Plugin implementation: unchanged upstream assets.
+- Local documentation: nested Stylistic provenance distinguishes upstream development checks from local application checks and links to the upstream tests.
 - Local packaging: a private `package.json` declares the plugin ESM without changing the host package module mode.
 - Oxlint and `@oxlint/plugins`: `1.87.0`, exact matching versions.
 - Coverage: all 18 generic rules plus `oxc/no-accumulating-spread`, at error severity.

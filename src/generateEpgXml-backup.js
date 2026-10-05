@@ -27,6 +27,7 @@ async function generateEpgXml() {
     const xmlPromises = CONFIG.CHANNEL_IDS.map((channelId) => fetchChannelProgramsXml(channelId));
     const xmlResponses = await Promise.all(xmlPromises);
     const xmlPrograms = xmlResponses.map((xml, i) => xmlParsePrograms(CONFIG.CHANNEL_IDS[i], xml));
+
     return `<?xml version="1.0" encoding="UTF-8" ?>
       <tv generator-info-name="TV Program">
       ${xmlChannels}
@@ -43,9 +44,11 @@ async function fetchChannelList(channelIds) {
     const channelParam = channelIds.join(",");
     const response = await fetch(`${CONFIG.BASE_URLS.channels}?channel_cid_arr=${channelParam}`);
     const data = await response.text();
+
     return data;
   } catch (error) {
     console.error("Error fetching channel list:", error.message);
+
     return null;
   }
 }
@@ -54,9 +57,11 @@ async function fetchChannelProgramsXml(channelId) {
   try {
     const response = await fetch(`${CONFIG.BASE_URLS.programs}?channel_cid=${channelId}`);
     const data = await response.text();
+
     return data;
   } catch (error) {
     console.error(`Error fetching channel ${channelId}:`, error.message);
+
     return null;
   }
 }
@@ -103,6 +108,7 @@ function xmlParsePrograms(channelId, xml) {
 
 function formatTimestamp(timestamp) {
   const date = new Date(timestamp * 1000);
+
   return (
     date.getFullYear() +
     String(date.getMonth() + 1).padStart(2, "0") +

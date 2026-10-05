@@ -7,6 +7,6 @@ On the unchanged source at `a29f1ba6ac9dfa99cb74f144d872294a3f899c25`, lint exit
 - `index.js:2`
 - `src/generateEpgXml-backup.js:30,46,49,57,60,106`
 
-The active generator, `src/generateEpgXml.js`, has no findings. The backup is owned source and stays in scope. No source cleanup or rule suppression is included. A separate spacing change can resolve this baseline before the draft is made ready.
+The cleanup adds the seven missing blank lines. `npm run lint` now passes with zero findings across all three owned source files. The backup stays in scope, and all rule severities are unchanged. A second autofix pass leaves the source unchanged. The repository has no configured formatter.
 
 There is no configured typecheck. The existing `test` script is a placeholder that always fails and is preserved. Verification used lint and `node --check` on all three source files, without running the network scraper.
