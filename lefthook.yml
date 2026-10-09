@@ -1,0 +1,10 @@
+glob_matcher: doublestar
+
+pre-commit:
+  piped: true
+  jobs:
+    - name: javascript-syntax
+      glob: '**/*.{js,cjs,mjs}'
+      run: for file in {staged_files}; do node --check "$file" || exit; done
+    - name: whitespace
+      run: git diff --cached --check
